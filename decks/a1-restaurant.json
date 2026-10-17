@@ -1,0 +1,149 @@
+{
+  "id": "a1-restaurant",
+  "title": "Restaurant – Imbiss – Einladung",
+  "subtitle": "Essen und Trinken · DaF leicht A1",
+  "type": "vocab",
+  "sections": [
+    {
+      "title": "Im Restaurant",
+      "ru": "В ресторане",
+      "words": [
+        {"de": "das Restaurant", "pl": "-s", "ru": "ресторан", "note": "мн.ч. die Restaurants"},
+        {"de": "besetzt", "ru": "занят (о месте, столике)"},
+        {"de": "frei", "ru": "свободен"},
+        {"de": "die Speisekarte", "pl": "-n", "ru": "меню"},
+        {"de": "die Karte", "pl": "-n", "ru": "меню (коротко); карта; открытка", "note": "в ресторане чаще говорят просто die Karte"},
+        {"de": "anbieten", "ru": "предлагать", "note": "отделяемый: Was bieten Sie an?"},
+        {"de": "bestellen", "ru": "заказывать"},
+        {"de": "rauchen", "ru": "курить"},
+        {"de": "empfehlen", "ru": "рекомендовать, советовать", "note": "e→ie: du empfiehlst, er empfiehlt"},
+        {"de": "bringen", "ru": "приносить"}
+      ],
+      "phrases": [
+        {"de": "Ist der Tisch frei? – Nein, er ist besetzt.", "ru": "Столик свободен? – Нет, он занят."},
+        {"de": "Bringen Sie uns bitte die Speisekarte.", "ru": "Принесите нам, пожалуйста, меню."},
+        {"de": "Was können Sie empfehlen?", "ru": "Что вы можете порекомендовать?"},
+        {"de": "Können wir bitte bestellen?", "ru": "Можно нам сделать заказ?"}
+      ]
+    },
+    {
+      "title": "Bezahlen",
+      "ru": "Оплата",
+      "words": [
+        {"de": "die Rechnung", "pl": "-en", "ru": "счёт", "note": "Die Rechnung, bitte! — Счёт, пожалуйста!"},
+        {"de": "kosten", "ru": "стоить", "note": "Was kostet das?"},
+        {"de": "zahlen", "ru": "платить", "note": "Zahlen, bitte! — Рассчитайте нас!"},
+        {"de": "bezahlen", "ru": "оплачивать (что-то)", "note": "Ich bezahle das Essen."},
+        {"de": "zufrieden", "ru": "довольный", "note": "Sind Sie zufrieden?"},
+        {"de": "Damen / Herren", "ru": "женский / мужской туалет", "note": "надписи на дверях"},
+        {"de": "das Trinkgeld", "pl": "-er", "ru": "чаевые", "note": "в Германии обычно 5–10 %, часто просто округляют сумму"}
+      ],
+      "phrases": [
+        {"de": "Die Rechnung, bitte!", "ru": "Счёт, пожалуйста!"},
+        {"de": "Zusammen oder getrennt?", "ru": "Вместе или раздельно? (вопрос официанта)"},
+        {"de": "Stimmt so.", "ru": "Сдачи не надо."},
+        {"de": "Kann ich mit Karte zahlen?", "ru": "Можно оплатить картой?"}
+      ],
+      "tip": "Stimmt so — так говорят, отдавая чуть больше суммы счёта: остаток идёт на чаевые."
+    },
+    {
+      "title": "Essen",
+      "ru": "Еда",
+      "words": [
+        {"de": "der Hunger", "pl": "Sg.", "ru": "голод", "note": "Ich habe Hunger. — Я голоден."},
+        {"de": "das Lieblingsessen", "pl": "-", "ru": "любимое блюдо"},
+        {"de": "die Pommes frites", "pl": "Pl.", "ru": "картошка фри", "note": "в разговоре просто Pommes"},
+        {"de": "der Salat", "pl": "-e", "ru": "салат"},
+        {"de": "der Kuchen", "pl": "-", "ru": "пирог, торт"},
+        {"de": "mögen", "ru": "любить, нравиться (вообще)", "note": "ich mag, du magst, er mag"},
+        {"de": "möchten", "ru": "хотел(а) бы (вежливо, сейчас)", "note": "в ресторане: Ich möchte einen Salat."},
+        {"de": "essen", "ru": "есть, кушать", "note": "e→i: du isst, er isst"},
+        {"de": "schmecken", "ru": "быть вкусным, нравиться на вкус", "note": "Es schmeckt (mir) gut."},
+        {"de": "bitter", "ru": "горький"},
+        {"de": "aussehen", "ru": "выглядеть", "note": "отделяемый + a→ie: Das sieht gut aus."},
+        {"de": "wunderbar", "ru": "чудесный, замечательный"},
+        {"de": "(sehr) gut", "ru": "(очень) хорошо"},
+        {"de": "schlecht", "ru": "плохо, плохой"}
+      ],
+      "phrases": [
+        {"de": "Hast du Hunger?", "ru": "Ты голоден?"},
+        {"de": "Ich mag keinen Salat.", "ru": "Я не люблю салат."},
+        {"de": "Schmeckt es Ihnen?", "ru": "Вам нравится (на вкус)?"},
+        {"de": "Das sieht sehr gut aus.", "ru": "Это выглядит очень хорошо."},
+        {"de": "Ich möchte Pommes frites, bitte.", "ru": "Мне, пожалуйста, картошку фри."}
+      ],
+      "tip": "mögen = люблю вообще (Ich mag Kuchen). möchten = хотел бы сейчас (Ich möchte einen Kuchen). В ресторане и магазине всегда möchte."
+    },
+    {
+      "title": "Getränke",
+      "ru": "Напитки",
+      "words": [
+        {"de": "der Durst", "pl": "Sg.", "ru": "жажда", "note": "Ich habe Durst. — Я хочу пить."},
+        {"de": "das Getränk", "pl": "-e", "ru": "напиток"},
+        {"de": "der Kaffee", "pl": "Sg.", "ru": "кофе"},
+        {"de": "der Saft", "pl": "¨-e", "ru": "сок", "note": "мн.ч. die Säfte"},
+        {"de": "der Wein", "pl": "Sg.", "ru": "вино"},
+        {"de": "das Bier", "pl": "Sg.", "ru": "пиво"},
+        {"de": "das Wasser", "pl": "Sg.", "ru": "вода"},
+        {"de": "das Glas", "pl": "¨-er", "ru": "стакан, бокал", "note": "мн.ч. die Gläser; ein Glas Wasser — стакан воды"}
+      ],
+      "phrases": [
+        {"de": "Ich habe Durst.", "ru": "Я хочу пить."},
+        {"de": "Ein Glas Wasser, bitte.", "ru": "Стакан воды, пожалуйста."},
+        {"de": "Möchten Sie etwas trinken?", "ru": "Хотите что-нибудь выпить?"}
+      ]
+    },
+    {
+      "title": "Einladung",
+      "ru": "Приглашение, в гостях",
+      "words": [
+        {"de": "die Einladung", "pl": "-en", "ru": "приглашение"},
+        {"de": "einladen", "ru": "приглашать", "note": "отделяемый + a→ä: er lädt mich ein"},
+        {"de": "sich freuen", "ru": "радоваться", "note": "Ich freue mich! — Я рад(а)!"},
+        {"de": "willkommen", "ru": "добро пожаловать"},
+        {"de": "der Gast", "pl": "¨-e", "ru": "гость", "note": "мн.ч. die Gäste"},
+        {"de": "das Geschenk", "pl": "-e", "ru": "подарок"},
+        {"de": "kochen", "ru": "готовить (еду), варить"},
+        {"de": "pünktlich", "ru": "пунктуальный, вовремя", "note": "в Германии приходить вовремя очень важно"},
+        {"de": "nur", "ru": "только"},
+        {"de": "geben", "ru": "давать", "note": "e→i: du gibst, er gibt"},
+        {"de": "nehmen", "ru": "брать", "note": "du nimmst, er nimmt"},
+        {"de": "die Entschuldigung", "pl": "Sg.", "ru": "извинение; извините!"},
+        {"de": "entschuldigen", "ru": "извинять", "note": "Entschuldigen Sie! — Извините!"},
+        {"de": "der Dank", "pl": "Sg.", "ru": "благодарность", "note": "Vielen Dank!"},
+        {"de": "danken", "ru": "благодарить", "note": "Ich danke Ihnen. (кому — Dativ)"},
+        {"de": "die Bitte", "pl": "-n", "ru": "просьба"},
+        {"de": "bitten", "ru": "просить"},
+        {"de": "gern(e)", "ru": "охотно, с удовольствием", "note": "Ich trinke gern Kaffee. — Я люблю пить кофе."},
+        {"de": "lieber", "ru": "охотнее, лучше (предпочтение)", "note": "Ich trinke lieber Tee. — Я лучше выпью чай."}
+      ],
+      "phrases": [
+        {"de": "Herzlich willkommen!", "ru": "Добро пожаловать!"},
+        {"de": "Könnten Sie mir bitte das Salz geben?", "ru": "Не могли бы вы передать мне соль?"},
+        {"de": "Entschuldigung, bitte.", "ru": "Извините, пожалуйста."},
+        {"de": "Vielen Dank!", "ru": "Большое спасибо!"},
+        {"de": "Danke!", "ru": "Спасибо!"},
+        {"de": "Ich danke Ihnen.", "ru": "Благодарю вас."},
+        {"de": "Nein, danke. / Ja, bitte.", "ru": "Нет, спасибо. / Да, пожалуйста."},
+        {"de": "Vielen Dank für die Einladung!", "ru": "Большое спасибо за приглашение!"}
+      ],
+      "tip": "gern → lieber: Ich trinke gern Kaffee, aber lieber Tee. — Кофе пью охотно, но чай больше."
+    },
+    {
+      "title": "Mahlzeiten",
+      "ru": "Приёмы пищи",
+      "words": [
+        {"de": "das Frühstück", "pl": "Sg.", "ru": "завтрак"},
+        {"de": "frühstücken", "ru": "завтракать"},
+        {"de": "das Mittagessen", "pl": "Sg.", "ru": "обед"},
+        {"de": "das Abendessen", "pl": "Sg.", "ru": "ужин"},
+        {"de": "das Essen", "pl": "Sg.", "ru": "еда; приём пищи"}
+      ],
+      "phrases": [
+        {"de": "Wann frühstückst du?", "ru": "Когда ты завтракаешь?"},
+        {"de": "Was gibt es zum Abendessen?", "ru": "Что будет на ужин?"},
+        {"de": "Guten Appetit!", "ru": "Приятного аппетита!"}
+      ]
+    }
+  ]
+}
