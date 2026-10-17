@@ -1,0 +1,527 @@
+{
+ "id": "a1-einkaufen",
+ "title": "Einkaufen",
+ "subtitle": "Essen und Trinken · DaF leicht A1",
+ "type": "vocab",
+ "sections": [
+  {
+   "title": "Einkaufen",
+   "ru": "Покупки",
+   "words": [
+    {
+     "de": "das Geschäft",
+     "ru": "магазин; также «дело, бизнес»",
+     "pl": "-e"
+    },
+    {
+     "de": "der Laden",
+     "ru": "магазин, лавка",
+     "pl": "¨-",
+     "note": "мн.ч. die Läden"
+    },
+    {
+     "de": "der Kiosk",
+     "ru": "киоск, ларёк",
+     "pl": "-e"
+    },
+    {
+     "de": "der Supermarkt",
+     "ru": "супермаркет",
+     "pl": "¨-e",
+     "note": "мн.ч. die Supermärkte"
+    },
+    {
+     "de": "der Verkäufer",
+     "ru": "продавец",
+     "pl": "-"
+    },
+    {
+     "de": "die Verkäuferin",
+     "ru": "продавщица",
+     "pl": "-nen"
+    },
+    {
+     "de": "der Kunde",
+     "ru": "покупатель, клиент",
+     "pl": "-n"
+    },
+    {
+     "de": "die Kundin",
+     "ru": "покупательница, клиентка",
+     "pl": "-nen"
+    },
+    {
+     "de": "das Angebot",
+     "ru": "предложение; акция",
+     "pl": "-e",
+     "note": "im Angebot — по акции"
+    },
+    {
+     "de": "kaufen",
+     "ru": "покупать"
+    },
+    {
+     "de": "einkaufen",
+     "ru": "делать покупки",
+     "note": "отделяемый: Ich kaufe ein."
+    },
+    {
+     "de": "holen",
+     "ru": "сходить за чем-то, принести"
+    },
+    {
+     "de": "mitbringen",
+     "ru": "принести с собой",
+     "note": "отделяемый: Ich bringe Wein mit."
+    },
+    {
+     "de": "brauchen",
+     "ru": "нуждаться; мне нужно…",
+     "note": "Ich brauche Brot. — Мне нужен хлеб."
+    },
+    {
+     "de": "bekommen",
+     "ru": "получать",
+     "note": "Ложный друг: НЕ «become»! Was bekommen Sie? — Что вам дать?"
+    },
+    {
+     "de": "möchten",
+     "ru": "хотел(а) бы (вежливо)"
+    },
+    {
+     "de": "schließen",
+     "ru": "закрывать(ся)"
+    },
+    {
+     "de": "auf sein",
+     "ru": "быть открытым (разг.)",
+     "note": "Der Laden ist auf."
+    },
+    {
+     "de": "zu sein",
+     "ru": "быть закрытым (разг.)",
+     "note": "Der Laden ist zu."
+    },
+    {
+     "de": "geschlossen",
+     "ru": "закрыто"
+    },
+    {
+     "de": "nichts",
+     "ru": "ничего"
+    },
+    {
+     "de": "auch",
+     "ru": "тоже, также; ещё"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Wann schließen Sie? – Um 20 Uhr.",
+     "ru": "Когда вы закрываетесь? – В 20 часов."
+    },
+    {
+     "de": "Der Laden ist geschlossen.",
+     "ru": "Магазин закрыт."
+    },
+    {
+     "de": "Was bekommen Sie? / Was möchten Sie?",
+     "ru": "Что вам? / Что вы хотели бы?"
+    },
+    {
+     "de": "Ich kaufe noch Milch.",
+     "ru": "Я ещё куплю молоко."
+    },
+    {
+     "de": "Holst du auch etwas Obst?",
+     "ru": "Ты возьмёшь ещё немного фруктов?"
+    },
+    {
+     "de": "Soll ich auch Getränke mitbringen?",
+     "ru": "Мне принести ещё и напитки?"
+    },
+    {
+     "de": "Ich brauche nichts.",
+     "ru": "Мне ничего не нужно."
+    }
+   ]
+  },
+  {
+   "title": "Geschäfte",
+   "ru": "Магазины",
+   "words": [
+    {
+     "de": "die Metzgerei",
+     "ru": "мясная лавка",
+     "pl": "-en"
+    },
+    {
+     "de": "das Fleisch",
+     "ru": "мясо",
+     "pl": "Sg."
+    },
+    {
+     "de": "der Schinken",
+     "ru": "ветчина",
+     "pl": "Sg."
+    },
+    {
+     "de": "die Bäckerei",
+     "ru": "пекарня, булочная",
+     "pl": "-en"
+    },
+    {
+     "de": "das Brot",
+     "ru": "хлеб",
+     "pl": "-e"
+    },
+    {
+     "de": "das Brötchen",
+     "ru": "булочка",
+     "pl": "-"
+    },
+    {
+     "de": "der Bäcker",
+     "ru": "пекарь",
+     "pl": "-",
+     "note": "zum Bäcker gehen — сходить в булочную"
+    },
+    {
+     "de": "die Bäckerin",
+     "ru": "пекарь (женщина)",
+     "pl": "-nen"
+    }
+   ]
+  },
+  {
+   "title": "Lebensmittel",
+   "ru": "Продукты",
+   "words": [
+    {
+     "de": "die Lebensmittel",
+     "ru": "продукты питания",
+     "pl": "Pl."
+    },
+    {
+     "de": "das Obst",
+     "ru": "фрукты (собир.)",
+     "pl": "Sg."
+    },
+    {
+     "de": "der Apfel",
+     "ru": "яблоко",
+     "pl": "¨-",
+     "note": "мн.ч. die Äpfel"
+    },
+    {
+     "de": "die Banane",
+     "ru": "банан",
+     "pl": "-n"
+    },
+    {
+     "de": "die Birne",
+     "ru": "груша; также «лампочка»",
+     "pl": "-n"
+    },
+    {
+     "de": "das Gemüse",
+     "ru": "овощи (собир.)",
+     "pl": "Sg."
+    },
+    {
+     "de": "der Salat",
+     "ru": "салат",
+     "pl": "-e"
+    },
+    {
+     "de": "die Tomate",
+     "ru": "помидор",
+     "pl": "-n"
+    },
+    {
+     "de": "die Paprika",
+     "ru": "сладкий перец",
+     "pl": "-s"
+    },
+    {
+     "de": "die Olive",
+     "ru": "оливка, маслина",
+     "pl": "-n"
+    },
+    {
+     "de": "der Reis",
+     "ru": "рис",
+     "pl": "Sg."
+    },
+    {
+     "de": "die Kartoffel",
+     "ru": "картофелина; мн.ч. — картошка",
+     "pl": "-n"
+    },
+    {
+     "de": "die Nudel",
+     "ru": "макаронина; die Nudeln — макароны",
+     "pl": "-n"
+    },
+    {
+     "de": "der Kaffee",
+     "ru": "кофе",
+     "pl": "Sg."
+    },
+    {
+     "de": "der Tee",
+     "ru": "чай",
+     "pl": "Sg."
+    },
+    {
+     "de": "der Zucker",
+     "ru": "сахар",
+     "pl": "Sg."
+    },
+    {
+     "de": "die Milch",
+     "ru": "молоко",
+     "pl": "Sg."
+    },
+    {
+     "de": "die Sahne",
+     "ru": "сливки",
+     "pl": "Sg."
+    },
+    {
+     "de": "der Kuchen",
+     "ru": "пирог, торт, кекс",
+     "pl": "-"
+    },
+    {
+     "de": "die Butter",
+     "ru": "сливочное масло",
+     "pl": "Sg."
+    },
+    {
+     "de": "das Öl",
+     "ru": "растительное масло",
+     "pl": "Sg."
+    },
+    {
+     "de": "das Ei",
+     "ru": "яйцо",
+     "pl": "-er",
+     "note": "мн.ч. die Eier"
+    },
+    {
+     "de": "der Fisch",
+     "ru": "рыба",
+     "pl": "-e"
+    },
+    {
+     "de": "das Hähnchen",
+     "ru": "курица (как еда)",
+     "pl": "-"
+    },
+    {
+     "de": "das Salz",
+     "ru": "соль",
+     "pl": "Sg."
+    },
+    {
+     "de": "das Getränk",
+     "ru": "напиток",
+     "pl": "-e"
+    },
+    {
+     "de": "der Saft",
+     "ru": "сок",
+     "pl": "¨-e",
+     "note": "мн.ч. die Säfte"
+    },
+    {
+     "de": "das Wasser",
+     "ru": "вода",
+     "pl": "Sg."
+    },
+    {
+     "de": "der Wein",
+     "ru": "вино",
+     "pl": "-e"
+    },
+    {
+     "de": "das Bier",
+     "ru": "пиво",
+     "pl": "-e"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Ich nehme einen Kaffee mit Milch.",
+     "ru": "Я возьму кофе с молоком."
+    },
+    {
+     "de": "Wo finde ich das Salz?",
+     "ru": "Где мне найти соль?"
+    }
+   ]
+  },
+  {
+   "title": "Mengen",
+   "ru": "Количество",
+   "words": [
+    {
+     "de": "viel",
+     "ru": "много"
+    },
+    {
+     "de": "wenig",
+     "ru": "мало"
+    },
+    {
+     "de": "mehr",
+     "ru": "больше"
+    },
+    {
+     "de": "ein bisschen",
+     "ru": "немного, чуть-чуть"
+    },
+    {
+     "de": "der Liter",
+     "ru": "литр",
+     "pl": "- / l"
+    },
+    {
+     "de": "das Gramm",
+     "ru": "грамм",
+     "pl": "- / g"
+    },
+    {
+     "de": "das Pfund",
+     "ru": "фунт = полкило",
+     "pl": "- / 500 g"
+    },
+    {
+     "de": "das Kilo",
+     "ru": "килограмм",
+     "pl": "-s / kg"
+    },
+    {
+     "de": "das Glas",
+     "ru": "стакан; стеклянная банка",
+     "pl": "¨-er",
+     "note": "мн.ч. die Gläser"
+    },
+    {
+     "de": "das Stück",
+     "ru": "кусок; штука",
+     "pl": "-e"
+    },
+    {
+     "de": "die Flasche",
+     "ru": "бутылка",
+     "pl": "-n"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "200 Gramm Schinken, bitte.",
+     "ru": "200 грамм ветчины, пожалуйста."
+    },
+    {
+     "de": "Ich möchte ein halbes Kilo Tomaten.",
+     "ru": "Мне, пожалуйста, полкило помидоров."
+    },
+    {
+     "de": "Zwei Stück Kuchen, bitte.",
+     "ru": "Два куска пирога, пожалуйста."
+    },
+    {
+     "de": "Drei Flaschen Bier, bitte.",
+     "ru": "Три бутылки пива, пожалуйста."
+    },
+    {
+     "de": "Kann es ein bisschen mehr sein?",
+     "ru": "Можно чуть-чуть больше? (так спрашивает продавец)"
+    }
+   ],
+   "tip": "После числа Gramm, Kilo, Liter, Stück, Pfund остаются в ед.ч.: zwei Kilo, drei Stück. А Flasche и Glas идут во мн.ч.: drei Flaschen, zwei Gläser. Между количеством и продуктом ничего не ставится: 200 Gramm Schinken."
+  },
+  {
+   "title": "Bezahlen",
+   "ru": "Оплата",
+   "words": [
+    {
+     "de": "zahlen",
+     "ru": "платить"
+    },
+    {
+     "de": "bezahlen",
+     "ru": "оплачивать (что-то)",
+     "note": "Ich bezahle den Kaffee. — Я заплачу за кофе."
+    },
+    {
+     "de": "bar",
+     "ru": "наличными"
+    },
+    {
+     "de": "die Karte / Kreditkarte",
+     "ru": "карта / кредитная карта",
+     "pl": "-n",
+     "note": "mit Karte zahlen — платить картой"
+    },
+    {
+     "de": "das Geld",
+     "ru": "деньги",
+     "pl": "Sg."
+    },
+    {
+     "de": "die Kasse",
+     "ru": "касса",
+     "pl": "-n"
+    },
+    {
+     "de": "der Preis",
+     "ru": "цена",
+     "pl": "-e"
+    },
+    {
+     "de": "der Euro / der Cent",
+     "ru": "евро / цент",
+     "note": "1 Euro = 100 Cent"
+    },
+    {
+     "de": "kosten",
+     "ru": "стоить"
+    },
+    {
+     "de": "teuer",
+     "ru": "дорогой"
+    },
+    {
+     "de": "billig",
+     "ru": "дешёвый (иногда «дешёвка»)"
+    },
+    {
+     "de": "günstig",
+     "ru": "недорогой, выгодный (нейтрально)"
+    },
+    {
+     "de": "gleich",
+     "ru": "одинаковый; сейчас, сразу",
+     "note": "gleich teuer — одинаково дорого; Ich komme gleich. — Сейчас приду."
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Ich zahle bar.",
+     "ru": "Я плачу наличными."
+    },
+    {
+     "de": "Was kosten die Tomaten?",
+     "ru": "Сколько стоят помидоры?"
+    },
+    {
+     "de": "Kann ich mit Karte zahlen?",
+     "ru": "Можно оплатить картой?"
+    }
+   ]
+  }
+ ]
+}

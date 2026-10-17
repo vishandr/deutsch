@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Deutsch</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Deutsch">
+<meta name="theme-color" content="#F3F5F2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121815" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="top" id="top">
+  <button class="backBtn" id="back" hidden aria-label="Назад">‹ Колоды</button>
+  <div class="ttl"><h1 id="title">Deutsch</h1><p id="subtitle">Мои колоды</p></div>
+</header>
+
+<main class="wrap">
+  <!-- HOME -->
+  <section id="home">
+    <div id="deckList" class="decks"></div>
+    <div class="homeActions">
+      <label class="btn" for="importFile">Импорт колоды (.json)</label>
+      <input type="file" id="importFile" accept=".json,application/json" hidden>
+      <button class="btn" id="refresh">Обновить с сервера</button>
+    </div>
+    <p class="status" id="status"></p>
+  </section>
+
+  <!-- DECK -->
+  <section id="deck" hidden>
+    <div class="seg" id="tabs" role="group" aria-label="Режим"></div>
+
+    <div id="listView">
+      <div class="bar">
+        <div class="chips" id="chips"></div>
+        <label class="toggle"><input type="checkbox" id="hideRu"> Скрыть перевод (тап — показать)</label>
+      </div>
+      <div id="listBody"></div>
+    </div>
+
+    <div id="dialogView" hidden>
+      <div class="bar">
+        <div class="chips" id="hideWho"></div>
+        <label class="toggle"><input type="checkbox" id="hideRuD"> Скрыть перевод</label>
+      </div>
+      <div id="dialogBody"></div>
+    </div>
+
+    <div id="cardView" class="cardzone" hidden>
+      <div class="small">
+        <button class="btn sm" id="dir">DE → RU</button>
+        <button class="btn sm" id="incl">+ фразы: нет</button>
+        <button class="btn sm" id="weak">Все слова</button>
+        <button class="btn sm" id="shuffle">Заново</button>
+      </div>
+      <div class="card" id="card" tabindex="0" role="button" aria-label="Перевернуть карточку">
+        <div class="sp" id="sp"></div>
+        <div class="front" id="front"></div>
+        <div class="back" id="backTxt" hidden></div>
+        <div class="hint" id="hint">тап — показать ответ</div>
+      </div>
+      <div class="meter"><span id="meterFill"></span></div>
+      <div class="count" id="count"></div>
+      <div class="actions">
+        <button class="btn" id="again">Ещё раз</button>
+        <button class="btn primary" id="know">Знаю</button>
+      </div>
+      <div class="foot">
+        <button class="link" id="resetProg">Сбросить прогресс колоды</button>
+        <button class="link danger" id="delDeck" hidden>Удалить колоду</button>
+      </div>
+    </div>
+  </section>
+</main>
+<div class="toast" id="toast" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+{
+ "id": "a1-einkauf-planen",
+ "title": "Einen Einkauf planen",
+ "subtitle": "Диалог · DaF leicht A1 · Einkaufen",
+ "type": "dialog",
+ "speakers": {
+  "A": "Person A",
+  "B": "Person B"
+ },
+ "lines": [
+  {
+   "s": "A",
+   "de": "Was brauchen wir für das Wochenende?",
+   "ru": "Что нам нужно на выходные?"
+  },
+  {
+   "s": "B",
+   "de": "Nur Getränke, Obst, Butter und Brot! Gehst du in den Supermarkt?",
+   "ru": "Только напитки, фрукты, масло и хлеб! Ты пойдёшь в супермаркет?"
+  },
+  {
+   "s": "A",
+   "de": "Ja, ich nehme das Auto und kann die Getränke auch kaufen.",
+   "ru": "Да, я возьму машину и могу купить ещё и напитки."
+  },
+  {
+   "s": "B",
+   "de": "Bringst du auch das Brot mit?",
+   "ru": "Ты и хлеб принесёшь?"
+  },
+  {
+   "s": "A",
+   "de": "Ja. Wann schließt die Bäckerei?",
+   "ru": "Да. Когда закрывается пекарня?"
+  },
+  {
+   "s": "B",
+   "de": "Um 19 Uhr. Oh, es ist schon zehn nach sieben, die Bäckerei ist schon zu. Hat der kleine Laden an der Ecke noch auf oder bringst du Brot aus dem Supermarkt mit?",
+   "ru": "В 19 часов. Ой, уже десять минут восьмого, пекарня уже закрыта. Маленький магазин на углу ещё открыт, или ты принесёшь хлеб из супермаркета?"
+  },
+  {
+   "s": "A",
+   "de": "Ich bringe alles mit.",
+   "ru": "Я всё принесу."
+  }
+ ],
+ "notes": [
+  "mitbringen — отделяемый: Bringst du … mit? / Ich bringe alles mit.",
+  "schließen → die Bäckerei schließt (она закрывается).",
+  "zu sein → die Bäckerei ist zu (она закрыта). Синоним: ist geschlossen (ss!).",
+  "Hat der Laden noch auf? — разг. «Магазин ещё открыт?» (aufhaben)."
+ ]
+}

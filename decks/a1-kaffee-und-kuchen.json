@@ -1,0 +1,59 @@
+{
+ "id": "a1-kaffee-und-kuchen",
+ "title": "Kaffee und Kuchen",
+ "subtitle": "Диалог · DaF leicht A1 · Essen und Trinken",
+ "type": "dialog",
+ "speakers": {
+  "G": "Gastgeber",
+  "B": "Besuch"
+ },
+ "lines": [
+  {
+   "s": "G",
+   "de": "Was möchtest du trinken? Kaffee oder Tee?",
+   "ru": "Что ты будешь пить? Кофе или чай?"
+  },
+  {
+   "s": "B",
+   "de": "Kaffee, bitte.",
+   "ru": "Кофе, пожалуйста."
+  },
+  {
+   "s": "G",
+   "de": "Mit Milch und Zucker?",
+   "ru": "С молоком и сахаром?"
+  },
+  {
+   "s": "B",
+   "de": "Ja, aber bitte nur ganz wenig Zucker und viel Milch. Ich darf nicht so viel Zucker essen.",
+   "ru": "Да, но, пожалуйста, совсем мало сахара и много молока. Мне нельзя есть так много сахара."
+  },
+  {
+   "s": "G",
+   "de": "Nimmst du auch ein Stück Kuchen?",
+   "ru": "Возьмёшь ещё кусочек пирога?"
+  },
+  {
+   "s": "B",
+   "de": "Ja, ein ganz kleines.",
+   "ru": "Да, совсем маленький."
+  },
+  {
+   "s": "G",
+   "de": "Mit Sahne?",
+   "ru": "Со сливками?"
+  },
+  {
+   "s": "B",
+   "de": "Aber wirklich nur ganz wenig.",
+   "ru": "Но правда совсем чуть-чуть."
+  }
+ ],
+ "notes": [
+  "Kaffee — два f и два e; Tee — два e (не Tea).",
+  "wenig на конце пишется с g, звучит как «венихь».",
+  "Ich darf nicht… — мне нельзя… (глагол dürfen).",
+  "ein ganz kleines — потому что das Stück (ср.р.).",
+  "Kaffee und Kuchen — немецкая традиция: кофе с пирогом около 15–16 часов, особенно по воскресеньям."
+ ]
+}
