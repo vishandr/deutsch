@@ -2,6 +2,9 @@
  "decks": [
   "a1-einkaufen.json",
   "a1-wochenmarkt.json",
-  "a1-restaurant.json"
+  "a1-restaurant.json",
+  "a1-einkauf-planen.json",
+  "a1-kaffee-und-kuchen.json",
+  "a1-einladungen.json"
  ]
 }

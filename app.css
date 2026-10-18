@@ -93,6 +93,11 @@ h3{font:600 .75rem var(--font);letter-spacing:.08em;text-transform:uppercase;col
 .cardzone{display:flex;flex-direction:column;gap:12px}
 .small{display:flex;gap:6px;flex-wrap:wrap;justify-content:center}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:16px;min-height:250px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px 18px;cursor:pointer;user-select:none;-webkit-user-select:none;gap:10px}
+.card{position:relative}
+.say{border:0;background:none;color:var(--muted);font-size:1rem;line-height:0;padding:4px 6px;margin-left:4px;border-radius:6px;cursor:pointer;vertical-align:-2px}
+.say:active{color:var(--accent)}
+.line .who .say{font-size:.95rem;padding:0 4px}
+.card .say.big{position:absolute;top:8px;right:8px;font-size:1.4rem;padding:10px;margin:0}
 .card .sp{font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 .card .front{font-size:1.55rem;font-weight:700;text-wrap:balance;overflow-wrap:anywhere}
 .card .back{font-size:1.12rem;text-wrap:balance}

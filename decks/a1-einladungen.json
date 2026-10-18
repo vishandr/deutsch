@@ -1,0 +1,115 @@
+{
+ "id": "a1-einladungen",
+ "title": "Einladungen",
+ "subtitle": "Диалоги 1 и 3 · DaF leicht A1 · Einladung",
+ "type": "dialog",
+ "speakers": {
+  "W": "Herr Weikling",
+  "FW": "Frau Weikling",
+  "C": "Herr Chaudhuri",
+  "FC": "Frau Chaudhuri"
+ },
+ "lines": [
+  {
+   "s": "W",
+   "de": "Herr Chaudhuri, wir möchten Sie und Ihre Frau zum Essen einladen. Haben Sie am Samstag Zeit?",
+   "ru": "Господин Чаудхури, мы хотели бы пригласить вас с женой на ужин. У вас есть время в субботу?"
+  },
+  {
+   "s": "C",
+   "de": "Ja, danke. Wir freuen uns sehr.",
+   "ru": "Да, спасибо. Мы очень рады."
+  },
+  {
+   "s": "W",
+   "de": "Mögen Sie vegetarisches Essen? Ich koche nämlich gern vegetarisch.",
+   "ru": "Вы любите вегетарианскую еду? Дело в том, что я люблю готовить вегетарианское."
+  },
+  {
+   "s": "C",
+   "de": "Ja, sehr.",
+   "ru": "Да, очень."
+  },
+  {
+   "s": "W",
+   "de": "Schön, dann sind Sie am Samstag unsere Gäste. Wir freuen uns.",
+   "ru": "Отлично, тогда в субботу вы наши гости. Мы рады."
+  },
+  {
+   "s": "C",
+   "de": "Am Samstag haben wir eine Einladung bei Weiklings.",
+   "ru": "В субботу мы приглашены к Вайклингам."
+  },
+  {
+   "s": "FC",
+   "de": "Bei deinem Chef? Da müssen wir aber pünktlich sein.",
+   "ru": "К твоему начальнику? Тогда нам нужно прийти вовремя."
+  },
+  {
+   "s": "C",
+   "de": "Und wir brauchen ein Geschenk. Hast du eine Idee?",
+   "ru": "И нам нужен подарок. Есть идеи?"
+  },
+  {
+   "s": "FC",
+   "de": "Vielleicht Blumen für Frau Weikling und für ihn …? Keine Ahnung.",
+   "ru": "Может, цветы для фрау Вайклинг, а для него …? Понятия не имею."
+  },
+  {
+   "s": "FW",
+   "de": "Herzlich willkommen! Kommen Sie herein.",
+   "ru": "Добро пожаловать! Проходите."
+  },
+  {
+   "s": "C",
+   "de": "Guten Abend und vielen Dank für die Einladung.",
+   "ru": "Добрый вечер и большое спасибо за приглашение."
+  },
+  {
+   "s": "FW",
+   "de": "Das sind aber schöne Blumen. Ich danke Ihnen!",
+   "ru": "Какие красивые цветы! Благодарю вас!"
+  },
+  {
+   "s": "FC",
+   "de": "Wir müssen uns entschuldigen. Wir sind etwas zu spät. Der Verkehr …",
+   "ru": "Мы должны извиниться. Мы немного опоздали. Пробки …"
+  },
+  {
+   "s": "FW",
+   "de": "Aber das macht doch nichts.",
+   "ru": "Да ничего страшного."
+  },
+  {
+   "s": "W",
+   "de": "Kann ich Ihnen noch etwas Wein geben?",
+   "ru": "Можно налить вам ещё немного вина?"
+  },
+  {
+   "s": "C",
+   "de": "Nein, danke. Ich muss noch fahren.",
+   "ru": "Нет, спасибо. Мне ещё за руль."
+  },
+  {
+   "s": "W",
+   "de": "Und Sie, Frau Chaudhuri?",
+   "ru": "А вам, фрау Чаудхури?"
+  },
+  {
+   "s": "FC",
+   "de": "Ja, bitte, aber nur ganz wenig.",
+   "ru": "Да, пожалуйста, но совсем чуть-чуть."
+  }
+ ],
+ "notes": [
+  "Сцены: реплики 1–5 — Herr Weikling приглашает; 6–9 — Чаудхури дома; 10–18 — в гостях у Вайклингов.",
+  "zum Essen einladen — пригласить на ужин/обед. einladen отделяемый: Ich lade Sie ein.",
+  "sich freuen — возвратный: wir freuen uns, ich freue mich.",
+  "ein Geschenk — das Geschenk, средний род: в Akkusativ остаётся ein (НЕ einen).",
+  "Ich danke Ihnen — danken + Dativ (Ihnen, dir).",
+  "Wir müssen uns entschuldigen — после модального глагола инфинитив в конце.",
+  "bei Weiklings — у Вайклингов (дома). bei + фамилия во мн. ч. = «у семьи …».",
+  "Das macht nichts. — Ничего страшного.",
+  "nur ganz wenig — совсем чуть-чуть."
+ ]
+}
