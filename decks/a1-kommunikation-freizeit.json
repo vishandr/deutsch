@@ -1,0 +1,555 @@
+{
+ "id": "a1-kommunikation-freizeit",
+ "title": "Kommunikation – Freizeit",
+ "subtitle": "Телефон, интернет, друзья, свободное время, культура",
+ "type": "vocab",
+ "sections": [
+  {
+   "title": "Telefon und Internet",
+   "ru": "Телефон и интернет",
+   "words": [
+    {
+     "de": "der Anruf",
+     "ru": "звонок",
+     "pl": "-e"
+    },
+    {
+     "de": "anrufen",
+     "ru": "звонить",
+     "note": "отделяемый + Akk.: Ich rufe dich an."
+    },
+    {
+     "de": "das Festnetz",
+     "ru": "стационарный телефон",
+     "pl": "-e"
+    },
+    {
+     "de": "das Handy",
+     "ru": "мобильный телефон",
+     "pl": "-s"
+    },
+    {
+     "de": "das Smartphone",
+     "ru": "смартфон",
+     "pl": "-s"
+    },
+    {
+     "de": "die Mailbox",
+     "ru": "голосовая почта",
+     "pl": "-en"
+    },
+    {
+     "de": "der Anrufbeantworter",
+     "ru": "автоответчик",
+     "pl": "-",
+     "note": "сокращённо: der AB"
+    },
+    {
+     "de": "die SMS",
+     "ru": "СМС",
+     "pl": "-"
+    },
+    {
+     "de": "schicken",
+     "ru": "отправлять"
+    },
+    {
+     "de": "die Nachricht",
+     "ru": "сообщение; новость",
+     "pl": "-en"
+    },
+    {
+     "de": "die Ansage",
+     "ru": "объявление; приветствие автоответчика",
+     "pl": "-n"
+    },
+    {
+     "de": "die (E-)Mail",
+     "ru": "имейл",
+     "pl": "-s"
+    },
+    {
+     "de": "mailen",
+     "ru": "отправлять имейл"
+    },
+    {
+     "de": "das Internet",
+     "ru": "интернет",
+     "note": "только ед.ч."
+    },
+    {
+     "de": "surfen",
+     "ru": "сидеть в интернете"
+    },
+    {
+     "de": "die Homepage",
+     "ru": "сайт, домашняя страница",
+     "pl": "-s"
+    },
+    {
+     "de": "das Netzwerk",
+     "ru": "сеть",
+     "pl": "-e"
+    },
+    {
+     "de": "die Community",
+     "ru": "сообщество",
+     "pl": "-s"
+    },
+    {
+     "de": "der Link",
+     "ru": "ссылка",
+     "pl": "-s"
+    },
+    {
+     "de": "googeln",
+     "ru": "гуглить"
+    },
+    {
+     "de": "online",
+     "ru": "онлайн"
+    },
+    {
+     "de": "der Chat",
+     "ru": "чат",
+     "pl": "-s"
+    },
+    {
+     "de": "chatten",
+     "ru": "переписываться в чате"
+    },
+    {
+     "de": "der/das Blog",
+     "ru": "блог",
+     "pl": "-s"
+    },
+    {
+     "de": "bloggen",
+     "ru": "вести блог"
+    },
+    {
+     "de": "die Bloggerin",
+     "ru": "блогерша",
+     "pl": "-nen"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Ich rufe meinen Freund an.",
+     "ru": "Я звоню своему другу."
+    },
+    {
+     "de": "Auf Wiederhören.",
+     "ru": "До свидания (по телефону)."
+    },
+    {
+     "de": "eine SMS schreiben / schicken",
+     "ru": "написать / отправить СМС"
+    },
+    {
+     "de": "auf die Mailbox / den AB sprechen",
+     "ru": "оставить сообщение на автоответчике"
+    },
+    {
+     "de": "die Mailbox / den AB abhören",
+     "ru": "прослушать автоответчик"
+    },
+    {
+     "de": "im Internet surfen",
+     "ru": "сидеть в интернете"
+    }
+   ],
+   "tip": "anrufen + Akkusativ без предлога: Ich rufe dich an (а не «dir»)."
+  },
+  {
+   "title": "Freunde treffen",
+   "ru": "Встречи с друзьями",
+   "words": [
+    {
+     "de": "der/die Bekannte",
+     "ru": "знакомый / знакомая",
+     "pl": "-n",
+     "note": "но: ein Bekannter"
+    },
+    {
+     "de": "bekannt",
+     "ru": "известный, знакомый"
+    },
+    {
+     "de": "der Freund",
+     "ru": "друг; парень",
+     "pl": "-e"
+    },
+    {
+     "de": "die Freundin",
+     "ru": "подруга; девушка",
+     "pl": "-nen"
+    },
+    {
+     "de": "der/die Jugendliche",
+     "ru": "подросток, молодой человек",
+     "pl": "-n",
+     "note": "но: ein Jugendlicher"
+    },
+    {
+     "de": "der/die Erwachsene",
+     "ru": "взрослый / взрослая",
+     "pl": "-n",
+     "note": "но: ein Erwachsener"
+    },
+    {
+     "de": "die Leute",
+     "ru": "люди",
+     "note": "только мн.ч."
+    },
+    {
+     "de": "kennen",
+     "ru": "знать (кого-то, что-то)",
+     "note": "Ich kenne Anna."
+    },
+    {
+     "de": "(sich) treffen",
+     "ru": "встречать(ся)",
+     "note": "du triffst, er trifft"
+    },
+    {
+     "de": "abholen",
+     "ru": "забирать, заезжать за кем-то",
+     "note": "отделяемый"
+    },
+    {
+     "de": "mitnehmen",
+     "ru": "брать с собой",
+     "note": "отделяемый; du nimmst mit"
+    },
+    {
+     "de": "besuchen",
+     "ru": "навещать, посещать"
+    },
+    {
+     "de": "allein",
+     "ru": "один, одна"
+    },
+    {
+     "de": "die Zeit",
+     "ru": "время"
+    },
+    {
+     "de": "bleiben",
+     "ru": "оставаться"
+    },
+    {
+     "de": "zusammen",
+     "ru": "вместе"
+    },
+    {
+     "de": "böse sein (auf)",
+     "ru": "злиться (на)",
+     "note": "auf + Akk.: auf mich"
+    },
+    {
+     "de": "leider",
+     "ru": "к сожалению"
+    },
+    {
+     "de": "jung",
+     "ru": "молодой"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Hast du Zeit?",
+     "ru": "У тебя есть время?"
+    },
+    {
+     "de": "Ich habe keine Zeit.",
+     "ru": "У меня нет времени."
+    },
+    {
+     "de": "Ich möchte dich besuchen.",
+     "ru": "Я хочу зайти к тебе в гости."
+    },
+    {
+     "de": "Ich bleibe heute zu Hause.",
+     "ru": "Я сегодня остаюсь дома."
+    },
+    {
+     "de": "Bist du auf mich böse?",
+     "ru": "Ты на меня злишься?"
+    },
+    {
+     "de": "Gehst du allein ins Kino?",
+     "ru": "Ты идёшь в кино один?"
+    },
+    {
+     "de": "Ich kann leider nicht kommen.",
+     "ru": "К сожалению, я не могу прийти."
+    },
+    {
+     "de": "Du siehst jung aus.",
+     "ru": "Ты молодо выглядишь."
+    }
+   ],
+   "tip": "kennen — человека, место, вещь; wissen — факт: Ich weiß, wo das Kino ist."
+  },
+  {
+   "title": "Freizeit",
+   "ru": "Свободное время",
+   "words": [
+    {
+     "de": "die Freizeit",
+     "ru": "свободное время",
+     "note": "только ед.ч."
+    },
+    {
+     "de": "schlafen",
+     "ru": "спать",
+     "note": "du schläfst, er schläft"
+    },
+    {
+     "de": "aufstehen",
+     "ru": "вставать",
+     "note": "отделяемый"
+    },
+    {
+     "de": "(sich) anziehen",
+     "ru": "одевать(ся)",
+     "note": "отделяемый"
+    },
+    {
+     "de": "das Hobby",
+     "ru": "хобби",
+     "pl": "-s"
+    },
+    {
+     "de": "fernsehen",
+     "ru": "смотреть телевизор",
+     "note": "отделяемый; du siehst fern"
+    },
+    {
+     "de": "die Zeitung",
+     "ru": "газета",
+     "pl": "-en"
+    },
+    {
+     "de": "lesen",
+     "ru": "читать",
+     "note": "du liest, er liest"
+    },
+    {
+     "de": "das Schwimmbad",
+     "ru": "бассейн",
+     "pl": "-¨er"
+    },
+    {
+     "de": "schwimmen",
+     "ru": "плавать"
+    },
+    {
+     "de": "der Ausflug",
+     "ru": "поездка, вылазка на день",
+     "pl": "-¨e"
+    },
+    {
+     "de": "der Verein",
+     "ru": "клуб, общество",
+     "pl": "-e"
+    },
+    {
+     "de": "wandern",
+     "ru": "ходить в походы"
+    },
+    {
+     "de": "der Sport",
+     "ru": "спорт",
+     "note": "только ед.ч."
+    },
+    {
+     "de": "der Fußball",
+     "ru": "футбол; футбольный мяч"
+    },
+    {
+     "de": "gewinnen",
+     "ru": "выигрывать"
+    },
+    {
+     "de": "mitkommen",
+     "ru": "пойти вместе",
+     "note": "отделяемый"
+    },
+    {
+     "de": "mitmachen",
+     "ru": "участвовать",
+     "note": "отделяемый"
+    },
+    {
+     "de": "alle",
+     "ru": "все"
+    },
+    {
+     "de": "spielen",
+     "ru": "играть"
+    },
+    {
+     "de": "grillen",
+     "ru": "жарить на гриле"
+    },
+    {
+     "de": "gern(e)",
+     "ru": "охотно, с удовольствием",
+     "note": "gern → lieber → am liebsten"
+    },
+    {
+     "de": "lieber",
+     "ru": "охотнее, лучше"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Was machst du in deiner Freizeit?",
+     "ru": "Что ты делаешь в свободное время?"
+    },
+    {
+     "de": "Alle machen mit!",
+     "ru": "Все участвуют!"
+    },
+    {
+     "de": "Grillen wir heute zusammen?",
+     "ru": "Пожарим сегодня вместе на гриле?"
+    },
+    {
+     "de": "Ich esse gern Salat.",
+     "ru": "Я люблю салат."
+    },
+    {
+     "de": "Ich esse lieber Salat.",
+     "ru": "Я больше люблю салат."
+    }
+   ],
+   "tip": "Отделяемые глаголы: приставка уходит в конец — Ich stehe um 7 Uhr auf."
+  },
+  {
+   "title": "Kultur",
+   "ru": "Культура",
+   "words": [
+    {
+     "de": "die Kultur",
+     "ru": "культура",
+     "pl": "-en"
+    },
+    {
+     "de": "kulturell",
+     "ru": "культурный"
+    },
+    {
+     "de": "das Kino",
+     "ru": "кинотеатр",
+     "pl": "-s"
+    },
+    {
+     "de": "der Film",
+     "ru": "фильм",
+     "pl": "-e"
+    },
+    {
+     "de": "der Schauspieler",
+     "ru": "актёр",
+     "pl": "-"
+    },
+    {
+     "de": "die Schauspielerin",
+     "ru": "актриса",
+     "pl": "-nen"
+    },
+    {
+     "de": "wissen",
+     "ru": "знать (факт)",
+     "note": "ich weiß, du weißt, er weiß"
+    },
+    {
+     "de": "interessant",
+     "ru": "интересный"
+    },
+    {
+     "de": "cool",
+     "ru": "классный"
+    },
+    {
+     "de": "da sein",
+     "ru": "присутствовать, быть на месте"
+    },
+    {
+     "de": "das Konzert",
+     "ru": "концерт",
+     "pl": "-e"
+    },
+    {
+     "de": "das Ende",
+     "ru": "конец",
+     "note": "только ед.ч."
+    },
+    {
+     "de": "der Schluss",
+     "ru": "конец, окончание",
+     "note": "только ед.ч."
+    },
+    {
+     "de": "die Party",
+     "ru": "вечеринка",
+     "pl": "-s"
+    },
+    {
+     "de": "die Band",
+     "ru": "музыкальная группа",
+     "pl": "-s"
+    },
+    {
+     "de": "die Disco",
+     "ru": "дискотека",
+     "pl": "-s"
+    },
+    {
+     "de": "tanzen",
+     "ru": "танцевать"
+    },
+    {
+     "de": "Lieblings-",
+     "ru": "любимый (приставка)",
+     "note": "der Lieblingsfilm, das Lieblingslied"
+    },
+    {
+     "de": "das Lied",
+     "ru": "песня",
+     "pl": "-er"
+    },
+    {
+     "de": "die Musik",
+     "ru": "музыка",
+     "note": "только ед.ч."
+    },
+    {
+     "de": "lustig",
+     "ru": "весёлый, смешной"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Sind viele Leute da?",
+     "ru": "Там много людей?"
+    },
+    {
+     "de": "Das Konzert ist zu Ende.",
+     "ru": "Концерт закончился."
+    },
+    {
+     "de": "Zum Schluss spielen sie mein Lieblingslied.",
+     "ru": "В конце они играют мою любимую песню."
+    },
+    {
+     "de": "Ich höre gern Musik.",
+     "ru": "Я люблю слушать музыку."
+    }
+   ]
+  }
+ ]
+}

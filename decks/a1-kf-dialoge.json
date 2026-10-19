@@ -1,0 +1,224 @@
+{
+ "id": "a1-kf-dialoge",
+ "title": "Kommunikation – Freizeit: Dialoge",
+ "subtitle": "5 диалогов · DaF leicht A1",
+ "type": "dialog",
+ "speakers": {
+  "#": "▶",
+  "A": "Anna",
+  "B": "Ben",
+  "T": "Tom",
+  "S": "Sabine",
+  "AL": "Ali",
+  "BE": "Bea",
+  "K": "Kassiererin",
+  "J": "Jan",
+  "L": "Lena",
+  "M": "Mia"
+ },
+ "lines": [
+  {
+   "s": "#",
+   "de": "Dialog 1 · Kontakt aufnehmen",
+   "ru": "Связаться"
+  },
+  {
+   "s": "A",
+   "de": "Kann ich dich heute Abend um zehn Uhr anrufen?",
+   "ru": "Можно я позвоню тебе сегодня вечером в десять?"
+  },
+  {
+   "s": "B",
+   "de": "Ich bin im Kino, aber du kannst eine Nachricht auf der Mailbox sprechen oder eine SMS schicken.",
+   "ru": "Я буду в кино, но ты можешь оставить сообщение на автоответчике или отправить СМС."
+  },
+  {
+   "s": "A",
+   "de": "Habe ich deine Handy-Nummer?",
+   "ru": "У меня есть твой номер мобильного?"
+  },
+  {
+   "s": "B",
+   "de": "Ich denke schon. Du kannst mir aber auch mailen. Ich checke meine E-Mails morgens und abends.",
+   "ru": "Думаю, да. Но ты можешь мне и написать на почту. Я проверяю имейлы утром и вечером."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 2 · Ein Telefongespräch",
+   "ru": "Телефонный разговор"
+  },
+  {
+   "s": "T",
+   "de": "Hallo, Sabine! Wie geht es dir?",
+   "ru": "Привет, Сабина! Как дела?"
+  },
+  {
+   "s": "S",
+   "de": "Nicht so gut. Ich muss viel arbeiten und habe zu wenig Zeit.",
+   "ru": "Не очень. Мне надо много работать, и у меня слишком мало времени."
+  },
+  {
+   "s": "T",
+   "de": "Schade, ich wollte dich gerade besuchen.",
+   "ru": "Жаль, я как раз хотел к тебе зайти."
+  },
+  {
+   "s": "S",
+   "de": "Tut mir leid, aber das geht nicht.",
+   "ru": "Извини, но так не получится."
+  },
+  {
+   "s": "T",
+   "de": "Hmm, und heute Abend? Bleibst du zu Hause oder kommst du mit ins Kino?",
+   "ru": "Хм, а сегодня вечером? Ты останешься дома или пойдёшь со мной в кино?"
+  },
+  {
+   "s": "S",
+   "de": "Ich muss leider den ganzen Abend am Schreibtisch bleiben. Bist du jetzt böse auf mich?",
+   "ru": "К сожалению, мне придётся весь вечер просидеть за письменным столом. Ты теперь на меня злишься?"
+  },
+  {
+   "s": "T",
+   "de": "Nein, nicht auf dich, aber auf deine Arbeit! Ich möchte dich gern sehen und möchte auch nicht allein ins Kino gehen.",
+   "ru": "Нет, не на тебя, а на твою работу! Я очень хочу тебя увидеть и не хочу идти в кино один."
+  },
+  {
+   "s": "S",
+   "de": "Das verstehe ich, aber du kannst doch Klaus mitnehmen.",
+   "ru": "Я понимаю, но ты ведь можешь взять с собой Клауса."
+  },
+  {
+   "s": "T",
+   "de": "Das ist eine gute Idee und wir sehen uns bestimmt am Wochenende!",
+   "ru": "Хорошая идея, а мы обязательно увидимся на выходных!"
+  },
+  {
+   "s": "#",
+   "de": "Dialog 3 · Im Welthaus",
+   "ru": "В «Вельтхаусе»"
+  },
+  {
+   "s": "AL",
+   "de": "Ich gehe heute ins „Welthaus“. Da gibt es einen Film über die Kultur in der Türkei.",
+   "ru": "Я сегодня иду в «Вельтхаус». Там показывают фильм о культуре Турции."
+  },
+  {
+   "s": "BE",
+   "de": "Das ist interessant, hier leben so viele Türken und ich weiß wenig über die Kultur.",
+   "ru": "Это интересно: здесь живёт так много турок, а я мало знаю об их культуре."
+  },
+  {
+   "s": "AL",
+   "de": "Deshalb bietet das „Welthaus“ diese Filme aus anderen Kulturen an. Es gibt immer einen Film und zum Schluss ein Gespräch mit Gästen. Heute kommen türkische Jugendliche und Erwachsene.",
+   "ru": "Поэтому «Вельтхаус» и показывает фильмы из других культур. Всегда есть фильм, а в конце беседа с гостями. Сегодня придут турецкие подростки и взрослые."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 4 · Im Kino",
+   "ru": "В кино"
+  },
+  {
+   "s": "K",
+   "de": "In welches Kino wollt ihr?",
+   "ru": "В какой зал вы хотите?"
+  },
+  {
+   "s": "J",
+   "de": "Kino 3.",
+   "ru": "В третий."
+  },
+  {
+   "s": "K",
+   "de": "Der Film ist für Jugendliche ab 16 Jahren.",
+   "ru": "Фильм для подростков от 16 лет."
+  },
+  {
+   "s": "J",
+   "de": "Wir sind 18!",
+   "ru": "Нам 18!"
+  },
+  {
+   "s": "K",
+   "de": "Darf ich bitte den Ausweis sehen?",
+   "ru": "Можно посмотреть удостоверение?"
+  },
+  {
+   "s": "J",
+   "de": "Bitte.",
+   "ru": "Пожалуйста."
+  },
+  {
+   "s": "K",
+   "de": "In Ordnung. Auf dem Foto siehst du aber sehr jung aus.",
+   "ru": "Хорошо. Но на фото ты выглядишь очень молодо."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 5 · Ins EASY?",
+   "ru": "В EASY?"
+  },
+  {
+   "s": "L",
+   "de": "Kommst du mit ins EASY? Da ist heute ein Konzert.",
+   "ru": "Пойдёшь со мной в EASY? Там сегодня концерт."
+  },
+  {
+   "s": "M",
+   "de": "Ins EASY? Da sind immer so viele Leute. Ist Peter auch da?",
+   "ru": "В EASY? Там всегда так много людей. Петер тоже там будет?"
+  },
+  {
+   "s": "L",
+   "de": "Nein, der geht auf eine Party, er will tanzen und nette Leute treffen.",
+   "ru": "Нет, он идёт на вечеринку, хочет потанцевать и познакомиться с приятными людьми."
+  },
+  {
+   "s": "M",
+   "de": "Die Musik im EASY ist gut und zum Schluss spielen sie immer mein Lieblingslied.",
+   "ru": "Музыка в EASY хорошая, и в конце они всегда играют мою любимую песню."
+  },
+  {
+   "s": "L",
+   "de": "Das Konzert ist um 23.00 Uhr zu Ende. Dann ist Disco und wir können tanzen.",
+   "ru": "Концерт заканчивается в 23:00. Потом дискотека, и мы можем потанцевать."
+  },
+  {
+   "s": "M",
+   "de": "Ja, aber ohne Peter ist es nicht sehr lustig.",
+   "ru": "Да, но без Петера не очень весело."
+  }
+ ],
+ "notes": [
+  "Д1: anrufen — отделяемый: Kann ich dich anrufen? (модальный на 2-м месте, anrufen целиком в конце).",
+  "Д1: eine Nachricht auf der Mailbox sprechen — наговорить сообщение на автоответчик.",
+  "Д1: eine SMS schicken / schreiben — отправить / написать СМС.",
+  "Д1: mailen + Dativ: Du kannst mir mailen.",
+  "Д1: Ich denke schon. — Думаю, да.",
+  "Д1: meine E-Mails — множественное число: die E-Mail → die E-Mails.",
+  "Д2: Das geht nicht. — Так не получится / не выйдет. Очень частая фраза.",
+  "Д2: mitkommen — пойти вместе: Kommst du mit ins Kino?",
+  "Д2: mitnehmen — взять с собой: Du kannst Klaus mitnehmen.",
+  "Д2: böse sein auf + Akk.: Bist du böse auf mich?",
+  "Д2: ich wollte — претеритум от wollen: «я хотел».",
+  "Д2: am Schreibtisch bleiben — модальный muss на 2-м месте, bleiben в конце.",
+  "Д2: Das verstehe ich — дополнение на 1-м месте, глагол всё равно на 2-м.",
+  "Д2: am Wochenende — на выходных.",
+  "Д3: es gibt + Akk.: Da gibt es einen Film.",
+  "Д3: wissen: ich weiß, du weißt, er weiß.",
+  "Д3: über + Akk.: über die Kultur.",
+  "Д3: anbieten — отделяемый: Das Welthaus bietet Filme an.",
+  "Д3: Deshalb — «поэтому», после него глагол сразу на 2-м месте.",
+  "Д3: zum Schluss — в конце.",
+  "Д4: wollt ihr — wollen с ihr; глагол движения можно опустить: Wohin wollt ihr (gehen)?",
+  "Д4: ab 16 Jahren — от 16 лет (ab + Dativ, поэтому Jahren).",
+  "Д4: Darf ich …? — вежливая просьба разрешения.",
+  "Д4: aussehen — отделяемый: Du siehst jung aus.",
+  "Д4: In Ordnung. — В порядке / Хорошо.",
+  "Д5: so viele Leute — Leute во мн.ч., поэтому viele (не viel).",
+  "Д5: da sein — быть там: Ist Peter auch da?",
+  "Д5: der geht … — der здесь значит «он» (разговорное).",
+  "Д5: auf eine Party gehen — идти на вечеринку (auf, не in).",
+  "Д5: zu Ende sein — заканчиваться: Das Konzert ist um 23 Uhr zu Ende.",
+  "Д5: ohne + Akk.: ohne Peter."
+ ]
+}
