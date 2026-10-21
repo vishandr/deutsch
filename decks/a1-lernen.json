@@ -1,0 +1,326 @@
+{
+ "id": "a1-lernen",
+ "title": "Lernen",
+ "subtitle": "Deutsch intensiv Wortschatz A1 · Lektion 10",
+ "type": "vocab",
+ "sections": [
+  {
+   "title": "Lernen",
+   "ru": "Учёба",
+   "words": [
+    {
+     "de": "erklären",
+     "ru": "объяснять"
+    },
+    {
+     "de": "lernen",
+     "ru": "учить, учиться"
+    },
+    {
+     "de": "wissen",
+     "ru": "знать (факт)",
+     "note": "ich weiß, du weißt, er weiß"
+    },
+    {
+     "de": "können",
+     "ru": "уметь, мочь",
+     "note": "ich kann, du kannst, er kann"
+    },
+    {
+     "de": "wiederholen",
+     "ru": "повторять",
+     "note": "неотделяемый: ich wiederhole"
+    },
+    {
+     "de": "behalten",
+     "ru": "запоминать, удерживать в памяти",
+     "note": "du behältst, er behält"
+    },
+    {
+     "de": "vergessen",
+     "ru": "забывать",
+     "note": "du vergisst, er vergisst"
+    },
+    {
+     "de": "der Unterricht",
+     "ru": "урок, занятия",
+     "note": "только ед.ч."
+    },
+    {
+     "de": "beginnen",
+     "ru": "начинать(ся)"
+    },
+    {
+     "de": "aufhören",
+     "ru": "прекращать(ся), заканчивать(ся)",
+     "note": "отделяемый"
+    },
+    {
+     "de": "aus sein",
+     "ru": "закончиться (разг.)"
+    },
+    {
+     "de": "zu Ende sein",
+     "ru": "закончиться"
+    },
+    {
+     "de": "das Ende",
+     "ru": "конец",
+     "note": "только ед.ч."
+    },
+    {
+     "de": "die Aussage",
+     "ru": "высказывание, утверждение",
+     "pl": "-n"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Der Unterricht beginnt um 8 Uhr.",
+     "ru": "Занятия начинаются в 8 часов."
+    },
+    {
+     "de": "Die Stunde ist um 10 Uhr aus.",
+     "ru": "Урок заканчивается в 10 часов."
+    },
+    {
+     "de": "Der Unterricht ist um 18 Uhr zu Ende.",
+     "ru": "Занятия заканчиваются в 18 часов."
+    },
+    {
+     "de": "Können Sie das bitte erklären?",
+     "ru": "Можете, пожалуйста, это объяснить?"
+    },
+    {
+     "de": "Ich habe das Wort vergessen.",
+     "ru": "Я забыл это слово."
+    }
+   ],
+   "tip": "wissen — знать факт (Ich weiß die Antwort), können — уметь (Ich kann Deutsch)."
+  },
+  {
+   "title": "Texte",
+   "ru": "Тексты",
+   "words": [
+    {
+     "de": "der Buchstabe",
+     "ru": "буква",
+     "pl": "-n"
+    },
+    {
+     "de": "das Wort",
+     "ru": "слово",
+     "pl": "-¨er"
+    },
+    {
+     "de": "der Satz",
+     "ru": "предложение",
+     "pl": "-¨e"
+    },
+    {
+     "de": "bedeuten",
+     "ru": "означать"
+    },
+    {
+     "de": "der Text",
+     "ru": "текст",
+     "pl": "-e"
+    },
+    {
+     "de": "schreiben",
+     "ru": "писать"
+    },
+    {
+     "de": "lesen",
+     "ru": "читать",
+     "note": "du liest, er liest"
+    },
+    {
+     "de": "hören",
+     "ru": "слушать, слышать"
+    },
+    {
+     "de": "verstehen",
+     "ru": "понимать"
+    },
+    {
+     "de": "die Sprache",
+     "ru": "язык",
+     "pl": "-n"
+    },
+    {
+     "de": "sprechen",
+     "ru": "говорить",
+     "note": "du sprichst, er spricht"
+    },
+    {
+     "de": "langsam",
+     "ru": "медленно"
+    },
+    {
+     "de": "schnell",
+     "ru": "быстро"
+    },
+    {
+     "de": "das Beispiel",
+     "ru": "пример",
+     "pl": "-e"
+    },
+    {
+     "de": "usw. (und so weiter)",
+     "ru": "и т. д. (и так далее)"
+    },
+    {
+     "de": "zum Beispiel / z. B.",
+     "ru": "например"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Bitte sprechen Sie langsam.",
+     "ru": "Пожалуйста, говорите медленно."
+    },
+    {
+     "de": "Was bedeutet das Wort?",
+     "ru": "Что означает это слово?"
+    },
+    {
+     "de": "Ich verstehe das nicht.",
+     "ru": "Я этого не понимаю."
+    },
+    {
+     "de": "Wie schreibt man das?",
+     "ru": "Как это пишется?"
+    }
+   ],
+   "tip": "lesen, sprechen — с изменением гласной: du liest, du sprichst."
+  },
+  {
+   "title": "Tests",
+   "ru": "Тесты",
+   "words": [
+    {
+     "de": "die Übung",
+     "ru": "упражнение",
+     "pl": "-en"
+    },
+    {
+     "de": "üben",
+     "ru": "упражняться, тренировать"
+    },
+    {
+     "de": "die Prüfung",
+     "ru": "экзамен",
+     "pl": "-en"
+    },
+    {
+     "de": "der Prüfer",
+     "ru": "экзаменатор",
+     "pl": "-"
+    },
+    {
+     "de": "die Prüferin",
+     "ru": "экзаменаторша",
+     "pl": "-nen"
+    },
+    {
+     "de": "der Test",
+     "ru": "тест",
+     "pl": "-s"
+    },
+    {
+     "de": "der Teil",
+     "ru": "часть",
+     "pl": "-e"
+    },
+    {
+     "de": "die Lösung",
+     "ru": "решение, ответ",
+     "pl": "-en"
+    },
+    {
+     "de": "der Antwortbogen",
+     "ru": "бланк ответов",
+     "pl": "-¨"
+    },
+    {
+     "de": "die Aufgabe",
+     "ru": "задание",
+     "pl": "-n"
+    },
+    {
+     "de": "ankreuzen",
+     "ru": "отметить крестиком",
+     "note": "отделяемый"
+    },
+    {
+     "de": "übertragen",
+     "ru": "перенести (ответы в бланк)",
+     "note": "неотделяемый; du überträgst"
+    },
+    {
+     "de": "ergänzen",
+     "ru": "дополнить, вставить"
+    },
+    {
+     "de": "abgeben",
+     "ru": "сдать (работу)",
+     "note": "отделяемый; du gibst ab"
+    },
+    {
+     "de": "der Fehler",
+     "ru": "ошибка",
+     "pl": "-"
+    },
+    {
+     "de": "korrigieren",
+     "ru": "исправлять"
+    },
+    {
+     "de": "richtig",
+     "ru": "правильно"
+    },
+    {
+     "de": "falsch",
+     "ru": "неправильно"
+    },
+    {
+     "de": "fehlen",
+     "ru": "отсутствовать, не хватать"
+    },
+    {
+     "de": "einmal",
+     "ru": "один раз; ещё раз"
+    },
+    {
+     "de": "gehören",
+     "ru": "принадлежать; подходить (друг к другу)",
+     "note": "Was gehört zusammen?"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Kreuzen Sie an: richtig oder falsch?",
+     "ru": "Отметьте: правильно или неправильно?"
+    },
+    {
+     "de": "Ergänzen Sie die Sätze.",
+     "ru": "Дополните предложения."
+    },
+    {
+     "de": "Übertragen Sie die Lösungen auf den Antwortbogen.",
+     "ru": "Перенесите ответы в бланк ответов."
+    },
+    {
+     "de": "Was gehört zusammen?",
+     "ru": "Что подходит друг к другу?"
+    },
+    {
+     "de": "Bitte geben Sie den Test ab.",
+     "ru": "Пожалуйста, сдайте тест."
+    }
+   ],
+   "tip": "Отделяемые: ankreuzen, abgeben (Ich kreuze an, Ich gebe ab). Неотделяемые: übertragen, wiederholen."
+  }
+ ]
+}
