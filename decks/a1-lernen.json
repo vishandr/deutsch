@@ -321,6 +321,197 @@
     }
    ],
    "tip": "Отделяемые: ankreuzen, abgeben (Ich kreuze an, Ich gebe ab). Неотделяемые: übertragen, wiederholen."
+  },
+  {
+   "title": "Aus den Dialogen",
+   "ru": "Слова из диалогов",
+   "words": [
+    {
+     "de": "der Kuli",
+     "ru": "ручка (шариковая)",
+     "pl": "-s",
+     "note": "разг. от der Kugelschreiber"
+    },
+    {
+     "de": "der Bleistift",
+     "ru": "карандаш",
+     "pl": "-e"
+    },
+    {
+     "de": "die Pause",
+     "ru": "перерыв",
+     "pl": "-n"
+    },
+    {
+     "de": "die Schule",
+     "ru": "школа",
+     "pl": "-n"
+    },
+    {
+     "de": "der Schüler",
+     "ru": "ученик",
+     "pl": "-"
+    },
+    {
+     "de": "die Schülerin",
+     "ru": "ученица",
+     "pl": "-nen"
+    },
+    {
+     "de": "die Klasse",
+     "ru": "класс",
+     "pl": "-n",
+     "note": "in der 5. Klasse"
+    },
+    {
+     "de": "der Kurs",
+     "ru": "курс",
+     "pl": "-e"
+    },
+    {
+     "de": "die Hausaufgabe",
+     "ru": "домашнее задание",
+     "pl": "-n",
+     "note": "обычно мн.ч.: Hausaufgaben machen"
+    },
+    {
+     "de": "glauben",
+     "ru": "думать, полагать; верить",
+     "note": "Ich glaube, …"
+    },
+    {
+     "de": "stimmen",
+     "ru": "быть верным",
+     "note": "Das stimmt. — Верно."
+    },
+    {
+     "de": "die Hälfte",
+     "ru": "половина",
+     "pl": "-n"
+    },
+    {
+     "de": "die Grippe",
+     "ru": "грипп",
+     "note": "только ед.ч."
+    },
+    {
+     "de": "das Theater",
+     "ru": "театр",
+     "pl": "-",
+     "note": "ins Theater gehen"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Hast du mal einen Kuli für mich?",
+     "ru": "Не найдётся ручки?"
+    },
+    {
+     "de": "Ich glaube, sie hat Grippe.",
+     "ru": "Думаю, у неё грипп."
+    },
+    {
+     "de": "Das stimmt nicht.",
+     "ru": "Это неправда."
+    },
+    {
+     "de": "Fehler machen gehört zum Lernen.",
+     "ru": "Ошибки — часть учёбы."
+    }
+   ]
+  },
+  {
+   "title": "Bonus: Wortgeschichten",
+   "ru": "Бонус: откуда слова",
+   "words": [
+    {
+     "de": "der Buchstabe",
+     "ru": "буква",
+     "note": "Buche (бук) + Stab (палочка): руны резали на буковых палочках. Рус. «буква» и «бук» — родня"
+    },
+    {
+     "de": "das Buch",
+     "ru": "книга",
+     "note": "от Buche (бук): дощечки для письма; англ. book"
+    },
+    {
+     "de": "der Stab",
+     "ru": "палка, жезл",
+     "note": "→ рус. «штаб» (Generalstab: жезл командира → люди при нём)"
+    },
+    {
+     "de": "gehören",
+     "ru": "принадлежать",
+     "note": "ge + hören: «слушаться» → «быть чьим-то». Как рус. слушать → слуга"
+    },
+    {
+     "de": "gehorchen",
+     "ru": "слушаться",
+     "note": "тот же корень hören"
+    },
+    {
+     "de": "aufhören",
+     "ru": "прекращать",
+     "note": "auf + hören: «поднять голову, прислушаться» → бросить дело"
+    },
+    {
+     "de": "zuhören",
+     "ru": "внимательно слушать",
+     "note": "zu (к) + hören: слушать кого-то"
+    },
+    {
+     "de": "verstehen",
+     "ru": "понимать",
+     "note": "ver + stehen (стоять) ≈ англ. under-stand"
+    },
+    {
+     "de": "wiederholen",
+     "ru": "повторять",
+     "note": "wieder (снова) + holen (доставать)"
+    },
+    {
+     "de": "der Antwortbogen",
+     "ru": "бланк ответов",
+     "note": "Antwort (ответ) + Bogen (лист бумаги)"
+    },
+    {
+     "de": "ankreuzen",
+     "ru": "отметить крестиком",
+     "note": "an + Kreuz (крест)"
+    },
+    {
+     "de": "abgeben",
+     "ru": "сдать",
+     "note": "ab (от себя) + geben (давать)"
+    },
+    {
+     "de": "der Unterricht",
+     "ru": "занятия",
+     "note": "unter + richten (направлять, наставлять)"
+    },
+    {
+     "de": "der Kuli",
+     "ru": "ручка",
+     "note": "Kugelschreiber = Kugel (шарик) + schreiben → «шарико-писалка»"
+    },
+    {
+     "de": "der Bleistift",
+     "ru": "карандаш",
+     "note": "Blei (свинец) + Stift (стержень): раньше думали, что грифель — свинец"
+    },
+    {
+     "de": "die Hausaufgabe",
+     "ru": "домашнее задание",
+     "note": "Haus (дом) + Aufgabe (задание)"
+    },
+    {
+     "de": "die Schule",
+     "ru": "школа",
+     "note": "от греч. scholē — «досуг»: учились те, у кого было свободное время"
+    }
+   ],
+   "phrases": [],
+   "tip": "Немецкие слова часто собраны как конструктор: приставка + корень или слово + слово."
   }
  ]
 }

@@ -1,0 +1,160 @@
+{
+ "id": "a1-lernen-dialoge",
+ "title": "Im Unterricht",
+ "subtitle": "Dialoge · Deutsch intensiv Wortschatz A1 · Lektion 10",
+ "type": "dialog",
+ "speakers": {
+  "#": "▶",
+  "A": "Schüler A",
+  "B": "Schüler B",
+  "L": "Frau Bürkle"
+ },
+ "lines": [
+  {
+   "s": "#",
+   "de": "Dialog 1 · Hast du einen Kuli?",
+   "ru": "Есть ручка?"
+  },
+  {
+   "s": "A",
+   "de": "Hast du mal einen Kuli für mich?",
+   "ru": "У тебя не найдётся для меня ручки?"
+  },
+  {
+   "s": "B",
+   "de": "Nein, aber ich habe einen Bleistift.",
+   "ru": "Нет, но у меня есть карандаш."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 2 · Der Dativ",
+   "ru": "Дательный падеж"
+  },
+  {
+   "s": "A",
+   "de": "Frau Bürkle, ich verstehe das nicht. Wann steht der Dativ?",
+   "ru": "Фрау Бюркле, я этого не понимаю. Когда ставится датив?"
+  },
+  {
+   "s": "A",
+   "de": "Können Sie das bitte noch einmal erklären?",
+   "ru": "Можете, пожалуйста, ещё раз объяснить?"
+  },
+  {
+   "s": "L",
+   "de": "Der Dativ steht zum Beispiel nach den Präpositionen: von, aus, bei, mit, nach, seit, zu und nach bestimmten Verben.",
+   "ru": "Датив ставится, например, после предлогов von, aus, bei, mit, nach, seit, zu и после определённых глаголов."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 3 · Der Stundenplan",
+   "ru": "Расписание"
+  },
+  {
+   "s": "A",
+   "de": "Wann beginnt morgen der Unterricht?",
+   "ru": "Когда завтра начинаются занятия?"
+  },
+  {
+   "s": "B",
+   "de": "Um acht Uhr. Und um zwölf ist er aus.",
+   "ru": "В восемь. А в двенадцать они заканчиваются."
+  },
+  {
+   "s": "A",
+   "de": "Vier Stunden ohne Pause?",
+   "ru": "Четыре часа без перерыва?"
+  },
+  {
+   "s": "B",
+   "de": "Doch, je 15 Minuten um 9.15 Uhr und 10.45 Uhr.",
+   "ru": "Нет, перерывы есть: по 15 минут в 9:15 и в 10:45."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 4 · Hausaufgaben",
+   "ru": "Домашнее задание"
+  },
+  {
+   "s": "A",
+   "de": "Bitte geben Sie uns bis morgen nicht so viele Hausaufgaben.",
+   "ru": "Пожалуйста, не задавайте нам так много на завтра."
+  },
+  {
+   "s": "A",
+   "de": "Wir gehen heute nach der Schule ins Theater.",
+   "ru": "Мы сегодня после школы идём в театр."
+  },
+  {
+   "s": "L",
+   "de": "O.k., aber bitte wiederholen Sie die Wörter und lesen Sie den Text auf Seite 89. Er ist nicht lang.",
+   "ru": "Хорошо, но, пожалуйста, повторите слова и прочитайте текст на странице 89. Он не длинный."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 5 · Wo ist Samira?",
+   "ru": "Где Самира?"
+  },
+  {
+   "s": "L",
+   "de": "Wo ist Samira?",
+   "ru": "Где Самира?"
+  },
+  {
+   "s": "A",
+   "de": "Sie fehlt heute. Ich glaube, sie hat Grippe.",
+   "ru": "Её сегодня нет. Думаю, у неё грипп."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 6 · Fehler machen",
+   "ru": "Делать ошибки"
+  },
+  {
+   "s": "A",
+   "de": "Ich kann das nicht. Ich habe schon wieder alles vergessen.",
+   "ru": "У меня не получается. Я опять всё забыл."
+  },
+  {
+   "s": "B",
+   "de": "Das stimmt doch gar nicht. Du hast fast die Hälfte richtig.",
+   "ru": "Да это же совсем не так. У тебя почти половина правильно."
+  },
+  {
+   "s": "B",
+   "de": "Und Fehler machen gehört nun einmal zum Lernen.",
+   "ru": "А делать ошибки — это просто часть учёбы."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 7 · Kurs und Klasse",
+   "ru": "Курс и класс"
+  },
+  {
+   "s": "A",
+   "de": "Unser Kurs hat nur 12 Schülerinnen. Das ist gut.",
+   "ru": "В нашем курсе всего 12 учениц. Это хорошо."
+  },
+  {
+   "s": "B",
+   "de": "Ja, mein Sohn ist in der 5. Klasse. Da sind sie 32 Schüler.",
+   "ru": "Да, мой сын в 5-м классе. Там их 32 ученика."
+  }
+ ],
+ "notes": [
+  "Д1: Hast du mal …? — «mal» смягчает просьбу: «не найдётся ли у тебя…».",
+  "Д1: einen Bleistift — Akkusativ после haben (der → einen).",
+  "Д2: Wann steht der Dativ? — «стоять» о падеже = «употребляться».",
+  "Д2: noch einmal — ещё раз.",
+  "Д3: Um zwölf ist er aus — aus уходит в конец.",
+  "Д3: Doch — «нет, наоборот» в ответ на вопрос с отрицанием (ohne Pause?).",
+  "Д3: je 15 Minuten — по 15 минут каждый.",
+  "Д4: nach der Schule — nach + Dativ (die → der).",
+  "Д4: Lesen Sie … / Wiederholen Sie … — вежливый императив: глагол + Sie.",
+  "Д5: Sie fehlt heute — fehlen = отсутствовать.",
+  "Д5: Ich glaube, sie hat Grippe — после запятой обычный порядок слов.",
+  "Д6: Das stimmt nicht — это неправда; stimmen = быть верным.",
+  "Д6: gehört zum Lernen — gehören zu = быть частью (опять gehören!).",
+  "Д7: in der 5. Klasse — in + Dativ (где?): в пятом классе."
+ ]
+}

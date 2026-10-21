@@ -9,6 +9,7 @@
       "ru": "В ресторане",
       "words": [
         {"de": "das Restaurant", "pl": "-s", "ru": "ресторан", "note": "мн.ч. die Restaurants"},
+        {"de": "die Kantine", "pl": "-n", "ru": "столовая (на работе)", "note": "in der Kantine essen; в университете — die Mensa"},
         {"de": "besetzt", "ru": "занят (о месте, столике)"},
         {"de": "frei", "ru": "свободен"},
         {"de": "die Speisekarte", "pl": "-n", "ru": "меню"},
