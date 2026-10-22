@@ -1,0 +1,516 @@
+{
+ "id": "a1-arbeit-beruf",
+ "title": "Arbeit und Beruf",
+ "subtitle": "Deutsch intensiv Wortschatz A1 · Lektion 11",
+ "type": "vocab",
+ "sections": [
+  {
+   "title": "Arbeit",
+   "ru": "Работа",
+   "words": [
+    {
+     "de": "arbeiten",
+     "ru": "работать"
+    },
+    {
+     "de": "die Arbeit",
+     "pl": "только Sg.",
+     "ru": "работа",
+     "note": "здесь — работа как занятие/место работы"
+    },
+    {
+     "de": "die Stelle",
+     "pl": "-n",
+     "ru": "место, должность"
+    },
+    {
+     "de": "der Job",
+     "pl": "-s",
+     "ru": "работа, подработка",
+     "note": "разговорное"
+    },
+    {
+     "de": "das Praktikum",
+     "pl": "Praktika",
+     "ru": "практика, стажировка"
+    },
+    {
+     "de": "der Arbeitsplatz",
+     "pl": "Arbeitsplätze",
+     "ru": "рабочее место"
+    },
+    {
+     "de": "arbeitslos",
+     "ru": "безработный"
+    },
+    {
+     "de": "verdienen",
+     "ru": "зарабатывать"
+    },
+    {
+     "de": "gut – schlecht",
+     "ru": "хороший – плохой"
+    },
+    {
+     "de": "schwer – leicht",
+     "ru": "тяжёлый – лёгкий"
+    },
+    {
+     "de": "angestellt – selbstständig",
+     "ru": "работающий по найму – самозанятый"
+    },
+    {
+     "de": "der/die Angestellte",
+     "pl": "-n",
+     "ru": "служащий / служащая",
+     "note": "склоняется как прилагательное: ein Angestellter, eine Angestellte"
+    },
+    {
+     "de": "beide",
+     "ru": "оба, обе"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Ich arbeite bei Siemens.",
+     "ru": "Я работаю в Siemens."
+    },
+    {
+     "de": "eine Arbeit suchen",
+     "ru": "искать работу"
+    },
+    {
+     "de": "(k)eine Arbeit haben",
+     "ru": "(не) иметь работы"
+    },
+    {
+     "de": "Sie hat jetzt eine neue Stelle.",
+     "ru": "У неё теперь новая должность."
+    },
+    {
+     "de": "Ich bin arbeitslos.",
+     "ru": "Я безработный."
+    },
+    {
+     "de": "Die Arbeit ist leicht.",
+     "ru": "Работа лёгкая."
+    },
+    {
+     "de": "Wir arbeiten beide.",
+     "ru": "Мы оба работаем."
+    }
+   ],
+   "tip": "bei + фирма: Ich arbeite bei Siemens / bei der Post. bei требует Dativ."
+  },
+  {
+   "title": "Tätigkeit",
+   "ru": "Деятельность, профессия",
+   "words": [
+    {
+     "de": "tun",
+     "ru": "делать",
+     "note": "du tust, er tut"
+    },
+    {
+     "de": "der Student / die Studentin",
+     "pl": "-en / -nen",
+     "ru": "студент / студентка"
+    },
+    {
+     "de": "das Studium",
+     "pl": "Studien",
+     "ru": "учёба в вузе"
+    },
+    {
+     "de": "studieren",
+     "ru": "учиться в вузе",
+     "note": "lernen — учить, учиться вообще; studieren — именно в университете"
+    },
+    {
+     "de": "werden",
+     "ru": "становиться",
+     "note": "du wirst, er wird"
+    },
+    {
+     "de": "der Beruf",
+     "pl": "-e",
+     "ru": "профессия"
+    },
+    {
+     "de": "von Beruf … sein",
+     "ru": "быть … по профессии"
+    },
+    {
+     "de": "arbeiten als …",
+     "ru": "работать кем-то",
+     "note": "профессия без артикля: als Lehrer"
+    },
+    {
+     "de": "der Lehrer / die Lehrerin",
+     "pl": "- / -nen",
+     "ru": "учитель / учительница"
+    },
+    {
+     "de": "der Verkäufer / die Verkäuferin",
+     "pl": "- / -nen",
+     "ru": "продавец / продавщица"
+    },
+    {
+     "de": "der Arbeiter / die Arbeiterin",
+     "pl": "- / -nen",
+     "ru": "рабочий / работница"
+    },
+    {
+     "de": "der Hausmann / die Hausfrau",
+     "pl": "Hausmänner / -en",
+     "ru": "домохозяин / домохозяйка"
+    },
+    {
+     "de": "der Babysitter / die Babysitterin",
+     "pl": "- / -nen",
+     "ru": "няня"
+    },
+    {
+     "de": "der Arbeitstag",
+     "pl": "-e",
+     "ru": "рабочий день"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Was tust du den ganzen Tag?",
+     "ru": "Что ты делаешь целый день?"
+    },
+    {
+     "de": "Ich bin Studentin. – Was studierst du?",
+     "ru": "Я студентка. – Что ты изучаешь?"
+    },
+    {
+     "de": "Ich werde Lehrer/-in.",
+     "ru": "Я стану учителем / учительницей."
+    },
+    {
+     "de": "Ich bin Lehrer/-in (von Beruf).",
+     "ru": "Я учитель (по профессии)."
+    },
+    {
+     "de": "Ich arbeite als Taxifahrer/-in.",
+     "ru": "Я работаю таксистом."
+    },
+    {
+     "de": "Ich bin Arbeiter/-in bei Siemens.",
+     "ru": "Я рабочий в Siemens."
+    },
+    {
+     "de": "Ich arbeite zu Hause.",
+     "ru": "Я работаю дома."
+    }
+   ],
+   "tip": "Профессия после sein / werden / als — без артикля: Ich bin Lehrer (не «ein Lehrer»)."
+  },
+  {
+   "title": "Firma",
+   "ru": "Фирма",
+   "words": [
+    {
+     "de": "die Firma",
+     "pl": "Firmen",
+     "ru": "фирма"
+    },
+    {
+     "de": "der Chef / die Chefin",
+     "pl": "-s / -nen",
+     "ru": "начальник / начальница"
+    },
+    {
+     "de": "das Büro",
+     "pl": "-s",
+     "ru": "офис"
+    },
+    {
+     "de": "das Gespräch",
+     "pl": "-e",
+     "ru": "разговор; телефонный звонок"
+    },
+    {
+     "de": "der Termin",
+     "pl": "-e",
+     "ru": "назначенная встреча, срок",
+     "note": "к врачу, к начальнику — Termin"
+    },
+    {
+     "de": "wichtig",
+     "ru": "важный"
+    },
+    {
+     "de": "fertig",
+     "ru": "готовый"
+    },
+    {
+     "de": "international",
+     "ru": "международный"
+    },
+    {
+     "de": "kommen",
+     "ru": "приходить; поступать (о звонке)"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Hier ist ein Gespräch für Sie.",
+     "ru": "Вам звонок. (букв. здесь разговор для вас)"
+    },
+    {
+     "de": "Die Präsentation ist fertig.",
+     "ru": "Презентация готова."
+    }
+   ]
+  },
+  {
+   "title": "Technik im Büro",
+   "ru": "Техника в офисе",
+   "words": [
+    {
+     "de": "der Computer",
+     "pl": "-",
+     "ru": "компьютер"
+    },
+    {
+     "de": "der Laptop",
+     "pl": "-s",
+     "ru": "ноутбук"
+    },
+    {
+     "de": "das Tablet",
+     "pl": "-s",
+     "ru": "планшет"
+    },
+    {
+     "de": "anmachen – ausmachen",
+     "ru": "включать – выключать",
+     "note": "отделяемые: Mach den Computer aus!"
+    },
+    {
+     "de": "der Drucker",
+     "pl": "-",
+     "ru": "принтер"
+    },
+    {
+     "de": "drucken",
+     "ru": "печатать"
+    },
+    {
+     "de": "die E-Mail",
+     "pl": "-s",
+     "ru": "имейл"
+    },
+    {
+     "de": "abschicken",
+     "ru": "отправлять",
+     "note": "отделяемый: Ich schicke die E-Mail ab."
+    },
+    {
+     "de": "gehen",
+     "ru": "работать, функционировать (о технике)"
+    },
+    {
+     "de": "das Internet",
+     "pl": "только Sg.",
+     "ru": "интернет"
+    },
+    {
+     "de": "anklicken / klicken",
+     "ru": "нажать (кликнуть)"
+    },
+    {
+     "de": "markieren",
+     "ru": "выделять, отмечать"
+    },
+    {
+     "de": "das Problem",
+     "pl": "-e",
+     "ru": "проблема"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "eine E-Mail abschicken",
+     "ru": "отправить имейл"
+    },
+    {
+     "de": "Der Drucker geht nicht.",
+     "ru": "Принтер не работает."
+    },
+    {
+     "de": "Sie müssen hier klicken.",
+     "ru": "Вам нужно нажать здесь."
+    }
+   ],
+   "tip": "О технике говорят gehen, а не arbeiten: Der Computer geht nicht."
+  },
+  {
+   "title": "Arbeit und Freizeit",
+   "ru": "Работа и свободное время",
+   "words": [
+    {
+     "de": "der Feierabend",
+     "pl": "-e",
+     "ru": "конец рабочего дня"
+    },
+    {
+     "de": "der Feiertag",
+     "pl": "-e",
+     "ru": "праздничный день"
+    },
+    {
+     "de": "müde",
+     "ru": "усталый"
+    },
+    {
+     "de": "die Arbeitswoche",
+     "pl": "-n",
+     "ru": "рабочая неделя"
+    },
+    {
+     "de": "kurz – lang",
+     "ru": "короткий – длинный"
+    },
+    {
+     "de": "der Urlaub",
+     "pl": "-e",
+     "ru": "отпуск"
+    },
+    {
+     "de": "machen",
+     "ru": "делать"
+    },
+    {
+     "de": "der Anfang",
+     "pl": "Anfänge",
+     "ru": "начало"
+    },
+    {
+     "de": "anfangen",
+     "ru": "начинать",
+     "note": "fängt an — с изменением гласной: du fängst an"
+    },
+    {
+     "de": "der Plan",
+     "pl": "Pläne",
+     "ru": "план"
+    },
+    {
+     "de": "planen",
+     "ru": "планировать"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Diese Arbeitswoche ist kurz.",
+     "ru": "Эта рабочая неделя короткая."
+    },
+    {
+     "de": "Urlaub machen",
+     "ru": "отдыхать в отпуске"
+    },
+    {
+     "de": "Anfang August mache ich Urlaub.",
+     "ru": "В начале августа я иду в отпуск."
+    },
+    {
+     "de": "Schönen Feierabend!",
+     "ru": "Хорошего вечера! (после работы)"
+    }
+   ],
+   "tip": "Anfang / Mitte / Ende + месяц — без предлога: Anfang August, Ende Mai."
+  },
+  {
+   "title": "Bonus: Wortgeschichten",
+   "ru": "Бонус: откуда слова",
+   "words": [
+    {
+     "de": "die Arbeit",
+     "ru": "работа",
+     "note": "древнее «тяжкий труд». Родня славянскому корню раб- / работа"
+    },
+    {
+     "de": "der Beruf",
+     "ru": "профессия",
+     "note": "от rufen (звать): «призвание». Как рус. при-звание от «звать»"
+    },
+    {
+     "de": "verdienen",
+     "ru": "зарабатывать",
+     "note": "ver + dienen (служить): «заслужить службой»"
+    },
+    {
+     "de": "arbeitslos",
+     "ru": "безработный",
+     "note": "Arbeit + los (без, свободный от). Как wolkenlos — безоблачный"
+    },
+    {
+     "de": "selbstständig",
+     "ru": "самостоятельный, самозанятый",
+     "note": "selbst (сам) + stehen (стоять): «стоящий сам»"
+    },
+    {
+     "de": "angestellt",
+     "ru": "нанятый",
+     "note": "an + stellen (ставить): «поставленный на место»"
+    },
+    {
+     "de": "die Stelle",
+     "ru": "место, должность",
+     "note": "от stellen (ставить) — то же, что рус. «место работы»"
+    },
+    {
+     "de": "der Feierabend",
+     "ru": "конец рабочего дня",
+     "note": "Feier (праздник) + Abend: раньше — вечер перед праздником, когда работу кончали раньше"
+    },
+    {
+     "de": "der Urlaub",
+     "ru": "отпуск",
+     "note": "от erlauben (разрешать): изначально «разрешение уйти»"
+    },
+    {
+     "de": "anfangen",
+     "ru": "начинать",
+     "note": "an + fangen (ловить): «ухватиться» за дело"
+    },
+    {
+     "de": "das Gespräch",
+     "ru": "разговор",
+     "note": "от sprechen (говорить): ge- + Sprache"
+    },
+    {
+     "de": "der Termin",
+     "ru": "встреча, срок",
+     "note": "лат. terminus — граница, предел. Рус. «термин», «терминал»"
+    },
+    {
+     "de": "die Firma",
+     "ru": "фирма",
+     "note": "итал. firma — подпись: фирма = то, что подписывается одним именем"
+    },
+    {
+     "de": "der Chef",
+     "ru": "начальник",
+     "note": "франц. chef — голова (лат. caput). Рус. «шеф»"
+    },
+    {
+     "de": "das Büro",
+     "ru": "офис",
+     "note": "франц. bureau — сукно на письменном столе → стол → контора. Рус. «бюро»"
+    },
+    {
+     "de": "der Drucker",
+     "ru": "принтер",
+     "note": "drucken = drücken (давить): лист прижимали к форме. Как англ. press — и пресс, и пресса"
+    }
+   ],
+   "phrases": [],
+   "tip": "-los = «без»: arbeitslos, kostenlos, sprachlos. Удобно угадывать новые слова."
+  }
+ ]
+}

@@ -47,6 +47,11 @@
      "note": "только ед.ч."
     },
     {
+     "de": "unterrichten",
+     "ru": "преподавать, обучать",
+     "note": "неотделяемый: ich unterrichte, er unterrichtet"
+    },
+    {
      "de": "beginnen",
      "ru": "начинать(ся)"
     },
@@ -94,6 +99,10 @@
     {
      "de": "Ich habe das Wort vergessen.",
      "ru": "Я забыл это слово."
+    },
+    {
+     "de": "Frau Bürkle unterrichtet Deutsch.",
+     "ru": "Фрау Бюркле преподаёт немецкий."
     }
    ],
    "tip": "wissen — знать факт (Ich weiß die Antwort), können — уметь (Ich kann Deutsch)."
@@ -323,8 +332,8 @@
    "tip": "Отделяемые: ankreuzen, abgeben (Ich kreuze an, Ich gebe ab). Неотделяемые: übertragen, wiederholen."
   },
   {
-   "title": "Aus den Dialogen",
-   "ru": "Слова из диалогов",
+   "title": "Aus den Übungen",
+   "ru": "Слова из диалогов и упражнений",
    "words": [
     {
      "de": "der Kuli",
@@ -399,6 +408,38 @@
      "ru": "театр",
      "pl": "-",
      "note": "ins Theater gehen"
+    },
+    {
+     "de": "lösen",
+     "ru": "решать (задачу)",
+     "note": "→ die Lösung"
+    },
+    {
+     "de": "die Frage",
+     "ru": "вопрос",
+     "pl": "-n"
+    },
+    {
+     "de": "die Antwort",
+     "ru": "ответ",
+     "pl": "-en"
+    },
+    {
+     "de": "beantworten",
+     "ru": "отвечать (на что-то)",
+     "note": "+ Akk.: eine Frage beantworten"
+    },
+    {
+     "de": "die Lücke",
+     "ru": "пропуск, пробел",
+     "pl": "-n",
+     "note": "Lücken ergänzen"
+    },
+    {
+     "de": "die Regel",
+     "ru": "правило",
+     "pl": "-n",
+     "note": "in der Regel — как правило"
     }
    ],
    "phrases": [
@@ -417,6 +458,14 @@
     {
      "de": "Fehler machen gehört zum Lernen.",
      "ru": "Ошибки — часть учёбы."
+    },
+    {
+     "de": "Sie müssen zehn Aufgaben lösen.",
+     "ru": "Нужно решить десять заданий."
+    },
+    {
+     "de": "Keine Regel ohne Ausnahme.",
+     "ru": "Нет правил без исключений."
     }
    ]
   },
@@ -487,7 +536,7 @@
     {
      "de": "der Unterricht",
      "ru": "занятия",
-     "note": "unter + richten (направлять, наставлять)"
+     "note": "unter + richten (направлять, наставлять) → unterrichten (преподавать) → der Unterricht"
     },
     {
      "de": "der Kuli",
@@ -508,6 +557,26 @@
      "de": "die Schule",
      "ru": "школа",
      "note": "от греч. scholē — «досуг»: учились те, у кого было свободное время"
+    },
+    {
+     "de": "lösen",
+     "ru": "решать",
+     "note": "от los (свободный): «развязать» → решить задачу, как «развязка» по-русски"
+    },
+    {
+     "de": "die Antwort",
+     "ru": "ответ",
+     "note": "ant- (навстречу) + Wort: «встречное слово». Рус. от-вет тоже от «вещать»"
+    },
+    {
+     "de": "beantworten",
+     "ru": "отвечать на",
+     "note": "be- делает глагол переходным: antworten auf die Frage → die Frage beantworten"
+    },
+    {
+     "de": "die Regel",
+     "ru": "правило",
+     "note": "от лат. regula — линейка, мерило. Родня: англ. rule, рус. «регулировать»"
     }
    ],
    "phrases": [],
