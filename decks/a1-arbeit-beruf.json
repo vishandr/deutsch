@@ -425,6 +425,108 @@
    "tip": "Anfang / Mitte / Ende + месяц — без предлога: Anfang August, Ende Mai."
   },
   {
+   "title": "Aus den Dialogen",
+   "ru": "Из диалогов",
+   "words": [
+    {
+     "de": "seit",
+     "ru": "с (какого-то времени), уже",
+     "note": "+ Dativ: seit drei Wochen, seit Montag"
+    },
+    {
+     "de": "die Nachricht",
+     "pl": "-en",
+     "ru": "новость, сообщение"
+    },
+    {
+     "de": "zuerst",
+     "ru": "сначала"
+    },
+    {
+     "de": "bekommen",
+     "ru": "получать",
+     "note": "не путать с англ. become! bekommen = get"
+    },
+    {
+     "de": "der Tipp",
+     "pl": "-s",
+     "ru": "совет, подсказка"
+    },
+    {
+     "de": "gesund",
+     "ru": "здоровый"
+    },
+    {
+     "de": "meistens",
+     "ru": "обычно, чаще всего"
+    },
+    {
+     "de": "der Taxifahrer",
+     "pl": "-",
+     "ru": "таксист"
+    },
+    {
+     "de": "der Busfahrer",
+     "pl": "-",
+     "ru": "водитель автобуса"
+    },
+    {
+     "de": "warten",
+     "ru": "ждать",
+     "note": "du wartest, er wartet; warten auf + Akk."
+    },
+    {
+     "de": "später",
+     "ru": "позже, потом"
+    },
+    {
+     "de": "das Papier",
+     "pl": "-e",
+     "ru": "бумага; мн. ч. — документы"
+    },
+    {
+     "de": "unterschreiben",
+     "ru": "подписывать",
+     "note": "неотделяемый: Er unterschreibt"
+    },
+    {
+     "de": "telefonieren",
+     "ru": "звонить по телефону"
+    },
+    {
+     "de": "wiederkommen",
+     "ru": "приходить снова",
+     "note": "отделяемый: Ich komme morgen wieder"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Sie sucht seit drei Wochen eine Arbeit.",
+     "ru": "Она уже три недели ищет работу."
+    },
+    {
+     "de": "Es ist schwer, eine Stelle zu bekommen.",
+     "ru": "Трудно найти место."
+    },
+    {
+     "de": "Wann hast du Feierabend?",
+     "ru": "Когда ты заканчиваешь работу?"
+    },
+    {
+     "de": "an den Feiertagen",
+     "ru": "в праздники"
+    },
+    {
+     "de": "Kann es bis morgen warten?",
+     "ru": "Это может подождать до завтра?"
+    },
+    {
+     "de": "Ich komme morgen wieder.",
+     "ru": "Я зайду завтра."
+    }
+   ]
+  },
+  {
    "title": "Bonus: Wortgeschichten",
    "ru": "Бонус: откуда слова",
    "words": [
@@ -507,6 +609,26 @@
      "de": "der Drucker",
      "ru": "принтер",
      "note": "drucken = drücken (давить): лист прижимали к форме. Как англ. press — и пресс, и пресса"
+    },
+    {
+     "de": "unterschreiben",
+     "ru": "подписывать",
+     "note": "unter (под) + schreiben (писать) = под-писать — буквально как по-русски"
+    },
+    {
+     "de": "bekommen",
+     "ru": "получать",
+     "note": "be + kommen: «прийти к кому-то». Англ. become — тот же корень, но смысл ушёл в другую сторону"
+    },
+    {
+     "de": "die Nachricht",
+     "ru": "новость",
+     "note": "nach (по, вслед) + richten (направлять): «то, по чему направляются», сведения"
+    },
+    {
+     "de": "seit",
+     "ru": "с тех пор как",
+     "note": "родственно англ. since"
     }
    ],
    "phrases": [],

@@ -1,0 +1,195 @@
+{
+ "id": "a1-arbeit-beruf-dialoge",
+ "title": "Arbeit und Beruf",
+ "subtitle": "Dialoge · Deutsch intensiv Wortschatz A1 · Lektion 11",
+ "type": "dialog",
+ "speakers": {
+  "#": "▶",
+  "M": "Martina",
+  "A": "A",
+  "B": "B"
+ },
+ "lines": [
+  {
+   "s": "#",
+   "de": "Dialog 1 · Eine E-Mail",
+   "ru": "Письмо маме"
+  },
+  {
+   "s": "M",
+   "de": "Liebe Mama, zuerst die gute Nachricht: Max hat eine neue Stelle!",
+   "ru": "Дорогая мама, сначала хорошая новость: у Макса новая работа!"
+  },
+  {
+   "s": "M",
+   "de": "Er arbeitet jetzt bei COMPI, das ist eine kleine Computerfirma.",
+   "ru": "Он теперь работает в COMPI, это маленькая компьютерная фирма."
+  },
+  {
+   "s": "M",
+   "de": "Die Arbeit ist leicht und er kann selbstständig arbeiten.",
+   "ru": "Работа лёгкая, и он может работать самостоятельно."
+  },
+  {
+   "s": "M",
+   "de": "Jetzt arbeiten wir beide und verdienen gut.",
+   "ru": "Теперь мы оба работаем и хорошо зарабатываем."
+  },
+  {
+   "s": "M",
+   "de": "Und die schlechte Nachricht: Sabine ist arbeitslos und sucht seit drei Wochen eine neue Arbeit.",
+   "ru": "А плохая новость: Сабина без работы и уже три недели ищет новую."
+  },
+  {
+   "s": "M",
+   "de": "Es ist schwer, einen Arbeitsplatz zu bekommen, aber morgen hat sie einen Termin bei einer kleinen Firma.",
+   "ru": "Трудно получить рабочее место, но завтра у неё встреча в одной небольшой фирме."
+  },
+  {
+   "s": "M",
+   "de": "Sie hat den Tipp von Rudi bekommen. Er macht dort ein Praktikum.",
+   "ru": "Подсказку ей дал Руди. Он проходит там практику."
+  },
+  {
+   "s": "M",
+   "de": "Geht es euch gut? Seid ihr gesund?",
+   "ru": "У вас всё хорошо? Вы здоровы?"
+  },
+  {
+   "s": "M",
+   "de": "Max und ich kommen am Wochenende! Liebe Grüße, deine Martina",
+   "ru": "Мы с Максом приедем на выходных! С любовью, твоя Мартина"
+  },
+  {
+   "s": "#",
+   "de": "Dialog 2 · Arbeitszeit",
+   "ru": "Рабочее время"
+  },
+  {
+   "s": "A",
+   "de": "Wann beginnt deine Arbeit?",
+   "ru": "Когда начинается твоя работа?"
+  },
+  {
+   "s": "B",
+   "de": "Um 7 Uhr.",
+   "ru": "В 7 часов."
+  },
+  {
+   "s": "A",
+   "de": "Und wann hast du Feierabend?",
+   "ru": "А когда ты заканчиваешь?"
+  },
+  {
+   "s": "B",
+   "de": "Meistens um 16.30 Uhr.",
+   "ru": "Обычно в 16:30."
+  },
+  {
+   "s": "A",
+   "de": "Musst du auch am Sonntag arbeiten?",
+   "ru": "Тебе и в воскресенье приходится работать?"
+  },
+  {
+   "s": "B",
+   "de": "Nein, am Sonntag und an den Feiertagen arbeiten wir nicht.",
+   "ru": "Нет, в воскресенье и в праздники мы не работаем."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 3 · Pläne",
+   "ru": "Планы"
+  },
+  {
+   "s": "A",
+   "de": "Was machen deine Kinder?",
+   "ru": "Чем занимаются твои дети?"
+  },
+  {
+   "s": "B",
+   "de": "Lisa ist Studentin, sie studiert Medizin.",
+   "ru": "Лиза студентка, она изучает медицину."
+  },
+  {
+   "s": "B",
+   "de": "Und Peter arbeitet als Taxifahrer, er will auch Medizin studieren und muss noch warten.",
+   "ru": "А Петер работает таксистом, он тоже хочет изучать медицину, но пока должен подождать."
+  },
+  {
+   "s": "B",
+   "de": "Und Jonas hat auch schon Pläne, er geht zur Schule und will später Busfahrer werden.",
+   "ru": "И у Йонаса уже есть планы: он ходит в школу и потом хочет стать водителем автобуса."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 4 · Im Büro",
+   "ru": "В офисе"
+  },
+  {
+   "s": "A",
+   "de": "Arbeitet deine Firma nur in Europa?",
+   "ru": "Твоя фирма работает только в Европе?"
+  },
+  {
+   "s": "B",
+   "de": "Nein, sie arbeitet international.",
+   "ru": "Нет, она работает по всему миру."
+  },
+  {
+   "s": "A",
+   "de": "Sind die Papiere für die Firma Klapp fertig?",
+   "ru": "Документы для фирмы Klapp готовы?"
+  },
+  {
+   "s": "B",
+   "de": "Nein, sie sind noch beim Chef. Er muss sie noch unterschreiben.",
+   "ru": "Нет, они ещё у шефа. Он должен их подписать."
+  },
+  {
+   "s": "#",
+   "de": "Dialog 5 · Feierabend?",
+   "ru": "Конец рабочего дня?"
+  },
+  {
+   "s": "A",
+   "de": "Haben Sie jetzt auch Feierabend?",
+   "ru": "У вас тоже сейчас конец рабочего дня?"
+  },
+  {
+   "s": "B",
+   "de": "Nein, ich muss noch telefonieren und das Gespräch ist sehr wichtig.",
+   "ru": "Нет, мне ещё нужно позвонить, и это очень важный разговор."
+  },
+  {
+   "s": "A",
+   "de": "Ist der Chef noch im Büro?",
+   "ru": "Шеф ещё в офисе?"
+  },
+  {
+   "s": "B",
+   "de": "Ja, er hat bis 17.00 Uhr einen Termin. Ist es wichtig oder kann es bis morgen warten?",
+   "ru": "Да, у него встреча до 17:00. Это важно или может подождать до завтра?"
+  },
+  {
+   "s": "A",
+   "de": "Ich komme morgen wieder.",
+   "ru": "Я зайду завтра."
+  }
+ ],
+ "notes": [
+  "Д1: seit + Dativ = «уже (столько-то) / с (какого-то момента)»: seit drei Wochen — уже три недели. Действие ещё продолжается, поэтому в немецком настоящее время: sucht (а не «искала»)",
+  "Д1: einen Arbeitsplatz, einen Termin — Akkusativ мужского рода (der → einen) после bekommen / haben. ein Praktikum — средний род, не меняется",
+  "Д1: Es ist schwer, … zu bekommen — инфинитив с zu в конце: «трудно получить»",
+  "Д1: Geht es euch gut? Seid ihr gesund? — euch/ihr: обращение к нескольким людям (маме и папе)",
+  "Д2: Musst du…? — müssen: ich muss, du musst, er muss. Второй глагол — в конец: arbeiten",
+  "Д2: an den Feiertagen — an + Dativ Plural: артикль den и окончание -n (die Feiertage → den Feiertagen)",
+  "Д3: Studentin, а не Studentine: женский суффикс -in. Мн. ч. Studentinnen",
+  "Д3: der Plan → die Pläne: во множественном умлаут + -e",
+  "Д3: will … studieren / will … werden — wollen + инфинитив в конец. Busfahrer werden — профессия без артикля",
+  "Д3: zur Schule gehen = zu + der Schule — ходить в школу",
+  "Д4: das Papier → die Papiere (не Papieren). Papiere = документы",
+  "Д4: beim Chef = bei dem Chef — у шефа (bei + Dativ)",
+  "Д5: das Gespräch — средний род, поэтому das; der Chef — мужской, поэтому der",
+  "Д5: wiederkommen — отделяемый: Ich komme morgen wieder"
+ ]
+}
