@@ -1,0 +1,788 @@
+{
+ "id": "a1-wohnen",
+ "title": "Wohnen",
+ "subtitle": "Lektion 12 · Жильё",
+ "type": "vocab",
+ "sections": [
+  {
+   "title": "Wohnen",
+   "ru": "Жильё",
+   "words": [
+    {
+     "de": "das Haus",
+     "ru": "дом",
+     "pl": "die Häuser"
+    },
+    {
+     "de": "der Garten",
+     "ru": "сад",
+     "pl": "die Gärten"
+    },
+    {
+     "de": "die Wohnung",
+     "ru": "квартира",
+     "pl": "die Wohnungen"
+    },
+    {
+     "de": "wohnen",
+     "ru": "жить, проживать",
+     "note": "wohnen = где живёшь (адрес); leben = жить вообще (жизнь)"
+    },
+    {
+     "de": "das Apartment",
+     "ru": "апартаменты, небольшая квартира",
+     "pl": "die Apartments"
+    },
+    {
+     "de": "das Stockwerk",
+     "ru": "этаж",
+     "pl": "die Stockwerke"
+    },
+    {
+     "de": "der Stock",
+     "ru": "этаж (только ед. ч.)",
+     "note": "im ersten Stock = на 2-м этаже по-нашему! Первый этаж = das Erdgeschoss"
+    },
+    {
+     "de": "der Schlüssel",
+     "ru": "ключ",
+     "pl": "die Schlüssel"
+    },
+    {
+     "de": "oben",
+     "ru": "вверху, наверху"
+    },
+    {
+     "de": "unten",
+     "ru": "внизу"
+    },
+    {
+     "de": "die Treppe",
+     "ru": "лестница",
+     "pl": "die Treppen"
+    },
+    {
+     "de": "der Eingang",
+     "ru": "вход",
+     "pl": "die Eingänge"
+    },
+    {
+     "de": "der Ausgang",
+     "ru": "выход",
+     "pl": "die Ausgänge"
+    },
+    {
+     "de": "dort",
+     "ru": "там (где?)"
+    },
+    {
+     "de": "dorthin",
+     "ru": "туда (куда?)",
+     "note": "hin — движение от говорящего"
+    },
+    {
+     "de": "dorther",
+     "ru": "оттуда (откуда?)",
+     "note": "her — движение к говорящему"
+    },
+    {
+     "de": "hinten",
+     "ru": "сзади, позади"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "ein Haus mit Garten",
+     "ru": "дом с садом"
+    },
+    {
+     "de": "Er wohnt im vierten Stock.",
+     "ru": "Он живёт на четвёртом этаже (по-нашему — на пятом)."
+    },
+    {
+     "de": "Wir wohnen unten im Haus.",
+     "ru": "Мы живём внизу (на нижнем этаже) дома."
+    },
+    {
+     "de": "Der Eingang ist dort.",
+     "ru": "Вход там."
+    }
+   ],
+   "tip": "im + порядковое числительное + Stock: im ersten, zweiten, dritten, vierten Stock. Немцы считают этажи от Erdgeschoss (EG), поэтому их «1. Stock» = наш второй этаж."
+  },
+  {
+   "title": "Wohnungssuche",
+   "ru": "Поиск квартиры",
+   "words": [
+    {
+     "de": "die Anzeige",
+     "ru": "объявление",
+     "pl": "die Anzeigen"
+    },
+    {
+     "de": "suchen",
+     "ru": "искать"
+    },
+    {
+     "de": "finden",
+     "ru": "находить"
+    },
+    {
+     "de": "umziehen",
+     "ru": "переезжать",
+     "note": "отделяемый: Ich ziehe nach Erfurt um. Perfekt: ist umgezogen"
+    },
+    {
+     "de": "der Vermieter",
+     "ru": "арендодатель",
+     "pl": "die Vermieter"
+    },
+    {
+     "de": "die Vermieterin",
+     "ru": "арендодательница",
+     "pl": "die Vermieterinnen"
+    },
+    {
+     "de": "der Mieter",
+     "ru": "съёмщик, арендатор",
+     "pl": "die Mieter"
+    },
+    {
+     "de": "die Mieterin",
+     "ru": "съёмщица",
+     "pl": "die Mieterinnen"
+    },
+    {
+     "de": "vermieten",
+     "ru": "сдавать (в аренду)"
+    },
+    {
+     "de": "mieten",
+     "ru": "снимать (арендовать)"
+    },
+    {
+     "de": "die Miete",
+     "ru": "арендная плата, квартплата",
+     "pl": "die Mieten"
+    },
+    {
+     "de": "hoch",
+     "ru": "высокий",
+     "note": "перед сущ. теряет c: eine hohe Miete"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Ich suche eine Wohnung.",
+     "ru": "Я ищу квартиру."
+    },
+    {
+     "de": "Die Miete ist hoch.",
+     "ru": "Квартплата высокая."
+    }
+   ],
+   "tip": "ver- меняет направление: mieten — снимать (себе), vermieten — сдавать (другому). Как kaufen — verkaufen."
+  },
+  {
+   "title": "Wohnlage",
+   "ru": "Расположение",
+   "words": [
+    {
+     "de": "liegen",
+     "ru": "лежать; располагаться",
+     "note": "Die Wohnung liegt im Zentrum. — Квартира находится в центре."
+    },
+    {
+     "de": "die Ecke",
+     "ru": "угол",
+     "pl": "die Ecken"
+    },
+    {
+     "de": "weit",
+     "ru": "далеко, далёкий"
+    },
+    {
+     "de": "draußen",
+     "ru": "снаружи, на улице"
+    },
+    {
+     "de": "gefallen",
+     "ru": "нравиться",
+     "note": "+ Dativ: Die Wohnung gefällt mir. (er gefällt — с умлаутом)"
+    },
+    {
+     "de": "hell",
+     "ru": "светлый"
+    },
+    {
+     "de": "dunkel",
+     "ru": "тёмный",
+     "note": "перед сущ.: ein dunkles Zimmer"
+    },
+    {
+     "de": "leise",
+     "ru": "тихий (о звуке)"
+    },
+    {
+     "de": "laut",
+     "ru": "громкий, шумный"
+    },
+    {
+     "de": "ruhig",
+     "ru": "спокойный, тихий (о месте)"
+    },
+    {
+     "de": "(sehr) schön",
+     "ru": "(очень) красивый, хороший"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Wo liegt die Wohnung?",
+     "ru": "Где находится квартира?"
+    },
+    {
+     "de": "Das ist Ecke Baumstraße und Hauptstraße.",
+     "ru": "Это на углу Баумштрассе и Хауптштрассе."
+    },
+    {
+     "de": "Gleich hier um die Ecke.",
+     "ru": "Прямо здесь, за углом."
+    },
+    {
+     "de": "Nicht weit von meiner Arbeit.",
+     "ru": "Недалеко от моей работы."
+    },
+    {
+     "de": "Die Kinder können draußen spielen.",
+     "ru": "Дети могут играть на улице."
+    },
+    {
+     "de": "Wie gefällt Ihnen die Wohnung?",
+     "ru": "Как вам нравится квартира?"
+    }
+   ],
+   "tip": "leise ↔ laut — про звук; ruhig — про место/атмосферу: eine ruhige Straße (тихая улица)."
+  },
+  {
+   "title": "Zimmer & Möbel",
+   "ru": "Комнаты и мебель",
+   "words": [
+    {
+     "de": "das Zimmer",
+     "ru": "комната",
+     "pl": "die Zimmer"
+    },
+    {
+     "de": "der Raum",
+     "ru": "помещение, комната",
+     "pl": "die Räume"
+    },
+    {
+     "de": "das Kinderzimmer",
+     "ru": "детская",
+     "pl": "die Kinderzimmer"
+    },
+    {
+     "de": "das Schlafzimmer",
+     "ru": "спальня",
+     "pl": "die Schlafzimmer"
+    },
+    {
+     "de": "das Wohnzimmer",
+     "ru": "гостиная",
+     "pl": "die Wohnzimmer"
+    },
+    {
+     "de": "das Bett",
+     "ru": "кровать",
+     "pl": "die Betten"
+    },
+    {
+     "de": "der Schrank",
+     "ru": "шкаф",
+     "pl": "die Schränke"
+    },
+    {
+     "de": "breit",
+     "ru": "широкий"
+    },
+    {
+     "de": "schmal",
+     "ru": "узкий"
+    },
+    {
+     "de": "das Bild",
+     "ru": "картина",
+     "pl": "die Bilder"
+    },
+    {
+     "de": "die Wand",
+     "ru": "стена",
+     "pl": "die Wände"
+    },
+    {
+     "de": "die Blume",
+     "ru": "цветок",
+     "pl": "die Blumen"
+    },
+    {
+     "de": "der Baum",
+     "ru": "дерево",
+     "pl": "die Bäume"
+    },
+    {
+     "de": "die Rose",
+     "ru": "роза",
+     "pl": "die Rosen"
+    },
+    {
+     "de": "der Stuhl",
+     "ru": "стул",
+     "pl": "die Stühle"
+    },
+    {
+     "de": "der Tisch",
+     "ru": "стол",
+     "pl": "die Tische"
+    },
+    {
+     "de": "das Sofa",
+     "ru": "диван",
+     "pl": "die Sofas"
+    },
+    {
+     "de": "die Mitte",
+     "ru": "середина (только ед. ч.)"
+    },
+    {
+     "de": "neu",
+     "ru": "новый"
+    },
+    {
+     "de": "das Ding",
+     "ru": "вещь, штука",
+     "pl": "die Dinge"
+    },
+    {
+     "de": "kaputt",
+     "ru": "сломанный"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Bitte stell die Blumen in die Mitte.",
+     "ru": "Пожалуйста, поставь цветы в середину."
+    },
+    {
+     "de": "Das Bild hängt an der Wand.",
+     "ru": "Картина висит на стене."
+    },
+    {
+     "de": "Der Stuhl ist kaputt.",
+     "ru": "Стул сломан."
+    }
+   ]
+  },
+  {
+   "title": "Stellen, legen, stehen, liegen",
+   "ru": "Ставить/класть — стоять/лежать",
+   "words": [
+    {
+     "de": "stellen",
+     "ru": "ставить (вертикально)",
+     "note": "Куда? → Akkusativ: Ich stelle den Stuhl in die Küche."
+    },
+    {
+     "de": "legen",
+     "ru": "класть (горизонтально)",
+     "note": "Куда? → Akkusativ: Ich lege das Buch auf den Tisch."
+    },
+    {
+     "de": "stehen",
+     "ru": "стоять",
+     "note": "Где? → Dativ: Der Stuhl steht in der Küche."
+    },
+    {
+     "de": "liegen",
+     "ru": "лежать",
+     "note": "Где? → Dativ: Das Buch liegt auf dem Tisch."
+    },
+    {
+     "de": "sitzen",
+     "ru": "сидеть"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Ich stelle den Herd in die Küche. – Der Herd steht in der Küche.",
+     "ru": "Я ставлю плиту на кухню. – Плита стоит на кухне."
+    },
+    {
+     "de": "Ich lege das Handy auf den Tisch. – Das Handy liegt auf dem Tisch.",
+     "ru": "Я кладу телефон на стол. – Телефон лежит на столе."
+    },
+    {
+     "de": "Wir sitzen auf dem Sofa.",
+     "ru": "Мы сидим на диване."
+    }
+   ],
+   "tip": "Пары «действие → результат»: stellen → stehen, legen → liegen. Действие (wohin?) — Akkusativ, результат (wo?) — Dativ."
+  },
+  {
+   "title": "Küche & Bad",
+   "ru": "Кухня и ванная",
+   "words": [
+    {
+     "de": "die Küche",
+     "ru": "кухня",
+     "pl": "die Küchen"
+    },
+    {
+     "de": "der Herd",
+     "ru": "плита",
+     "pl": "die Herde"
+    },
+    {
+     "de": "der Kühlschrank",
+     "ru": "холодильник",
+     "pl": "die Kühlschränke"
+    },
+    {
+     "de": "daneben",
+     "ru": "рядом (с этим)"
+    },
+    {
+     "de": "das Licht",
+     "ru": "свет; лампа",
+     "pl": "die Lichter"
+    },
+    {
+     "de": "an sein",
+     "ru": "быть включённым",
+     "note": "Das Licht ist an. ↔ Das Licht ist aus."
+    },
+    {
+     "de": "das Feuer",
+     "ru": "огонь",
+     "pl": "die Feuer"
+    },
+    {
+     "de": "das Badezimmer",
+     "ru": "ванная комната",
+     "pl": "die Badezimmer"
+    },
+    {
+     "de": "das Bad",
+     "ru": "ванная; купание",
+     "pl": "die Bäder"
+    },
+    {
+     "de": "baden",
+     "ru": "купаться, принимать ванну"
+    },
+    {
+     "de": "die Dusche",
+     "ru": "душ",
+     "pl": "die Duschen"
+    },
+    {
+     "de": "duschen",
+     "ru": "принимать душ"
+    },
+    {
+     "de": "die Toilette",
+     "ru": "туалет",
+     "pl": "die Toiletten"
+    },
+    {
+     "de": "das WC",
+     "ru": "туалет (WC)",
+     "pl": "die WCs"
+    },
+    {
+     "de": "aufmachen",
+     "ru": "открывать",
+     "note": "отделяемый: Mach die Tür auf!"
+    },
+    {
+     "de": "zumachen",
+     "ru": "закрывать",
+     "note": "отделяемый: Mach bitte die Tür zu!"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Der Herd steht schon in der Küche.",
+     "ru": "Плита уже стоит на кухне."
+    },
+    {
+     "de": "Und der Kühlschrank? – Er steht daneben.",
+     "ru": "А холодильник? – Он стоит рядом."
+    },
+    {
+     "de": "Das Licht ist an.",
+     "ru": "Свет включён."
+    },
+    {
+     "de": "Kannst du bitte die Tür zumachen?",
+     "ru": "Можешь, пожалуйста, закрыть дверь?"
+    }
+   ]
+  },
+  {
+   "title": "Größe",
+   "ru": "Размер",
+   "words": [
+    {
+     "de": "der Quadratmeter (m², qm)",
+     "ru": "квадратный метр",
+     "pl": "die Quadratmeter"
+    },
+    {
+     "de": "der Meter (m)",
+     "ru": "метр",
+     "pl": "die Meter"
+    },
+    {
+     "de": "der Zentimeter (cm)",
+     "ru": "сантиметр",
+     "pl": "die Zentimeter"
+    },
+    {
+     "de": "groß",
+     "ru": "большой"
+    },
+    {
+     "de": "klein",
+     "ru": "маленький"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Die Wohnung hat 70 Quadratmeter.",
+     "ru": "Квартира площадью 70 квадратных метров."
+    },
+    {
+     "de": "Wie groß ist das Zimmer? – 20 qm.",
+     "ru": "Какого размера комната? – 20 кв. м."
+    }
+   ],
+   "tip": "В объявлениях: 3-Zi.-Whg., 75 qm, 3. OG = 3-комнатная квартира, 75 м², 3-й этаж (OG = Obergeschoss)."
+  },
+  {
+   "title": "Aus den Übungen",
+   "ru": "Из упражнений",
+   "words": [
+    {
+     "de": "die Kleidung",
+     "ru": "одежда (только ед. ч.)"
+    },
+    {
+     "de": "der Platz",
+     "ru": "место; площадь",
+     "pl": "die Plätze",
+     "note": "keinen Platz haben — не иметь места"
+    },
+    {
+     "de": "brauchen",
+     "ru": "нуждаться, нужно",
+     "note": "+ Akk.: Ich brauche einen Schrank."
+    },
+    {
+     "de": "teuer",
+     "ru": "дорогой"
+    },
+    {
+     "de": "billig",
+     "ru": "дешёвый"
+    },
+    {
+     "de": "zahlen",
+     "ru": "платить"
+    },
+    {
+     "de": "laufen",
+     "ru": "бегать; ходить пешком",
+     "note": "er läuft"
+    },
+    {
+     "de": "sich (Dat.) ansehen",
+     "ru": "посмотреть, осмотреть",
+     "note": "Ich sehe mir die Wohnung an."
+    },
+    {
+     "de": "jetzig",
+     "ru": "нынешний, теперешний"
+    },
+    {
+     "de": "verboten",
+     "ru": "запрещено"
+    },
+    {
+     "de": "es gibt + Akk.",
+     "ru": "есть, имеется",
+     "note": "Es gibt einen Platz für Fahrräder."
+    },
+    {
+     "de": "das Fahrrad",
+     "ru": "велосипед",
+     "pl": "die Fahrräder"
+    },
+    {
+     "de": "der Blick",
+     "ru": "вид; взгляд",
+     "pl": "die Blicke"
+    },
+    {
+     "de": "hinter",
+     "ru": "за, позади",
+     "note": "hinter dem Haus — за домом"
+    },
+    {
+     "de": "neben",
+     "ru": "рядом с",
+     "note": "neben der Treppe — рядом с лестницей"
+    },
+    {
+     "de": "gehen (Gerät)",
+     "ru": "работать (о приборе)",
+     "note": "Der Herd geht."
+    },
+    {
+     "de": "sofort",
+     "ru": "сразу, немедленно"
+    },
+    {
+     "de": "die Zeitung",
+     "ru": "газета",
+     "pl": "die Zeitungen"
+    },
+    {
+     "de": "nett",
+     "ru": "милый, приятный"
+    }
+   ],
+   "phrases": [
+    {
+     "de": "Das ist ja super!",
+     "ru": "Вот здорово!"
+    },
+    {
+     "de": "Wie hoch ist die Miete?",
+     "ru": "Какая аренда? (дословно: насколько высокая)"
+    },
+    {
+     "de": "Kann ich mir die Wohnung ansehen?",
+     "ru": "Можно мне посмотреть квартиру?"
+    },
+    {
+     "de": "Komm sofort her!",
+     "ru": "Немедленно иди сюда!"
+    }
+   ]
+  },
+  {
+   "title": "Bonus: Wortgeschichten",
+   "ru": "Откуда слова",
+   "words": [
+    {
+     "de": "Zimmer",
+     "ru": "изначально «строевой лес, брёвна» — комната = то, что сколочено из дерева. Родственно англ. timber"
+    },
+    {
+     "de": "Schlüssel",
+     "ru": "от schließen (запирать) — «запиралка». Тот же корень в Schloss (замок)"
+    },
+    {
+     "de": "Stockwerk",
+     "ru": "Stock (палка, балка) + Werk (работа, сооружение): этаж — ярус на деревянных балках"
+    },
+    {
+     "de": "Eingang / Ausgang",
+     "ru": "ein/aus + Gang (ход, от gehen): «входной ход» / «выходной ход»"
+    },
+    {
+     "de": "umziehen",
+     "ru": "um (пере-) + ziehen (тянуть): «перетаскивать» вещи на новое место"
+    },
+    {
+     "de": "Anzeige",
+     "ru": "от anzeigen (показывать, сообщать): объявление = то, что показывают всем"
+    },
+    {
+     "de": "Vermieter",
+     "ru": "ver- + mieten: ver- переворачивает действие (mieten → vermieten, kaufen → verkaufen)"
+    },
+    {
+     "de": "Kühlschrank",
+     "ru": "kühl (прохладный) + Schrank (шкаф) = «холодный шкаф»"
+    },
+    {
+     "de": "Herd",
+     "ru": "изначально «очаг»; родственно англ. hearth"
+    },
+    {
+     "de": "Wand",
+     "ru": "от winden (плести, вить): древние стены плели из прутьев и обмазывали глиной"
+    },
+    {
+     "de": "Garten",
+     "ru": "«огороженное место»; родственно англ. garden, yard и русскому «город/огород»"
+    },
+    {
+     "de": "Raum",
+     "ru": "родственно англ. room; изначально «простор, свободное место» (geräumig — просторный)"
+    },
+    {
+     "de": "Dusche",
+     "ru": "из франц. douche ← итал. doccia (водосток, струя)"
+    },
+    {
+     "de": "Toilette",
+     "ru": "из франц. toilette ← toile (ткань): салфетка на туалетном столике → весь туалет"
+    },
+    {
+     "de": "WC",
+     "ru": "англ. water closet — «водяной чуланчик»; по-немецки читается «ве-це»"
+    },
+    {
+     "de": "daneben",
+     "ru": "da (там/это) + neben (рядом) = «рядом с этим»"
+    },
+    {
+     "de": "dorthin / dorther",
+     "ru": "dort + hin (от меня) / her (ко мне). Так же: wohin? woher? Komm her! Geh hin!"
+    },
+    {
+     "de": "Badezimmer",
+     "ru": "baden (купаться) + Zimmer: «комната для купания»"
+    },
+    {
+     "de": "Kleidung",
+     "ru": "от das Kleid (платье) — изначально «ткань»; Kleidung = всё, во что одеваются. Родственно англ. cloth/clothes"
+    },
+    {
+     "de": "Fahrrad",
+     "ru": "fahren (ехать) + Rad (колесо) = «колесо для езды»"
+    },
+    {
+     "de": "verboten",
+     "ru": "от verbieten = ver- + bieten (предлагать): ver- снова переворачивает смысл → «запретить». Родственно англ. forbid"
+    },
+    {
+     "de": "Platz",
+     "ru": "из лат. platea (широкая улица) — родственно франц. place, рус. «плац»"
+    },
+    {
+     "de": "ansehen",
+     "ru": "an (на) + sehen (смотреть) = «смотреть на»"
+    },
+    {
+     "de": "billig",
+     "ru": "изначально «справедливый, честный» (честная цена) → «дешёвый»"
+    }
+   ]
+  }
+ ]
+}

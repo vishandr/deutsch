@@ -1,0 +1,226 @@
+{
+ "id": "a1-wohnen-dialoge",
+ "title": "Wohnen · Dialoge",
+ "subtitle": "Lektion 12 · Диалоги",
+ "type": "dialog",
+ "speakers": {
+  "#": "▶",
+  "K": "Kind",
+  "M": "Mutter",
+  "A": "A",
+  "B": "B"
+ },
+ "lines": [
+  {
+   "s": "#",
+   "de": "Die neue Wohnung · Dialog 1 · Der Schrank",
+   "ru": "Новая квартира · Диалог 1 · Шкаф"
+  },
+  {
+   "s": "K",
+   "de": "Kann ich heute schon in meinem Bett schlafen?",
+   "ru": "Можно мне уже сегодня спать в своей кровати?"
+  },
+  {
+   "s": "M",
+   "de": "Ja, wir wollen auch den Schrank ins Zimmer stellen.",
+   "ru": "Да, и шкаф мы тоже хотим поставить в комнату."
+  },
+  {
+   "s": "K",
+   "de": "Aber der ist so breit. Dann habe ich keinen Platz mehr zum Spielen.",
+   "ru": "Но он такой широкий. Тогда мне больше негде будет играть."
+  },
+  {
+   "s": "M",
+   "de": "Du brauchst aber einen Schrank für die Kleidung.",
+   "ru": "Но шкаф-то для одежды тебе нужен."
+  },
+  {
+   "s": "#",
+   "de": "Die neue Wohnung · Dialog 2 · Das Sofa",
+   "ru": "Новая квартира · Диалог 2 · Диван"
+  },
+  {
+   "s": "A",
+   "de": "Wohin kommt das Bild?",
+   "ru": "Куда пойдёт картина?"
+  },
+  {
+   "s": "B",
+   "de": "Ins Wohnzimmer, bitte. Ist Luise im Wohnzimmer?",
+   "ru": "В гостиную, пожалуйста. Луиза в гостиной?"
+  },
+  {
+   "s": "A",
+   "de": "Ja, sie sitzt auf dem Sofa und liest. Und euer Hund liegt daneben und schläft.",
+   "ru": "Да, она сидит на диване и читает. А ваша собака лежит рядом и спит."
+  },
+  {
+   "s": "B",
+   "de": "Was? Der Hund liegt auf dem Sofa? Das Sofa ist neu! Bello, komm sofort her!",
+   "ru": "Что? Собака лежит на диване? Диван же новый! Белло, быстро иди сюда!"
+  },
+  {
+   "s": "#",
+   "de": "Die neue Wohnung · Dialog 3 · Die Küche",
+   "ru": "Новая квартира · Диалог 3 · Кухня"
+  },
+  {
+   "s": "A",
+   "de": "Hier sind die Blumen von deiner Mutter.",
+   "ru": "Вот цветы от твоей мамы."
+  },
+  {
+   "s": "B",
+   "de": "Bitte bring sie in die Küche und stell sie gleich ins Wasser.",
+   "ru": "Отнеси их, пожалуйста, на кухню и сразу поставь в воду."
+  },
+  {
+   "s": "B",
+   "de": "Geht der Herd schon? Ich möchte heute Abend kochen.",
+   "ru": "Плита уже работает? Я хочу сегодня вечером готовить."
+  },
+  {
+   "s": "A",
+   "de": "Ja, das ist gut, der Kühlschrank geht auch, das Bier ist schon kalt.",
+   "ru": "Да, всё в порядке, холодильник тоже работает, пиво уже холодное."
+  },
+  {
+   "s": "#",
+   "de": "Wohnungssuche · Dialog 1 · Eine Wohnung ab Mai",
+   "ru": "Поиск квартиры · Диалог 1 · Квартира с мая"
+  },
+  {
+   "s": "A",
+   "de": "Ich muss umziehen. Ich suche eine Wohnung.",
+   "ru": "Мне надо переезжать. Я ищу квартиру."
+  },
+  {
+   "s": "A",
+   "de": "Ich lese jeden Tag die Anzeigen in der Zeitung. Aber da ist nichts.",
+   "ru": "Каждый день читаю объявления в газете. Но там ничего нет."
+  },
+  {
+   "s": "B",
+   "de": "Mein Vermieter hat eine. Er will sie ab Mai neu vermieten.",
+   "ru": "У моего арендодателя есть одна. С мая он хочет сдать её новым жильцам."
+  },
+  {
+   "s": "A",
+   "de": "Das ist ja super! Wie groß ist die Wohnung und wie hoch ist die Miete?",
+   "ru": "Вот здорово! Какая там площадь и какая аренда?"
+  },
+  {
+   "s": "B",
+   "de": "60 Quadratmeter. Sie kostet 650 Euro, glaube ich.",
+   "ru": "60 квадратных метров. Стоит 650 евро, кажется."
+  },
+  {
+   "s": "A",
+   "de": "Wo liegt die Wohnung?",
+   "ru": "Где находится квартира?"
+  },
+  {
+   "s": "B",
+   "de": "Hier um die Ecke, in der Schimperstraße 23 im 3. Stock.",
+   "ru": "Здесь за углом, Шимперштрассе 23, третий этаж."
+  },
+  {
+   "s": "A",
+   "de": "Kann ich mir die Wohnung ansehen?",
+   "ru": "Можно мне посмотреть квартиру?"
+  },
+  {
+   "s": "B",
+   "de": "Der jetzige Mieter ist noch in der Wohnung, aber ich kann ihn fragen.",
+   "ru": "Нынешний жилец ещё живёт там, но я могу его спросить."
+  },
+  {
+   "s": "#",
+   "de": "Wohnungssuche · Dialog 2 · Das neue Apartment",
+   "ru": "Поиск квартиры · Диалог 2 · Новая квартира"
+  },
+  {
+   "s": "A",
+   "de": "Und wie ist dein neues Apartment?",
+   "ru": "Ну и как твоя новая квартира?"
+  },
+  {
+   "s": "B",
+   "de": "Wirklich sehr schön. Die Zimmer sind 2,5 Meter hoch und sehr hell.",
+   "ru": "Правда очень хорошая. Высота комнат 2,5 метра, и они очень светлые."
+  },
+  {
+   "s": "B",
+   "de": "Ich habe wirklich viel Licht. Die Wohnung gefällt mir sehr gut.",
+   "ru": "Света у меня правда много. Квартира мне очень нравится."
+  },
+  {
+   "s": "A",
+   "de": "Und wie teuer ist das Apartment?",
+   "ru": "А сколько она стоит?"
+  },
+  {
+   "s": "B",
+   "de": "Es ist billig. Ich zahle nur 400 Euro für 35 Quadratmeter.",
+   "ru": "Она дешёвая. Я плачу всего 400 евро за 35 квадратных метров."
+  },
+  {
+   "s": "A",
+   "de": "Wohnt der Vermieter im Haus?",
+   "ru": "Хозяин живёт в том же доме?"
+  },
+  {
+   "s": "B",
+   "de": "Ja, aber er ist sehr nett.",
+   "ru": "Да, но он очень приятный."
+  },
+  {
+   "s": "#",
+   "de": "Wohnungssuche · Dialog 3 · Treppen und Fahrräder",
+   "ru": "Поиск квартиры · Диалог 3 · Лестницы и велосипеды"
+  },
+  {
+   "s": "A",
+   "de": "Wohnt ihr jetzt auch in der Kiskerstraße?",
+   "ru": "Вы теперь тоже живёте на Кискерштрассе?"
+  },
+  {
+   "s": "B",
+   "de": "Ja, wir wohnen unten, gleich neben der Treppe.",
+   "ru": "Да, мы живём внизу, прямо рядом с лестницей."
+  },
+  {
+   "s": "A",
+   "de": "Könnt ihr eure Fahrräder in den Eingang stellen?",
+   "ru": "Вам можно ставить велосипеды в подъезде?"
+  },
+  {
+   "s": "B",
+   "de": "Nein, das ist verboten, aber es gibt einen Platz für Fahrräder hinter dem Haus.",
+   "ru": "Нет, это запрещено, но за домом есть место для велосипедов."
+  },
+  {
+   "s": "A",
+   "de": "Ich besuche gerade Maria, sie wohnt oben im 4. Stock.",
+   "ru": "Я как раз в гостях у Марии, она живёт наверху, на четвёртом этаже."
+  },
+  {
+   "s": "B",
+   "de": "Ja, sie muss immer vier Treppen laufen, aber sie hat einen fantastischen Blick.",
+   "ru": "Да, ей всегда приходится пешком подниматься на четыре этажа, зато у неё фантастический вид."
+  }
+ ],
+ "notes": [
+  "den Schrank, keinen Platz, einen Platz: мужской род в Akkusativ получает -en (der → den, ein → einen, kein → keinen). Akkusativ нужен после stellen, haben и es gibt.",
+  "stellen/legen + куда? → Akkusativ: ins Zimmer, in die Küche, in den Eingang. stehen/liegen/sitzen + где? → Dativ: auf dem Sofa, neben der Treppe, hinter dem Haus.",
+  "aber в начале предложения или между двумя частями — обычное «но»: Aber der ist so breit. / …, aber ich kann ihn fragen. aber внутри фразы (Du brauchst aber…) — «но ведь / -то»: так возражают с нажимом.",
+  "Das ist ja super! — ja здесь частица удивления/радости («это же…»), а не «да». Перевод: «Вот здорово!» / «Это ж супер!»",
+  "sich (Dat.) etwas ansehen — посмотреть что-то (для себя), изучить: Kann ich mir die Wohnung ansehen? «Показать» по-немецки — zeigen.",
+  "gehen о приборах = работать: Der Herd geht. Der Kühlschrank geht nicht. (= ist kaputt)",
+  "Wohin kommt das Bild? — дословно «куда идёт картина?» = куда её поставить/повесить. kommen в значении «быть помещённым куда-то».",
+  "Treppen laufen — подниматься/спускаться по лестнице пешком. vier Treppen = четыре лестничных пролёта/этажа.",
+  "gefallen: es gefällt mir (с умлаутом в 3 л. ед. ч., как fahren → er fährt)."
+ ]
+}
