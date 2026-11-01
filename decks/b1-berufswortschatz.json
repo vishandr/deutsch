@@ -1,0 +1,847 @@
+{
+  "id": "b1-berufswortschatz",
+  "title": "Berufswortschatz B1",
+  "subtitle": "Профессиональная лексика из вакансий (Тюрингия) · B1",
+  "type": "vocab",
+  "sections": [
+    {
+      "title": "Die Stelle",
+      "ru": "Должность и компания",
+      "words": [
+        {
+          "de": "die Anstellung",
+          "pl": "die Anstellungen",
+          "ru": "трудоустройство",
+          "note": "Unbefristete Anstellung"
+        },
+        {
+          "de": "die Einstellung",
+          "pl": "die Einstellungen",
+          "ru": "найм; также настройка, отношение",
+          "note": "Einstellung von Servicepersonal"
+        },
+        {
+          "de": "die Stellenanforderungen",
+          "ru": "требования к должности",
+          "note": "die Stelle — должность"
+        },
+        {
+          "de": "der Aufgabenbereich",
+          "pl": "die Aufgabenbereiche",
+          "ru": "круг обязанностей",
+          "note": "Das fällt in Ihren Aufgabenbereich"
+        },
+        {
+          "de": "das Einsatzgebiet",
+          "pl": "die Einsatzgebiete",
+          "ru": "зона работы, территория",
+          "note": "der Einsatz — работа, применение · Im Einsatzgebiet der Niederlassung Erfurt"
+        },
+        {
+          "de": "die Niederlassung",
+          "pl": "die Niederlassungen",
+          "ru": "филиал, представительство",
+          "note": "Niederlassung Erfurt"
+        },
+        {
+          "de": "der Filialleiter",
+          "pl": "die Filialleiter",
+          "ru": "руководитель филиала",
+          "note": "die Filiale · Auch Filialleiter willkommen"
+        },
+        {
+          "de": "die Führungsposition",
+          "pl": "die Führungspositionen",
+          "ru": "руководящая должность",
+          "note": "die Führung — руководство · Andere Führungspositionen willkommen"
+        },
+        {
+          "de": "der Objektleiter",
+          "pl": "die Objektleiter",
+          "ru": "руководитель объекта",
+          "note": "facility management · Objektleiter / Kundenbetreuer"
+        },
+        {
+          "de": "das Arbeitsumfeld",
+          "ru": "рабочая среда",
+          "note": "Modernes Arbeitsumfeld"
+        },
+        {
+          "de": "das Arbeitsmittel",
+          "pl": "die Arbeitsmittel",
+          "ru": "рабочий инструмент",
+          "note": "Digitale Arbeitsmittel"
+        },
+        {
+          "de": "die Dienstleistung",
+          "pl": "die Dienstleistungen",
+          "ru": "услуга",
+          "note": "Ablauf unserer Dienstleistung"
+        },
+        {
+          "de": "unbesetzt",
+          "ru": "незанятый, вакантный",
+          "note": "eine Stelle besetzen · Unbesetzte Bezirke"
+        }
+      ],
+      "phrases": [
+        {
+          "de": "Wir suchen zum nächstmöglichen Zeitpunkt …",
+          "ru": "Мы ищем как можно скорее …"
+        },
+        {
+          "de": "Die Stelle ist ab sofort zu besetzen.",
+          "ru": "Вакансия открыта с сегодняшнего дня."
+        },
+        {
+          "de": "Das fällt in Ihren Aufgabenbereich.",
+          "ru": "Это входит в ваш круг обязанностей."
+        }
+      ],
+      "tip": "B1: глагол → существительное на -ung, всегда die: anstellen → die Anstellung, einstellen → die Einstellung. Einstellung многозначно: найм, настройка (в программе), отношение (zur Arbeit)."
+    },
+    {
+      "title": "Ihre Aufgaben",
+      "ru": "Типичные обязанности",
+      "words": [
+        {
+          "de": "durchführen",
+          "ru": "выполнять, проводить",
+          "note": "die Durchführung · Abrechnung der durchgeführten Aufträge"
+        },
+        {
+          "de": "die Erstellung",
+          "ru": "составление, подготовка",
+          "note": "erstellen — составлять документ · Erstellung von Abweichungsanalysen"
+        },
+        {
+          "de": "die Auswertung",
+          "pl": "die Auswertungen",
+          "ru": "анализ результатов",
+          "note": "auswerten · Abrechnung / Auswertung der Aufträge"
+        },
+        {
+          "de": "die Abrechnung",
+          "pl": "die Abrechnungen",
+          "ru": "расчёт, биллинг",
+          "note": "abrechnen · Abrechnung der Aufträge"
+        },
+        {
+          "de": "die Abweichung",
+          "pl": "die Abweichungen",
+          "ru": "отклонение",
+          "note": "abweichen · Abweichungsanalysen bei Ladezeiten"
+        },
+        {
+          "de": "die Überwachung",
+          "ru": "контроль, мониторинг",
+          "note": "überwachen · Überwachung von Fahrzeugdaten"
+        },
+        {
+          "de": "die Einhaltung",
+          "ru": "соблюдение",
+          "note": "einhalten · Einhaltung von Produktparametern"
+        },
+        {
+          "de": "die Bereitstellung",
+          "ru": "предоставление",
+          "note": "bereitstellen · Bereitstellung von Poolfahrzeugen"
+        },
+        {
+          "de": "die Implementierung",
+          "ru": "внедрение",
+          "note": "Implementierung digitaler Serviceleistungen"
+        },
+        {
+          "de": "die Verbesserung",
+          "pl": "die Verbesserungen",
+          "ru": "улучшение",
+          "note": "Verbesserungsprozesse im Arbeitsbereich"
+        },
+        {
+          "de": "der Ablauf",
+          "pl": "die Abläufe",
+          "ru": "процесс, ход",
+          "note": "Reibungsloser Ablauf"
+        },
+        {
+          "de": "unterstützen",
+          "ru": "поддерживать, помогать",
+          "note": "Sie unterstützen beim Vertrieb"
+        },
+        {
+          "de": "erfolgen",
+          "ru": "осуществляться",
+          "note": "Die Zustellung erfolgt mit dem PKW"
+        },
+        {
+          "de": "fördern",
+          "ru": "поддерживать, развивать",
+          "note": "Wir fördern Weiterbildung"
+        }
+      ],
+      "phrases": [
+        {
+          "de": "Erstellung und Auswertung von Berichten",
+          "ru": "Составление и анализ отчётов"
+        },
+        {
+          "de": "Sie sorgen für einen reibungslosen Ablauf.",
+          "ru": "Вы обеспечиваете бесперебойный процесс."
+        },
+        {
+          "de": "Die Abrechnung erfolgt monatlich.",
+          "ru": "Расчёт производится ежемесячно."
+        }
+      ],
+      "tip": "Стиль вакансий — «номинальный»: вместо «Sie erstellen Angebote» пишут «Erstellung von Angeboten». Узнавай глагол внутри: Erstellung ← erstellen, Einhaltung ← einhalten, Überwachung ← überwachen."
+    },
+    {
+      "title": "Verantwortung",
+      "ru": "Ответственность и конструкции",
+      "words": [
+        {
+          "de": "verantwortlich sein für",
+          "ru": "быть ответственным за",
+          "note": "Sie sind für den Verkauf verantwortlich"
+        },
+        {
+          "de": "zuständig sein für",
+          "ru": "отвечать за",
+          "note": "синоним verantwortlich · Sie sind für die Betreuung zuständig"
+        },
+        {
+          "de": "verfügen über",
+          "ru": "располагать, обладать",
+          "note": "Sie verfügen über Erfahrung"
+        },
+        {
+          "de": "Umgang mit",
+          "ru": "обращение с, владение",
+          "note": "Sicherer Umgang mit MS-Office"
+        },
+        {
+          "de": "Wert legen auf",
+          "ru": "придавать значение",
+          "note": "Viel Wert auf Teamarbeit legen"
+        },
+        {
+          "de": "abgestimmt auf",
+          "ru": "согласованный с",
+          "note": "Abgestimmt auf die Bedürfnisse"
+        },
+        {
+          "de": "im Rahmen",
+          "ru": "в рамках",
+          "note": "Im Rahmen der Berufsausbildung"
+        },
+        {
+          "de": "unter Berücksichtigung",
+          "ru": "с учётом",
+          "note": "berücksichtigen · Unter Berücksichtigung der Lenk- und Ruhezeiten"
+        },
+        {
+          "de": "überzeugen",
+          "ru": "убеждать",
+          "note": "Sie überzeugen durch Vertriebsorientierung"
+        },
+        {
+          "de": "abrunden",
+          "ru": "дополнять, завершать",
+          "note": "Das rundet Ihr Profil ab"
+        }
+      ],
+      "phrases": [
+        {
+          "de": "Ich war für die Tourenplanung zuständig.",
+          "ru": "Я отвечал за планирование маршрутов."
+        },
+        {
+          "de": "Ich verfüge über fünf Jahre Berufserfahrung.",
+          "ru": "У меня пять лет опыта работы."
+        },
+        {
+          "de": "Wir legen großen Wert auf Teamarbeit.",
+          "ru": "Мы придаём большое значение работе в команде."
+        },
+        {
+          "de": "Sie überzeugen durch Zuverlässigkeit.",
+          "ru": "Вас отличает надёжность (букв. вы убеждаете…)."
+        }
+      ],
+      "tip": "Учи глагол сразу с предлогом и падежом: zuständig für + Akk., verfügen über + Akk., Umgang mit + Dat. «im Rahmen» и «unter Berücksichtigung» требуют Genitiv: im Rahmen der Ausbildung."
+    },
+    {
+      "title": "Ihr Profil",
+      "ru": "Профиль кандидата",
+      "words": [
+        {
+          "de": "artverwandt",
+          "ru": "смежный",
+          "note": "Eine artverwandte Ausbildung"
+        },
+        {
+          "de": "gewerblich-technisch",
+          "ru": "производственно-технический",
+          "note": "↔ kaufmännisch · Gewerblich-technische Berufsausbildung"
+        },
+        {
+          "de": "gängig",
+          "ru": "распространённый, стандартный",
+          "note": "In der Logistikbranche gängige Software"
+        },
+        {
+          "de": "das Auftreten",
+          "ru": "манера держаться",
+          "note": "Sicheres Auftreten"
+        },
+        {
+          "de": "ausgeprägt",
+          "ru": "выраженный, развитый",
+          "note": "Ausgeprägte Kommunikationsfähigkeit"
+        },
+        {
+          "de": "die Einsatzbereitschaft",
+          "ru": "готовность выкладываться",
+          "note": "Einsatzbereitschaft zählt zu Ihren Stärken"
+        },
+        {
+          "de": "eigenverantwortlich",
+          "ru": "под собственную ответственность",
+          "note": "Eigenverantwortliche Tätigkeit"
+        },
+        {
+          "de": "verantwortungsbewusst",
+          "ru": "ответственный",
+          "note": "Ein verantwortungsbewusstes Unternehmen"
+        },
+        {
+          "de": "verantwortungsvoll",
+          "ru": "ответственный (о работе)",
+          "note": "Spaß an einer verantwortungsvollen Tätigkeit"
+        },
+        {
+          "de": "die Herausforderung",
+          "pl": "die Herausforderungen",
+          "ru": "вызов, сложная задача",
+          "note": "Die Herausforderung einer anspruchsvollen Tätigkeit"
+        },
+        {
+          "de": "der Besitz",
+          "ru": "владение, наличие",
+          "note": "Besitz eines Führerscheins"
+        },
+        {
+          "de": "die Fort- und Weiterbildung",
+          "ru": "повышение квалификации",
+          "note": "Individuelle Fort- und Weiterbildungsmaßnahmen"
+        },
+        {
+          "de": "der Mechatroniker",
+          "pl": "die Mechatroniker",
+          "ru": "мехатроник",
+          "note": "Ausbildung zum Mechatroniker"
+        }
+      ],
+      "phrases": [
+        {
+          "de": "Sie verfügen über ein sicheres Auftreten.",
+          "ru": "У вас уверенная манера держаться."
+        },
+        {
+          "de": "Ausbildung als Speditionskaufmann oder eine artverwandte Ausbildung",
+          "ru": "Образование экспедитора или смежное"
+        },
+        {
+          "de": "Ich suche eine neue Herausforderung.",
+          "ru": "Я ищу новую профессиональную задачу (клише для резюме)."
+        }
+      ],
+      "tip": "verantwortungsvoll — о работе (ответственная задача), verantwortungsbewusst — о человеке (сознательный). Обе формы встречаются в одной вакансии."
+    },
+    {
+      "title": "Wir bieten",
+      "ru": "Что предлагает фирма",
+      "words": [
+        {
+          "de": "der Einstiegslohn",
+          "ru": "стартовая зарплата",
+          "note": "Übertariflicher Einstiegslohn"
+        },
+        {
+          "de": "übertariflich",
+          "ru": "выше тарифа",
+          "note": "der Tarif · Übertariflicher Einstiegslohn"
+        },
+        {
+          "de": "leistungsgerecht",
+          "ru": "по результатам работы",
+          "note": "die Leistung · Eine leistungsgerechte Vergütung"
+        },
+        {
+          "de": "die Tariferhöhung",
+          "pl": "die Tariferhöhungen",
+          "ru": "повышение тарифа",
+          "note": "Regelmäßige Tariferhöhungen"
+        },
+        {
+          "de": "die Empfehlungsprämie",
+          "pl": "die Empfehlungsprämien",
+          "ru": "премия за рекомендацию",
+          "note": "Empfehlungsprämien für neue Mitarbeiter"
+        },
+        {
+          "de": "die Sozialleistungen",
+          "ru": "социальные льготы",
+          "note": "Zusatz- und Sozialleistungen"
+        },
+        {
+          "de": "vermögenswirksame Leistungen",
+          "ru": "накопительные выплаты (VL)"
+        },
+        {
+          "de": "betriebliche Altersvorsorge",
+          "ru": "корпоративная пенсия"
+        },
+        {
+          "de": "die Mitarbeiterbeteiligung",
+          "ru": "участие сотрудников в капитале",
+          "note": "Storck-Mitarbeiterbeteiligung"
+        },
+        {
+          "de": "bezuschusst",
+          "ru": "субсидированный",
+          "note": "der Zuschuss · Bezuschusstes ÖPNV-Monatsticket"
+        },
+        {
+          "de": "das Betriebsrestaurant",
+          "pl": "die Betriebsrestaurants",
+          "ru": "заводская столовая",
+          "note": "Bezuschusste Betriebsrestaurants"
+        },
+        {
+          "de": "die Kilometerpauschale",
+          "pl": "die Kilometerpauschalen",
+          "ru": "компенсация за километр",
+          "note": "die Pauschale · Mit einer Kilometerpauschale vergütet"
+        },
+        {
+          "de": "vergüten",
+          "ru": "оплачивать, компенсировать",
+          "note": "Fahrten werden mit einer Kilometerpauschale vergütet"
+        },
+        {
+          "de": "Kostenlose Getränke",
+          "ru": "бесплатные напитки",
+          "note": "Kostenlose Getränke und Parkplätze"
+        },
+        {
+          "de": "das Wohlbefinden",
+          "ru": "хорошее самочувствие",
+          "note": "Für Ihre Gesundheit und Ihr Wohlbefinden"
+        },
+        {
+          "de": "Heiligabend / Silvester",
+          "ru": "сочельник / канун Нового года",
+          "note": "Heiligabend und Silvester frei"
+        }
+      ],
+      "phrases": [
+        {
+          "de": "Wir bieten einen übertariflichen Einstiegslohn.",
+          "ru": "Мы предлагаем стартовую зарплату выше тарифа."
+        },
+        {
+          "de": "Fahrten werden mit einer Kilometerpauschale vergütet.",
+          "ru": "Поездки компенсируются по фиксированной ставке за км."
+        },
+        {
+          "de": "Gibt es eine betriebliche Altersvorsorge?",
+          "ru": "Есть ли корпоративная пенсия?"
+        }
+      ],
+      "tip": "Tarif — коллективный договор отрасли. tariflich = по тарифу, übertariflich = выше. Passiv в вакансиях: «wird vergütet» = оплачивается."
+    },
+    {
+      "title": "Team und Klima",
+      "ru": "Атмосфера в коллективе",
+      "words": [
+        {
+          "de": "der Zusammenhalt",
+          "ru": "сплочённость",
+          "note": "Teamzusammenhalt"
+        },
+        {
+          "de": "eingespielt",
+          "ru": "сработанный, сыгранный",
+          "note": "Ein eingespieltes Team"
+        },
+        {
+          "de": "wertschätzend",
+          "ru": "уважительный",
+          "note": "Wertschätzendes Arbeitsumfeld"
+        },
+        {
+          "de": "abwechslungsreich",
+          "ru": "разнообразный",
+          "note": "Abwechslungsreiche Team-Events"
+        },
+        {
+          "de": "vielseitig",
+          "ru": "разносторонний",
+          "note": "Eine vielseitige Tätigkeit"
+        },
+        {
+          "de": "anspruchsvoll",
+          "ru": "требовательный, сложный",
+          "note": "Eine anspruchsvolle Tätigkeit"
+        },
+        {
+          "de": "reibungslos",
+          "ru": "бесперебойный",
+          "note": "Reibungsloser Ablauf"
+        },
+        {
+          "de": "umfassend",
+          "ru": "всеобъемлющий",
+          "note": "Umfassender Kundenservice"
+        },
+        {
+          "de": "maßgeschneidert",
+          "ru": "индивидуальный, под заказ",
+          "note": "Maßgeschneiderte Problemlösungen"
+        },
+        {
+          "de": "bei Wind und Wetter",
+          "ru": "в любую погоду",
+          "note": "Arbeit an der frischen Luft, auch bei Wind & Wetter"
+        }
+      ],
+      "phrases": [
+        {
+          "de": "Sie erwartet ein eingespieltes Team.",
+          "ru": "Вас ждёт сработанная команда."
+        },
+        {
+          "de": "eine vielseitige und anspruchsvolle Tätigkeit",
+          "ru": "разносторонняя и сложная работа"
+        }
+      ]
+    },
+    {
+      "title": "Vertrieb und Service",
+      "ru": "Продажи и сервис",
+      "words": [
+        {
+          "de": "der Vertrieb",
+          "ru": "сбыт, отдел продаж",
+          "note": "Vertriebsorientierung · Erfahrung im Servicevertrieb"
+        },
+        {
+          "de": "der Verkauf",
+          "pl": "die Verkäufe",
+          "ru": "продажа",
+          "note": "verkaufen · Der Verkauf von Ersatzteilen"
+        },
+        {
+          "de": "das Angebot",
+          "pl": "die Angebote",
+          "ru": "коммерческое предложение",
+          "note": "Erstellung von Reparaturangeboten"
+        },
+        {
+          "de": "der Außendienst",
+          "ru": "выездная работа",
+          "note": "↔ der Innendienst · Serviceberater Außendienst"
+        },
+        {
+          "de": "der Berater",
+          "pl": "die Berater",
+          "ru": "консультант",
+          "note": "beraten — консультировать · Serviceberater"
+        },
+        {
+          "de": "die Beratung",
+          "pl": "die Beratungen",
+          "ru": "консультирование",
+          "note": "Betreuung und Beratung"
+        },
+        {
+          "de": "die Betreuung",
+          "ru": "обслуживание, ведение клиента",
+          "note": "betreuen · Betreuung und Beratung Ihrer Kunden"
+        },
+        {
+          "de": "die Begleitung",
+          "ru": "сопровождение",
+          "note": "begleiten · Verkauf und Begleitung"
+        },
+        {
+          "de": "der Kundenbetreuer",
+          "pl": "die Kundenbetreuer",
+          "ru": "менеджер по работе с клиентами",
+          "note": "Objektleiter / Kundenbetreuer"
+        },
+        {
+          "de": "der Kundendienst",
+          "ru": "сервисная служба",
+          "note": "Kundendienstleistungen"
+        },
+        {
+          "de": "die Kundenzufriedenheit",
+          "ru": "удовлетворённость клиентов",
+          "note": "Sichern der Kundenzufriedenheit"
+        },
+        {
+          "de": "bestehend",
+          "ru": "действующий, существующий",
+          "note": "Bestehende Kunden"
+        },
+        {
+          "de": "Neukunden akquirieren",
+          "ru": "привлекать новых клиентов",
+          "note": "die Akquise"
+        },
+        {
+          "de": "das Bedürfnis",
+          "pl": "die Bedürfnisse",
+          "ru": "потребность",
+          "note": "Bedürfnisse unserer Kunden"
+        },
+        {
+          "de": "die Baumaschine",
+          "pl": "die Baumaschinen",
+          "ru": "строительная машина",
+          "note": "Rund um die Baumaschine"
+        }
+      ],
+      "phrases": [
+        {
+          "de": "Betreuung und Beratung bestehender Kunden",
+          "ru": "Ведение и консультирование действующих клиентов"
+        },
+        {
+          "de": "Sie akquirieren Neukunden im Außendienst.",
+          "ru": "Вы привлекаете новых клиентов на выезде."
+        }
+      ],
+      "tip": "Außendienst (выезды к клиентам) ↔ Innendienst (в офисе). Partizip I как прилагательное: bestehen → bestehend (существующий), gelten → geltend."
+    },
+    {
+      "title": "Logistik B1",
+      "ru": "Логистика: диспетчеризация",
+      "words": [
+        {
+          "de": "die Logistikbranche",
+          "ru": "отрасль логистики",
+          "note": "die Branche · In der Logistikbranche gängige Software"
+        },
+        {
+          "de": "der Speditionskaufmann",
+          "pl": "die Speditionskaufleute",
+          "ru": "экспедитор (профессия)",
+          "note": "die Spedition · Ausbildung zum Speditionskaufmann"
+        },
+        {
+          "de": "die Fremdspedition",
+          "pl": "die Fremdspeditionen",
+          "ru": "сторонний перевозчик",
+          "note": "fremd — чужой · Beschaffung von Fremdspeditionen"
+        },
+        {
+          "de": "disponieren",
+          "ru": "распределять, планировать",
+          "note": "Fahrer disponieren"
+        },
+        {
+          "de": "die Beschaffung",
+          "ru": "закупка, привлечение",
+          "note": "beschaffen · Disposition und Beschaffung"
+        },
+        {
+          "de": "die Warenwirtschaft",
+          "ru": "товароучёт",
+          "note": "die Ware — товар · Software für Warenwirtschaft"
+        },
+        {
+          "de": "die Fahrzeugdaten",
+          "ru": "данные транспортного средства",
+          "note": "Archivierung von digitalen Fahrzeugdaten"
+        },
+        {
+          "de": "die Abfahrtszeit",
+          "pl": "die Abfahrtszeiten",
+          "ru": "время отправления",
+          "note": "Abfahrtszeiten"
+        },
+        {
+          "de": "die Anlieferzeit",
+          "pl": "die Anlieferzeiten",
+          "ru": "время доставки",
+          "note": "anliefern · Anlieferzeiten"
+        },
+        {
+          "de": "die Stellzeit",
+          "pl": "die Stellzeiten",
+          "ru": "время подачи машины",
+          "note": "Abweichungen bei Stellzeiten"
+        },
+        {
+          "de": "die Lenk- und Ruhezeiten",
+          "ru": "режим вождения и отдыха",
+          "note": "Lenk- und Ruhezeiten beachten"
+        },
+        {
+          "de": "frische Lebensmittel",
+          "ru": "свежие продукты",
+          "note": "Logistik frischer Lebensmittel"
+        },
+        {
+          "de": "geltend",
+          "ru": "действующий",
+          "note": "Geltende Gesetzmäßigkeiten"
+        },
+        {
+          "de": "die Gesetzmäßigkeit",
+          "pl": "die Gesetzmäßigkeiten",
+          "ru": "законная норма",
+          "note": "Geltende Gesetzmäßigkeiten"
+        }
+      ],
+      "phrases": [
+        {
+          "de": "Disposition unter Berücksichtigung der Lenk- und Ruhezeiten",
+          "ru": "Диспетчеризация с учётом режима вождения и отдыха"
+        },
+        {
+          "de": "Einhaltung der geltenden Gesetzmäßigkeiten",
+          "ru": "Соблюдение действующих законных норм"
+        }
+      ]
+    },
+    {
+      "title": "Produktion B1",
+      "ru": "Производство",
+      "words": [
+        {
+          "de": "die Bedienung",
+          "ru": "управление (машиной)",
+          "note": "bedienen · Bedienung und Steuerung von Anlagen"
+        },
+        {
+          "de": "die Steuerung",
+          "ru": "управление, контроль",
+          "note": "steuern · Steuerung von Produktionsanlagen"
+        },
+        {
+          "de": "die Rüstarbeiten",
+          "ru": "переналадка",
+          "note": "rüsten · Durchführung von Rüstarbeiten"
+        },
+        {
+          "de": "festgelegt",
+          "ru": "установленный",
+          "note": "festlegen · Nach festgelegten Standards"
+        },
+        {
+          "de": "die Süßwarenindustrie",
+          "ru": "кондитерская промышленность",
+          "note": "die Süßwaren · In der Süßwarenindustrie"
+        },
+        {
+          "de": "saisonal bedingt",
+          "ru": "в зависимости от сезона",
+          "note": "Saisonal bedingt auch am Samstag"
+        }
+      ],
+      "phrases": [
+        {
+          "de": "Bedienung und Steuerung von Produktionsanlagen",
+          "ru": "Управление производственными линиями"
+        },
+        {
+          "de": "Saisonal bedingt wird auch samstags gearbeitet.",
+          "ru": "В сезон работают и по субботам."
+        }
+      ]
+    },
+    {
+      "title": "Bonus: Wortgeschichten",
+      "ru": "Как устроены слова",
+      "words": [
+        {
+          "de": "Einsatz",
+          "ru": "ein + setzen (сажать, ставить) → тебя «вставили» в работу. Einsatzgebiet — где тебя задействуют, Einsatzbereitschaft — готовность к этому"
+        },
+        {
+          "de": "Herausforderung",
+          "ru": "heraus (наружу) + fordern (требовать) → «вызвать наружу». Буквально как русское «вызов»"
+        },
+        {
+          "de": "Vertrieb",
+          "ru": "vertreiben — разгонять, распространять (treiben — гнать). Сбыт = «разогнать» товар по рынку"
+        },
+        {
+          "de": "Beschaffung",
+          "ru": "schaffen (создавать, добывать) → beschaffen — раздобыть. Отдел закупок «раздобывает»"
+        },
+        {
+          "de": "Gesetzmäßigkeit",
+          "ru": "das Gesetz (закон; от setzen — «установленное») + -mäßig (соответствующий) + -keit"
+        },
+        {
+          "de": "reibungslos",
+          "ru": "reiben (тереть) → die Reibung (трение) + -los (без). Без трения = бесперебойно"
+        },
+        {
+          "de": "maßgeschneidert",
+          "ru": "das Maß (мерка) + schneidern (шить). Сшитый по мерке — как англ. tailor-made"
+        },
+        {
+          "de": "Auftreten",
+          "ru": "auftreten — выйти на сцену (treten — ступать). Как ты «выступаешь» перед людьми"
+        },
+        {
+          "de": "eingespielt",
+          "ru": "ein + spielen — сыграться (как музыканты). Eingespieltes Team — сыгранная команда"
+        },
+        {
+          "de": "Wohlbefinden",
+          "ru": "wohl (хорошо) + sich befinden (находиться, чувствовать себя) → «хорошо себя чувствовать»"
+        },
+        {
+          "de": "Zusammenhalt",
+          "ru": "zusammen (вместе) + halten (держать) → то, что держит людей вместе"
+        },
+        {
+          "de": "übertariflich",
+          "ru": "über (сверх) + Tarif (из араб. ta‘rīf — «оповещение», через итал.) → выше тарифа"
+        },
+        {
+          "de": "Spedition",
+          "ru": "итал. spedire — отправлять. Отсюда же Speditionskaufmann и Fremdspedition"
+        },
+        {
+          "de": "Abweichung",
+          "ru": "ab (от) + weichen (уступать, отходить) → отходить от нормы"
+        },
+        {
+          "de": "Überwachung",
+          "ru": "über (над) + wachen (бодрствовать, стеречь; ср. die Wache — караул) → надзор"
+        },
+        {
+          "de": "Rüstarbeiten",
+          "ru": "rüsten — снаряжать (ср. die Rüstung — доспехи). Переналадка = «переснаряжение» станка"
+        },
+        {
+          "de": "Niederlassung",
+          "ru": "sich niederlassen — поселиться, обосноваться (nieder — вниз + lassen). Филиал = «осевшая» часть фирмы"
+        },
+        {
+          "de": "Kilometerpauschale",
+          "ru": "die Pauschale из лат. pauschal — «оптом, целиком»: фиксированная сумма без подсчётов"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": "a1-stellenanzeigen",
+  "title": "Stellenanzeigen",
+  "subtitle": "Лексика из вакансий (Тюрингия) · A1",
+  "type": "vocab",
+  "sections": [
+    {
+      "title": "Die Stellenanzeige",
+      "ru": "Как устроена вакансия",
+      "words": [
+        {"de": "die Stellenanzeige", "pl": "die Stellenanzeigen", "ru": "объявление о вакансии", "note": "die Stelle (место, должность) + die Anzeige (объявление)"},
+        {"de": "die Aufgabe", "pl": "die Aufgaben", "ru": "задача", "note": "раздел «Ihre Aufgaben» — что ты будешь делать"},
+        {"de": "die Tätigkeit", "pl": "die Tätigkeiten", "ru": "деятельность, работа"},
+        {"de": "der Arbeitsplatz", "pl": "die Arbeitsplätze", "ru": "рабочее место"},
+        {"de": "m/w/d", "ru": "м/ж/д (männlich / weiblich / divers)", "note": "стоит в каждом названии вакансии"},
+        {"de": "die Vollzeit", "ru": "полная занятость", "note": "↔ die Teilzeit — неполная"},
+        {"de": "unbefristet", "ru": "бессрочный (договор)", "note": "↔ befristet — срочный"},
+        {"de": "die Einarbeitung", "ru": "ввод в должность, обучение на месте"},
+        {"de": "der Ansprechpartner", "pl": "die Ansprechpartner", "ru": "контактное лицо"},
+        {"de": "der Kunde", "pl": "die Kunden", "ru": "клиент", "note": "особое слово: den Kunden, dem Kunden"},
+        {"de": "der Auftrag", "pl": "die Aufträge", "ru": "заказ, поручение"},
+        {"de": "der Standort", "pl": "die Standorte", "ru": "место расположения, площадка"},
+        {"de": "die Abteilung", "pl": "die Abteilungen", "ru": "отдел"},
+        {"de": "vor Ort", "ru": "на месте"}
+      ],
+      "phrases": [
+        {"de": "Anlagenführer (m/w/d) in Vollzeit", "ru": "Оператор линии (м/ж/д), полная занятость"},
+        {"de": "Ihre Aufgaben", "ru": "Ваши задачи"},
+        {"de": "Wer ist mein Ansprechpartner?", "ru": "Кто моё контактное лицо?"},
+        {"de": "Die Stelle ist unbefristet.", "ru": "Должность бессрочная."}
+      ],
+      "tip": "Артикль подсказывает окончание: слова на -ung, -keit, -heit — всегда die (die Einarbeitung, die Tätigkeit). Составное слово берёт артикль у последней части: der Platz → der Arbeitsplatz."
+    },
+    {
+      "title": "Das bringen Sie mit",
+      "ru": "Требования к кандидату",
+      "words": [
+        {"de": "die Ausbildung", "pl": "die Ausbildungen", "ru": "профессиональное образование", "note": "немецкая дуальная система: учёба + практика"},
+        {"de": "die Berufsausbildung", "ru": "профобразование"},
+        {"de": "abgeschlossen", "ru": "законченный", "note": "abgeschlossene Ausbildung — законченное образование"},
+        {"de": "die Erfahrung", "pl": "die Erfahrungen", "ru": "опыт"},
+        {"de": "die Kenntnisse", "ru": "знания", "note": "только мн. число"},
+        {"de": "die Grundkenntnisse", "ru": "базовые знания", "note": "только мн. число"},
+        {"de": "der Führerschein", "pl": "die Führerscheine", "ru": "водительские права", "note": "Führerschein Klasse B — легковой"},
+        {"de": "das Mindestalter", "ru": "минимальный возраст"},
+        {"de": "wünschenswert", "ru": "желательно"},
+        {"de": "zwingend", "ru": "обязательно", "note": "wünschenswert, aber nicht zwingend"},
+        {"de": "kaufmännisch", "ru": "коммерческий", "note": "↔ technisch"},
+        {"de": "die Fachkraft", "pl": "die Fachkräfte", "ru": "специалист"}
+      ],
+      "phrases": [
+        {"de": "Ich habe einen Führerschein.", "ru": "У меня есть права."},
+        {"de": "Ich habe Erfahrung in der Logistik.", "ru": "У меня есть опыт в логистике."},
+        {"de": "Ich habe keine Ausbildung in Deutschland.", "ru": "У меня нет профобразования в Германии."},
+        {"de": "Führerschein Klasse B ist wünschenswert, aber nicht zwingend.", "ru": "Права категории B желательны, но не обязательны."}
+      ],
+      "tip": "Lektion 2–3: ein/kein в аккузативе. Ich habe einen Führerschein (der → einen), Ich habe keine Erfahrung (die → keine)."
+    },
+    {
+      "title": "Wie sind Sie?",
+      "ru": "Качества работника",
+      "words": [
+        {"de": "eigenständig", "ru": "самостоятельный"},
+        {"de": "zuverlässig", "ru": "надёжный", "note": "die Zuverlässigkeit — надёжность"},
+        {"de": "pünktlich", "ru": "пунктуальный", "note": "die Pünktlichkeit"},
+        {"de": "flexibel", "ru": "гибкий", "note": "die Flexibilität"},
+        {"de": "hilfsbereit", "ru": "готовый помочь"},
+        {"de": "kollegial", "ru": "дружный, товарищеский"},
+        {"de": "die Kommunikationsfähigkeit", "ru": "коммуникабельность"},
+        {"de": "die Bereitschaft zu", "ru": "готовность к", "note": "+ Dativ: Bereitschaft zur Nachtarbeit"},
+        {"de": "das Team", "pl": "die Teams", "ru": "команда"}
+      ],
+      "phrases": [
+        {"de": "Ich bin pünktlich und zuverlässig.", "ru": "Я пунктуальный и надёжный."},
+        {"de": "Ich arbeite gern im Team.", "ru": "Я люблю работать в команде."},
+        {"de": "Ich kann auch nachts arbeiten.", "ru": "Я могу работать и ночью."}
+      ],
+      "tip": "Прилагательное после sein не меняется: Ich bin zuverlässig. Окончания (zuverlässige Mitarbeiter) — это уже A2, пока просто узнавай."
+    },
+    {
+      "title": "Arbeitszeit",
+      "ru": "Рабочее время",
+      "words": [
+        {"de": "die Schicht", "pl": "die Schichten", "ru": "смена", "note": "Frühschicht, Spätschicht, Nachtschicht"},
+        {"de": "die Schichtarbeit", "ru": "сменная работа"},
+        {"de": "die Nachtarbeit", "ru": "ночная работа"},
+        {"de": "der Urlaub", "ru": "отпуск", "note": "29 Tage Urlaub pro Jahr"},
+        {"de": "bei Bedarf", "ru": "при необходимости"},
+        {"de": "einschließlich", "ru": "включительно", "note": "Montag bis einschließlich Samstag"},
+        {"de": "stattfinden", "ru": "проходить, иметь место", "note": "отделяемый: Die Arbeit findet nachts statt."}
+      ],
+      "phrases": [
+        {"de": "Wann beginnt die Frühschicht?", "ru": "Когда начинается утренняя смена?"},
+        {"de": "Wie viele Tage Urlaub habe ich?", "ru": "Сколько дней отпуска у меня?"},
+        {"de": "Ich muss auch am Samstag arbeiten.", "ru": "Мне надо работать и в субботу."}
+      ],
+      "tip": "Lektion 4: отделяемые глаголы и рамка. Die Schicht fängt um 6 Uhr an. — приставка уходит в конец предложения."
+    },
+    {
+      "title": "Geld und Extras",
+      "ru": "Зарплата и бонусы",
+      "words": [
+        {"de": "der Lohn", "pl": "die Löhne", "ru": "зарплата (рабочего)"},
+        {"de": "der Stundenlohn", "pl": "die Stundenlöhne", "ru": "почасовая ставка"},
+        {"de": "brutto / netto", "ru": "до / после вычета налогов"},
+        {"de": "die Vergütung", "ru": "оплата, вознаграждение", "note": "официальнее, чем Lohn или Gehalt"},
+        {"de": "die Prämie", "pl": "die Prämien", "ru": "премия"},
+        {"de": "der Nachtzuschlag", "pl": "die Nachtzuschläge", "ru": "ночная надбавка"},
+        {"de": "das Urlaubsgeld", "ru": "отпускные"},
+        {"de": "das Weihnachtsgeld", "ru": "рождественская выплата"},
+        {"de": "der Rabatt", "pl": "die Rabatte", "ru": "скидка"},
+        {"de": "das Betriebsfest", "pl": "die Betriebsfeste", "ru": "корпоратив", "note": "der Betrieb — предприятие"},
+        {"de": "das Firmenfahrzeug", "pl": "die Firmenfahrzeuge", "ru": "служебная машина"},
+        {"de": "der ÖPNV", "ru": "общественный транспорт", "note": "öffentlicher Personennahverkehr"}
+      ],
+      "phrases": [
+        {"de": "Wie hoch ist der Stundenlohn?", "ru": "Какая почасовая ставка?"},
+        {"de": "Wie hoch ist der Nachtzuschlag?", "ru": "Какая ночная надбавка?"},
+        {"de": "2.400 Euro brutto im Monat", "ru": "2400 евро до налогов в месяц"},
+        {"de": "Gibt es Weihnachtsgeld?", "ru": "Есть ли рождественская выплата?"}
+      ],
+      "tip": "Числа до 100 — Lektion 2. 2.400 = zweitausendvierhundert; точка в немецких числах отделяет тысячи, запятая — дробь (12,50 € = zwölf Euro fünfzig)."
+    },
+    {
+      "title": "Logistik",
+      "ru": "Логистика и доставка",
+      "words": [
+        {"de": "das Fahrzeug", "pl": "die Fahrzeuge", "ru": "транспортное средство"},
+        {"de": "der PKW", "pl": "die PKWs", "ru": "легковой автомобиль", "note": "↔ der LKW — грузовик"},
+        {"de": "der Zusteller", "pl": "die Zusteller", "ru": "доставщик, курьер"},
+        {"de": "die Zustellung", "pl": "die Zustellungen", "ru": "доставка"},
+        {"de": "der Springer", "pl": "die Springer", "ru": "подменный сотрудник"},
+        {"de": "der Bezirk", "pl": "die Bezirke", "ru": "участок, район"},
+        {"de": "die Tourenplanung", "ru": "планирование маршрутов"},
+        {"de": "die Disposition", "ru": "диспетчеризация", "note": "der Disponent — диспетчер"},
+        {"de": "die Ladezeit", "pl": "die Ladezeiten", "ru": "время погрузки", "note": "laden — грузить"},
+        {"de": "das Ersatzteil", "pl": "die Ersatzteile", "ru": "запчасть"},
+        {"de": "die Umgebung", "ru": "окрестности", "note": "Jena und Umgebung"}
+      ],
+      "phrases": [
+        {"de": "Die Zustellung erfolgt mit dem PKW.", "ru": "Доставка осуществляется на легковой машине."},
+        {"de": "Ich fahre die Tour in Jena und Umgebung.", "ru": "Я езжу по маршруту в Йене и окрестностях."}
+      ]
+    },
+    {
+      "title": "Produktion",
+      "ru": "Производство",
+      "words": [
+        {"de": "die Anlage", "pl": "die Anlagen", "ru": "установка, производственная линия"},
+        {"de": "der Anlagenführer", "pl": "die Anlagenführer", "ru": "оператор линии"},
+        {"de": "die Wartung", "ru": "техобслуживание"},
+        {"de": "die Reinigung", "ru": "уборка, чистка"},
+        {"de": "das Werk", "pl": "die Werke", "ru": "завод", "note": "das Werksgelände — территория завода"},
+        {"de": "technisches Verständnis", "ru": "техническое понимание"}
+      ],
+      "phrases": [
+        {"de": "Ich arbeite im Drei-Schicht-System.", "ru": "Я работаю в трёхсменном режиме."}
+      ]
+    },
+    {
+      "title": "Bonus: Wortgeschichten",
+      "ru": "Как устроены слова",
+      "words": [
+        {"de": "Erfahrung", "ru": "er- + fahren (ехать) → то, что «изъездил», прошёл сам. Как русское «опыт» — пережитое на своём пути"},
+        {"de": "Führerschein", "ru": "führen (вести, управлять) + Schein (документ; буквально «сияние» → бумага, которая «показывает»). Тот же Schein в der Geldschein — купюра"},
+        {"de": "Fahrzeug", "ru": "fahren + Zeug (вещь, снаряжение). Ср. das Werkzeug — инструмент, das Spielzeug — игрушка"},
+        {"de": "Urlaub", "ru": "от старого «разрешение уйти» — родственник erlauben (разрешать). Отпуск = тебя отпустили"},
+        {"de": "Kunde", "ru": "от kund — «известный, знакомый» (ср. kennen). Клиент — тот, кого знают; отсюда же die Kundin, der Kundendienst"},
+        {"de": "zuverlässig", "ru": "sich verlassen auf — полагаться на. Zuverlässig = на кого можно положиться"},
+        {"de": "pünktlich", "ru": "der Punkt (точка) → «точно в точку». Как русское «точный»"},
+        {"de": "Schicht", "ru": "буквально «слой» (геологический). Смена — один «слой» суток"},
+        {"de": "Zusteller", "ru": "zu (к) + stellen (ставить) — тот, кто «ставит к двери». die Zustellung — доставка"},
+        {"de": "Ausbildung", "ru": "aus + bilden (формировать; das Bild — картина, образ) → «выформировать» человека в специалиста"},
+        {"de": "Auftrag", "ru": "auf + tragen (нести) → «возложить на кого-то» = поручение, заказ"},
+        {"de": "Tätigkeit", "ru": "die Tat (дело, поступок) от tun → -ig → -keit. Деятельность = делание дел"},
+        {"de": "Einarbeitung", "ru": "ein (внутрь) + Arbeit + -ung → «вработаться внутрь», освоиться"},
+        {"de": "Ansprechpartner", "ru": "ansprechen (обратиться к кому-то) + Partner → тот, к кому обращаешься"},
+        {"de": "PKW / LKW", "ru": "Personenkraftwagen (машина для людей) / Lastkraftwagen (машина для груза; die Last — груз). Kraft = сила, мотор"},
+        {"de": "brutto / netto", "ru": "из итальянского: brutto — «грубый, необработанный», netto — «чистый»"},
+        {"de": "Weihnachtsgeld", "ru": "Weihnachten = weihen (освящать) + Nacht → «святые ночи» + Geld"},
+        {"de": "Rabatt", "ru": "итал. rabatto — «сбивать» цену. Та же идея, что русское «сбавить»"}
+      ]
+    }
+  ]
+}
