@@ -1,0 +1,227 @@
+{
+  "id": "a1-verben-akkusativ",
+  "title": "Verben mit Akkusativ",
+  "subtitle": "Глаголы + Akkusativ (wen? was?): из учебника, общение, работа",
+  "type": "vocab",
+  "sections": [
+    {
+      "title": "Essen, Geld, Wohnung",
+      "ru": "Еда, деньги, жильё (из учебника)",
+      "words": [
+        {"de": "bestellen", "ru": "заказывать", "note": "Ich bestelle einen Salat."},
+        {"de": "möchten (mögen)", "ru": "хотеть (вежливо, сейчас)", "note": "Ich möchte einen Kaffee, bitte."},
+        {"de": "essen", "ru": "есть", "note": "du isst, er isst • Er isst einen Apfel."},
+        {"de": "trinken", "ru": "пить", "note": "Wir trinken den Tee."},
+        {"de": "bezahlen", "ru": "платить (за что-то)", "note": "Ich bezahle den Kaffee. (без «für»!)"},
+        {"de": "mieten", "ru": "снимать, арендовать", "note": "Ich miete eine Wohnung."},
+        {"de": "vermieten", "ru": "сдавать в аренду", "note": "Herr Weber vermietet das Haus."}
+      ],
+      "phrases": [
+        {"de": "Ich nehme den Fisch.", "ru": "Я возьму рыбу. (в кафе)"},
+        {"de": "Wir möchten bitte bezahlen.", "ru": "Мы хотели бы расплатиться."}
+      ],
+      "tip": "Akkusativ меняет только мужской род: der → den, ein → einen, kein → keinen. das / die / Plural остаются как есть."
+    },
+    {
+      "title": "Lernen und Wissen",
+      "ru": "Учёба и знание (из учебника)",
+      "words": [
+        {"de": "lesen", "ru": "читать", "note": "du liest, er liest • Ich lese den Text."},
+        {"de": "lernen", "ru": "учить", "note": "Ich lerne den Wortschatz."},
+        {"de": "schreiben", "ru": "писать", "note": "Sie schreibt einen Brief."},
+        {"de": "verstehen", "ru": "понимать", "note": "Ich verstehe den Satz nicht."},
+        {"de": "wissen", "ru": "знать (факт, информацию)", "note": "ich weiß, du weißt, er weiß • Ich weiß es nicht."},
+        {"de": "kennen", "ru": "знать (человека, место), быть знакомым", "note": "Kennst du den Mann?"}
+      ],
+      "phrases": [
+        {"de": "Das weiß ich nicht.", "ru": "Этого я не знаю."},
+        {"de": "Ich kenne Erfurt gut.", "ru": "Я хорошо знаю Эрфурт."}
+      ],
+      "tip": "kennen = знаком с кем-то/чем-то (Ich kenne Berlin). wissen = знаю факт (Ich weiß, wo der Bahnhof ist)."
+    },
+    {
+      "title": "Kaufen, suchen, brauchen",
+      "ru": "Покупать, искать, нуждаться (из учебника)",
+      "words": [
+        {"de": "brauchen", "ru": "нуждаться, нужно", "note": "Ich brauche einen Tisch."},
+        {"de": "suchen", "ru": "искать", "note": "Ich suche den Bahnhof."},
+        {"de": "finden", "ru": "находить; считать (мнение)", "note": "Ich finde den Schlüssel nicht. / Ich finde den Film gut."},
+        {"de": "kaufen", "ru": "покупать", "note": "Wir kaufen einen Kühlschrank."},
+        {"de": "verkaufen", "ru": "продавать", "note": "Er verkauft sein Auto."},
+        {"de": "haben", "ru": "иметь", "note": "du hast, er hat • Hast du einen Hund?"},
+        {"de": "machen", "ru": "делать", "note": "Ich mache einen Kurs."},
+        {"de": "mögen", "ru": "любить, нравиться (вообще)", "note": "ich mag, du magst, er mag • Ich mag den Winter nicht."}
+      ],
+      "phrases": [
+        {"de": "Ich suche eine Arbeit.", "ru": "Я ищу работу."},
+        {"de": "Wie findest du das?", "ru": "Как тебе это?"}
+      ],
+      "tip": "ich mag = люблю вообще (Ich mag Kaffee). ich möchte = хочу сейчас (Ich möchte einen Kaffee)."
+    },
+    {
+      "title": "Im Alltag",
+      "ru": "В быту (из учебника)",
+      "words": [
+        {"de": "aufmachen", "ru": "открывать", "note": "отделяемый • Mach bitte das Fenster auf!"},
+        {"de": "zumachen", "ru": "закрывать", "note": "отделяемый • Ich mache die Tür zu."},
+        {"de": "öffnen", "ru": "открывать", "note": "Öffnen Sie bitte den Koffer."},
+        {"de": "kochen", "ru": "готовить, варить", "note": "Ich koche den Reis."},
+        {"de": "schneiden", "ru": "резать", "note": "Sie schneidet den Kuchen."},
+        {"de": "nehmen", "ru": "брать", "note": "du nimmst, er nimmt • Ich nehme den Bus."},
+        {"de": "einladen", "ru": "приглашать", "note": "отделяемый; du lädst ein • Ich lade dich ein."},
+        {"de": "besuchen", "ru": "навещать, посещать", "note": "Wir besuchen den Onkel."}
+      ],
+      "tip": "Местоимения в Akkusativ: ich → mich, du → dich, er → ihn, sie → sie, es → es, wir → uns, ihr → euch, Sie → Sie."
+    },
+    {
+      "title": "Kommunikation",
+      "ru": "Общение",
+      "words": [
+        {"de": "fragen", "ru": "спрашивать (кого-то)", "note": "Ich frage den Chef. (Akk! а не «у шефа»)"},
+        {"de": "anrufen", "ru": "звонить (кому-то)", "note": "отделяемый • Ich rufe dich morgen an. (Akk! а не «тебе»)"},
+        {"de": "sagen", "ru": "сказать", "note": "Sag das bitte noch einmal."},
+        {"de": "erklären", "ru": "объяснять", "note": "Können Sie das Wort erklären?"},
+        {"de": "zeigen", "ru": "показывать", "note": "Ich zeige den Weg."},
+        {"de": "wiederholen", "ru": "повторять", "note": "Wiederholen Sie bitte den Satz."},
+        {"de": "hören", "ru": "слышать, слушать", "note": "Ich höre dich nicht gut."},
+        {"de": "sehen", "ru": "видеть", "note": "du siehst, er sieht • Siehst du den Lkw?"},
+        {"de": "verstehen", "ru": "понимать", "note": "Verstehen Sie mich?"},
+        {"de": "treffen", "ru": "встречать (кого-то)", "note": "du triffst, er trifft • Ich treffe einen Kollegen."},
+        {"de": "brauchen", "ru": "нуждаться", "note": "Brauchen Sie Hilfe?"},
+        {"de": "schicken", "ru": "отправлять, посылать", "note": "Ich schicke die E-Mail."}
+      ],
+      "phrases": [
+        {"de": "Können Sie das bitte wiederholen?", "ru": "Можете, пожалуйста, повторить?"},
+        {"de": "Langsamer, bitte. Ich verstehe Sie nicht.", "ru": "Помедленнее, пожалуйста. Я вас не понимаю."},
+        {"de": "Wie sagt man das auf Deutsch?", "ru": "Как это сказать по-немецки?"},
+        {"de": "Kannst du mir das zeigen?", "ru": "Можешь мне это показать?"},
+        {"de": "Ich rufe Sie später an.", "ru": "Я вам позже перезвоню."}
+      ],
+      "tip": "Ловушка для русскоговорящих: fragen и anrufen идут с Akkusativ — Ich frage dich, Ich rufe dich an. А helfen, antworten, danken — с Dativ: Ich helfe dir (Dativ будет в Lektion 6–9)."
+    },
+    {
+      "title": "Bei der Arbeit: Lager und Transport",
+      "ru": "На работе: склад и транспорт",
+      "words": [
+        {"de": "beladen", "ru": "загружать (машину, фуру)", "note": "du belädst • Wir beladen den Lkw."},
+        {"de": "entladen", "ru": "разгружать (машину)", "note": "du entlädst • Wir entladen den Lkw."},
+        {"de": "einladen", "ru": "загружать внутрь (в машину)", "note": "отделяемый • Ich lade die Kisten ein. (и то же слово = «приглашать»!)"},
+        {"de": "ausladen", "ru": "выгружать (из машины)", "note": "отделяемый • Er lädt die Paletten aus."},
+        {"de": "abladen", "ru": "сгружать, выгружать (на место)", "note": "отделяемый • Wo laden wir den Sand ab?"},
+        {"de": "packen", "ru": "упаковывать, паковать", "note": "Ich packe den Karton."},
+        {"de": "auspacken", "ru": "распаковывать", "note": "отделяемый • Wir packen die Ware aus."},
+        {"de": "tragen", "ru": "нести, носить", "note": "du trägst, er trägt • Er trägt den Karton."},
+        {"de": "heben", "ru": "поднимать", "note": "Ich hebe die Kiste."},
+        {"de": "bringen", "ru": "приносить, привозить", "note": "Bring bitte den Hammer!"},
+        {"de": "holen", "ru": "сходить за чем-то, принести", "note": "Ich hole den Wagen."},
+        {"de": "abholen", "ru": "забирать (откуда-то)", "note": "отделяемый • Ich hole das Paket ab."},
+        {"de": "liefern", "ru": "доставлять, поставлять", "note": "Wir liefern die Ware morgen."},
+        {"de": "fahren", "ru": "водить, вести (машину)", "note": "du fährst, er fährt • Er fährt den Gabelstapler."},
+        {"de": "kontrollieren", "ru": "проверять, контролировать", "note": "Ich kontrolliere den Lieferschein."},
+        {"de": "zählen", "ru": "считать (количество)", "note": "Zähl bitte die Paletten."}
+      ],
+      "phrases": [
+        {"de": "Wann laden wir den Lkw aus?", "ru": "Когда мы разгружаем фуру?"},
+        {"de": "Kannst du die Kiste tragen?", "ru": "Можешь донести ящик?"},
+        {"de": "Ich hole schnell den Wagen.", "ru": "Я быстро схожу за тележкой."}
+      ],
+      "tip": "laden (грузить) меняет гласную: ich lade, du lädst, er lädt. Приставки: be-/ent- — неотделяемые (Wir entladen den Lkw), ein-/aus-/ab- — отделяемые (Wir laden den Lkw aus) — Lektion 4."
+    },
+    {
+      "title": "Bei der Arbeit: Werkstatt und Montage",
+      "ru": "На работе: мастерская, монтаж, ремонт",
+      "words": [
+        {"de": "reparieren", "ru": "чинить, ремонтировать", "note": "Ich repariere den Schrank."},
+        {"de": "einbauen", "ru": "встраивать, устанавливать (внутрь)", "note": "отделяемый • Er baut die Küche ein."},
+        {"de": "ausbauen", "ru": "демонтировать, вынимать", "note": "отделяемый • Wir bauen den Motor aus."},
+        {"de": "aufbauen", "ru": "собирать, монтировать (мебель)", "note": "отделяемый • Ich baue das Regal auf."},
+        {"de": "abbauen", "ru": "разбирать, демонтировать", "note": "отделяемый • Wir bauen das Bett ab."},
+        {"de": "montieren", "ru": "монтировать, устанавливать", "note": "Er montiert die Lampe."},
+        {"de": "anschließen", "ru": "подключать", "note": "отделяемый • Ich schließe die Waschmaschine an."},
+        {"de": "sägen", "ru": "пилить", "note": "Ich säge das Brett."},
+        {"de": "durchsägen", "ru": "распилить (насквозь)", "note": "отделяемый • Er sägt den Balken durch."},
+        {"de": "bohren", "ru": "сверлить", "note": "Ich bohre ein Loch."},
+        {"de": "schrauben", "ru": "закручивать (винт)", "note": "Ich schraube das Schild an die Wand."},
+        {"de": "messen", "ru": "измерять", "note": "du misst, er misst • Miss bitte die Wand!"},
+        {"de": "prüfen", "ru": "проверять, тестировать", "note": "Er prüft die Maschine."},
+        {"de": "wechseln", "ru": "менять, заменять", "note": "Ich wechsle den Reifen."},
+        {"de": "austauschen", "ru": "заменять (деталь)", "note": "отделяемый • Wir tauschen das Teil aus."},
+        {"de": "streichen", "ru": "красить (стены)", "note": "Wir streichen die Wand."},
+        {"de": "putzen", "ru": "чистить, убирать", "note": "Ich putze den Boden."},
+        {"de": "benutzen", "ru": "использовать, пользоваться", "note": "Benutzen Sie bitte den Helm!"},
+        {"de": "bedienen", "ru": "обслуживать, управлять (машиной, станком)", "note": "Er bedient die Maschine."}
+      ],
+      "phrases": [
+        {"de": "Kannst du den Schrank reparieren?", "ru": "Можешь починить шкаф?"},
+        {"de": "Die Maschine ist kaputt.", "ru": "Машина (станок) сломалась."},
+        {"de": "Ich brauche einen Bohrer und einen Schraubenzieher.", "ru": "Мне нужны дрель и отвёртка."}
+      ],
+      "tip": "«Установить» по-разному: einbauen — встроить внутрь (Küche, Motor), aufbauen — собрать (Regal, Zelt), montieren — смонтировать, anschließen — подключить к сети/воде, installieren — программу или технику."
+    },
+    {
+      "title": "Am Computer",
+      "ru": "За компьютером",
+      "words": [
+        {"de": "herunterladen", "ru": "скачать, загрузить (себе)", "note": "отделяемый; du lädst herunter • Ich lade die Datei herunter."},
+        {"de": "hochladen", "ru": "загрузить (на сервер)", "note": "отделяемый • Ich lade das Foto hoch."},
+        {"de": "installieren", "ru": "устанавливать (программу)", "note": "Ich installiere das Update."},
+        {"de": "speichern", "ru": "сохранять", "note": "Speichern Sie bitte die Datei."},
+        {"de": "löschen", "ru": "удалять", "note": "Ich lösche die E-Mail."},
+        {"de": "öffnen", "ru": "открывать", "note": "Öffne bitte den Ordner."},
+        {"de": "ausdrucken", "ru": "распечатать", "note": "отделяемый • Ich drucke den Vertrag aus."},
+        {"de": "senden", "ru": "отправлять", "note": "Ich sende den Link."},
+        {"de": "eingeben", "ru": "вводить (данные)", "note": "отделяемый; du gibst ein • Geben Sie das Passwort ein."}
+      ],
+      "phrases": [
+        {"de": "Kannst du mir den Link schicken?", "ru": "Можешь мне прислать ссылку?"},
+        {"de": "Das Programm funktioniert nicht.", "ru": "Программа не работает."}
+      ],
+      "tip": "herunterladen ← herunter (вниз) + laden; hochladen ← hoch (вверх) + laden. Как download / upload. В разговоре часто: runterladen."
+    },
+    {
+      "title": "Mit be- und ver-",
+      "ru": "Глаголы с приставками be- и ver-",
+      "words": [
+        {"de": "bekommen", "ru": "получать", "note": "НЕ «become»! • Ich bekomme einen Brief. / Er bekommt den Job."},
+        {"de": "besuchen", "ru": "навещать, посещать", "note": "Ich besuche einen Deutschkurs. (без «в»!)"},
+        {"de": "verdienen", "ru": "зарабатывать; заслуживать", "note": "Er verdient gutes Geld. / Du verdienst eine Pause."},
+        {"de": "verlieren", "ru": "терять; проигрывать", "note": "Ich habe den Schlüssel verloren. / Wir verlieren das Spiel."},
+        {"de": "versprechen", "ru": "обещать", "note": "du versprichst, er verspricht • Ich verspreche es dir. (что = Akk, кому = Dativ)"},
+        {"de": "versuchen", "ru": "пробовать, пытаться", "note": "Versuch den Kuchen! / Ich versuche, Deutsch zu sprechen."}
+      ],
+      "phrases": [
+        {"de": "Wie viel verdient man hier?", "ru": "Сколько здесь зарабатывают?"},
+        {"de": "Ich bekomme den Lohn am Monatsende.", "ru": "Я получаю зарплату в конце месяца."},
+        {"de": "Versuch es noch einmal!", "ru": "Попробуй ещё раз!"},
+        {"de": "Das verspreche ich.", "ru": "Обещаю."},
+        {"de": "Ich habe mein Handy verloren.", "ru": "Я потерял телефон."}
+      ],
+      "tip": "be- и ver- — неотделяемые приставки: они никогда не уходят в конец (Ich bekomme…, Ich verdiene…) и в Perfekt не получают ge-: bekommen, verloren, versucht, verdient. Ударение — на корень: be-KOM-men, ver-DIE-nen."
+    },
+    {
+      "title": "Bonus: Wortgeschichten",
+      "ru": "Разборы и происхождение слов",
+      "words": [
+        {"de": "laden / einladen", "ru": "В немецком было два разных глагола laden: «грузить» и «звать, вызывать». Они слились в одно слово, поэтому einladen = и «загрузить внутрь», и «пригласить»"},
+        {"de": "be-", "ru": "делает глагол переходным (с Akk.): zahlen → bezahlen (оплатить что-то), suchen → besuchen (посетить кого-то), laden → beladen (нагрузить машину)"},
+        {"de": "ent-", "ru": "значит «прочь, снять, обратно», как русское «раз-»: laden → entladen (разгрузить)"},
+        {"de": "ver-", "ru": "часто меняет направление действия: kaufen → verkaufen (продать), mieten → vermieten (сдать)"},
+        {"de": "bestellen", "ru": "be + stellen (ставить) → «поставить в очередь», заказать"},
+        {"de": "verstehen", "ru": "ver + stehen (стоять). Как англ. under-stand: «стоять под», понимать"},
+        {"de": "bezahlen", "ru": "be + Zahl (число) → «отсчитать числом», оплатить"},
+        {"de": "aufmachen / zumachen", "ru": "auf (открыто) + machen / zu (закрыто) + machen: «сделать открытым / закрытым»"},
+        {"de": "anrufen", "ru": "an (к) + rufen (звать, кричать) → «звать к себе», позвонить"},
+        {"de": "wiederholen", "ru": "wieder (снова) + holen (доставать) → «достать снова», повторить"},
+        {"de": "erklären", "ru": "er + klar (ясный) → «сделать ясным», объяснить"},
+        {"de": "durchsägen", "ru": "durch (сквозь) + sägen → «пилить насквозь», распилить"},
+        {"de": "reparieren", "ru": "из лат. reparare: re (снова) + parare (готовить) → «снова привести в порядок»"},
+        {"de": "einbauen / aufbauen", "ru": "ein (внутрь) + bauen (строить) → встроить; auf (вверх) + bauen → «построить вверх», собрать"},
+        {"de": "bekommen", "ru": "be + kommen (приходить) → «то, что к тебе пришло», получить. Англ. become — родственное слово, но значение ушло в другую сторону: «ложный друг»"},
+        {"de": "verdienen", "ru": "ver + dienen (служить) → «выслужить»: и заработать, и заслужить"},
+        {"de": "verlieren", "ru": "ver + старое liesan (терять). Родня англ. lose и loose; Perfekt: verloren (ср. англ. forlorn — «покинутый»)"},
+        {"de": "versprechen", "ru": "ver + sprechen (говорить) → «выговорить наперёд», пообещать. Sich versprechen — оговориться"},
+        {"de": "versuchen", "ru": "ver + suchen (искать) → «поискать способ», попробовать. Отсюда der Versuch — попытка, опыт"}
+      ]
+    }
+  ]
+}
