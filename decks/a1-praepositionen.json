@@ -1,0 +1,259 @@
+{
+  "id": "a1-praepositionen",
+  "title": "Präpositionen und Kasus",
+  "subtitle": "DaF leicht A1 · Предлоги места, времени и образа действия",
+  "type": "vocab",
+  "sections": [
+    {
+      "title": "Immer mit Akkusativ",
+      "ru": "Всегда Akkusativ",
+      "words": [
+        {"de": "für", "ru": "для; на (срок)", "note": "für meine Tochter (не meiner!) · für zwei Wochen"},
+        {"de": "ohne", "ru": "без", "note": "часто без артикля: ohne Zucker, ohne Auto"},
+        {"de": "bis", "ru": "до", "note": "bis morgen, bis 16 Uhr · с артиклем: bis zum / bis zur"},
+        {"de": "um", "ru": "в (точное время)", "note": "um 7 Uhr"},
+        {"de": "über", "ru": "больше чем (о времени)", "note": "über eine Stunde — больше часа"}
+      ],
+      "phrases": [
+        {"de": "Das Geschenk ist für meine Tochter.", "ru": "Подарок для моей дочери."},
+        {"de": "Meine Frau kommt für zwei Wochen.", "ru": "Моя жена приедет на две недели."},
+        {"de": "Ich fahre immer ohne Auto in die Stadt.", "ru": "Я всегда езжу в город без машины."},
+        {"de": "Ich habe über eine Stunde für den Lebenslauf gebraucht.", "ru": "Мне понадобилось больше часа на резюме."}
+      ],
+      "tip": "DOGFU: durch, ohne, gegen, für, um — всегда Akkusativ. Падеж задаёт предлог, а не русский вопрос: «для кого?» → für → Akkusativ."
+    },
+    {
+      "title": "Immer mit Dativ",
+      "ru": "Всегда Dativ",
+      "words": [
+        {"de": "ab", "ru": "с, начиная с", "note": "ab Montag — с понедельника (и дальше)"},
+        {"de": "aus", "ru": "из; из (материал)", "note": "aus der Ukraine · aus Plastik"},
+        {"de": "bei", "ru": "у, при, рядом", "note": "bei der Firma arbeiten · bei Familie Meyer · beim Arzt"},
+        {"de": "mit", "ru": "с; на (транспорт)", "note": "mit dem Bus, mit der Straßenbahn · исключение: zu Fuß"},
+        {"de": "nach", "ru": "в (город, страна); после", "note": "nach Erfurt · nach der Arbeit"},
+        {"de": "seit", "ru": "уже… (до сих пор)", "note": "с t! (seid — это ihr seid) · seit 2 Monaten, глагол в Präsens"},
+        {"de": "von … bis", "ru": "с … по; от … до", "note": "von Montag bis Freitag · vom Platz bis zum Rathaus"},
+        {"de": "zu", "ru": "к; в (учреждение)", "note": "zum Arzt, zur Arbeit, zur Bank"}
+      ],
+      "phrases": [
+        {"de": "Ich arbeite seit drei Jahren bei der Firma Peymann.", "ru": "Я работаю в фирме Пейманн уже три года."},
+        {"de": "Nach meiner Ausbildung habe ich bei Elektrolax gearbeitet.", "ru": "После обучения я работал в Электролакс."},
+        {"de": "Fahren Sie mit der Linie 1.", "ru": "Поезжайте на линии 1."},
+        {"de": "Wie komme ich zum Berliner Platz?", "ru": "Как пройти к Берлинской площади?"},
+        {"de": "Ich spreche oft Deutsch mit meinen Kollegen.", "ru": "Я часто говорю по-немецки с коллегами."},
+        {"de": "Er wohnt jetzt bei Familie Meyer.", "ru": "Он теперь живёт у семьи Майер."}
+      ],
+      "tip": "aus, bei, mit, nach, seit, von, zu — всегда Dativ, даже при движении (Ich gehe zum Arzt). Dativ мн.ч. добавляет -n: seit drei Jahren."
+    },
+    {
+      "title": "Wo? oder Wohin?",
+      "ru": "Dativ или Akkusativ",
+      "words": [
+        {"de": "in", "ru": "в (внутри)", "note": "im Haus (wo?) · ins Kino (wohin?) · in der Hauptstraße — на улице (адрес)"},
+        {"de": "an", "ru": "на, у (вертикально, край, вода)", "note": "an der Haltestelle · am Meer · ans Meer"},
+        {"de": "auf", "ru": "на (сверху)", "note": "auf dem Tisch (wo?) · auf den Tisch (wohin?)"},
+        {"de": "vor", "ru": "перед; назад (время)", "note": "vor dem Kino · vor einer Woche"},
+        {"de": "hinter", "ru": "за, позади", "note": "hinter dem Haus · ≠ hinten (наречие «сзади»)"},
+        {"de": "neben", "ru": "рядом с", "note": "neben der Bank"},
+        {"de": "über", "ru": "над", "note": "über dem Sofa"},
+        {"de": "unter", "ru": "под", "note": "unter dem Tisch"},
+        {"de": "zwischen", "ru": "между", "note": "zwischen Erfurt und Sömmerda · подсказка: «А und Б»"}
+      ],
+      "phrases": [
+        {"de": "Das Handy liegt auf dem Tisch.", "ru": "Телефон лежит на столе. (где?)"},
+        {"de": "Ich lege das Handy auf den Tisch.", "ru": "Я кладу телефон на стол. (куда?)"},
+        {"de": "Wir machen Ferien am Meer.", "ru": "Мы отдыхаем на море. (где?)"},
+        {"de": "Wir fahren ans Mittelmeer.", "ru": "Мы едем на Средиземное море. (куда?)"},
+        {"de": "Die Katze sitzt unter dem Tisch.", "ru": "Кошка сидит под столом."},
+        {"de": "Das Auto steht hinter dem Haus.", "ru": "Машина стоит за домом."},
+        {"de": "Witterda liegt zwischen Erfurt und Sömmerda.", "ru": "Витерда находится между Эрфуртом и Зёммердой."},
+        {"de": "Wohnst du in der Stadt oder auf dem Land?", "ru": "Ты живёшь в городе или в сельской местности?"},
+        {"de": "Treffen wir uns an der Haltestelle oder vor der Post?", "ru": "Встретимся на остановке или перед почтой?"}
+      ],
+      "tip": "Как в русском: в комнатЕ (где?) / в комнатУ (куда?). Wo? → Dativ (dem), Wohin? → Akkusativ (den). Dativ = dem — с буквой M."
+    },
+    {
+      "title": "Zeit",
+      "ru": "Предлоги времени",
+      "words": [
+        {"de": "am", "ru": "в (день, дата, выходные)", "note": "am Montag, am 1. März, am Wochenende"},
+        {"de": "im", "ru": "в (месяц, сезон)", "note": "im Februar, im Sommer"},
+        {"de": "um", "ru": "в (время на часах)", "note": "um 20 Uhr 15"},
+        {"de": "zum", "ru": "на (приём пищи, событие)", "note": "zum Frühstück, zum Geburtstag"},
+        {"de": "jeden Tag", "ru": "каждый день", "note": "Akkusativ без предлога: jeden Tag, jede Woche, jedes Jahr"}
+      ],
+      "phrases": [
+        {"de": "Im Februar habe ich Urlaub.", "ru": "В феврале у меня отпуск."},
+        {"de": "Ab Montag gibt es einen neuen Fahrplan.", "ru": "С понедельника вводится новое расписание."},
+        {"de": "Von 2010 bis 2014 habe ich an der Fachhochschule studiert.", "ru": "С 2010 по 2014 я учился в институте прикладных наук."},
+        {"de": "Ich fange morgens um sieben Uhr an und arbeite bis 16 Uhr.", "ru": "Я начинаю утром в семь и работаю до 16."},
+        {"de": "Können Sie morgen schon ab sechs Uhr arbeiten?", "ru": "Можете завтра работать уже с шести?"},
+        {"de": "Zum Frühstück esse ich Brot mit Butter.", "ru": "На завтрак я ем хлеб с маслом."},
+        {"de": "Vor der Arbeit trinke ich Kaffee.", "ru": "Перед работой я пью кофе."}
+      ],
+      "tip": "am — дни · im — месяцы · um — часы. seit = «уже» (и сейчас тоже), von…bis = закрытый отрезок, ab = «с … и дальше»."
+    },
+    {
+      "title": "Verschmelzungen",
+      "ru": "Слияния предлога и артикля",
+      "words": [
+        {"de": "am", "ru": "an + dem", "note": "Dativ"},
+        {"de": "im", "ru": "in + dem", "note": "Dativ"},
+        {"de": "beim", "ru": "bei + dem", "note": "Dativ · с die не сливается: bei der"},
+        {"de": "vom", "ru": "von + dem", "note": "Dativ"},
+        {"de": "zum", "ru": "zu + dem", "note": "Dativ"},
+        {"de": "zur", "ru": "zu + der", "note": "Dativ, женский род"},
+        {"de": "ans", "ru": "an + das", "note": "Akkusativ"},
+        {"de": "ins", "ru": "in + das", "note": "Akkusativ"}
+      ],
+      "tip": "-m на конце (am, im, zum) → Dativ. -s на конце (ans, ins) → Akkusativ."
+    },
+    {
+      "title": "Unterwegs",
+      "ru": "В пути и в городе",
+      "words": [
+        {"de": "die Straßenbahn", "ru": "трамвай", "pl": "die Straßenbahnen"},
+        {"de": "die Haltestelle", "ru": "остановка", "pl": "die Haltestellen", "note": "an der Haltestelle"},
+        {"de": "der Fahrplan", "ru": "расписание (транспорта)", "pl": "die Fahrpläne"},
+        {"de": "die Linie", "ru": "линия, маршрут", "pl": "die Linien"},
+        {"de": "die Kreuzung", "ru": "перекрёсток", "pl": "die Kreuzungen"},
+        {"de": "die Ampel", "ru": "светофор", "pl": "die Ampeln"},
+        {"de": "das Rathaus", "ru": "ратуша, мэрия", "pl": "die Rathäuser"},
+        {"de": "die Post", "ru": "почта"},
+        {"de": "die Bank", "ru": "банк; скамейка", "pl": "die Banken / die Bänke"},
+        {"de": "die Apotheke", "ru": "аптека", "pl": "die Apotheken"},
+        {"de": "das Fahrrad", "ru": "велосипед", "pl": "die Fahrräder", "note": "разг. das Rad"},
+        {"de": "das Land", "ru": "страна; сельская местность", "note": "auf dem Land — за городом"},
+        {"de": "geradeaus", "ru": "прямо"},
+        {"de": "links / rechts", "ru": "налево / направо"},
+        {"de": "da / dahin", "ru": "там / туда", "note": "Wo? / Wohin?"},
+        {"de": "nach Hause / zu Hause", "ru": "домой / дома"}
+      ],
+      "phrases": [
+        {"de": "Gehen Sie bis zur Kreuzung und dann rechts.", "ru": "Идите до перекрёстка, а потом направо."},
+        {"de": "Das Rathaus ist in der Hauptstraße 86.", "ru": "Ратуша на Главной улице, 86."},
+        {"de": "Ich muss nach Dresden, wie komme ich dahin?", "ru": "Мне надо в Дрезден, как туда добраться?"},
+        {"de": "Fahr doch mit der Bahn.", "ru": "Да поезжай на поезде."},
+        {"de": "Zwischen der Goethestraße und dem Rathaus fährt heute keine Straßenbahn.", "ru": "Между Гётештрассе и ратушей сегодня трамвай не ходит."}
+      ],
+      "tip": "Berliner, Erfurter — прилагательные от городов не склоняются: zum Berliner Platz, in der Erfurter Straße."
+    },
+    {
+      "title": "Arbeit und Lebenslauf",
+      "ru": "Работа и резюме",
+      "words": [
+        {"de": "der Lebenslauf", "ru": "резюме, CV", "pl": "die Lebensläufe"},
+        {"de": "die Ausbildung", "ru": "профессиональное обучение", "pl": "die Ausbildungen", "note": "Ausbildung als Elektriker"},
+        {"de": "die Lehre", "ru": "обучение профессии (синоним Ausbildung)"},
+        {"de": "das Praktikum", "ru": "практика, стажировка", "pl": "die Praktika"},
+        {"de": "die Fachhochschule", "ru": "институт прикладных наук", "note": "an der Fachhochschule studieren"},
+        {"de": "die Karriere", "ru": "карьера", "note": "через K!"},
+        {"de": "der Kollege / die Kollegin", "ru": "коллега", "pl": "die Kollegen", "note": "через K!"},
+        {"de": "der Chef", "ru": "начальник, шеф"},
+        {"de": "das Lager", "ru": "склад", "note": "zum Lager · im Lager"},
+        {"de": "der Versand", "ru": "отправка, отгрузка"},
+        {"de": "schicken", "ru": "отправлять", "note": "Ich schicke das Paket."},
+        {"de": "der Arzt / die Ärztin", "ru": "врач", "pl": "die Ärzte", "note": "A-r-z-t! · zum Arzt / beim Arzt"},
+        {"de": "der Hausarzt", "ru": "семейный врач"},
+        {"de": "krank", "ru": "больной", "note": "Herr Beil ist krank."}
+      ],
+      "phrases": [
+        {"de": "Ich habe einen Termin beim Arzt.", "ru": "У меня запись к врачу."},
+        {"de": "Die Ware muss heute raus.", "ru": "Товар надо сегодня отправить."},
+        {"de": "Kommst du nach der Arbeit noch mit ein Bier trinken?", "ru": "Пойдёшь после работы с нами выпить пива?"}
+      ]
+    },
+    {
+      "title": "Zu Hause",
+      "ru": "Дома: предметы и материалы",
+      "words": [
+        {"de": "der Schreibtisch", "ru": "письменный стол", "pl": "die Schreibtische"},
+        {"de": "das Notizheft", "ru": "блокнот, тетрадь для заметок", "pl": "die Notizhefte"},
+        {"de": "das Bett", "ru": "кровать", "pl": "die Betten"},
+        {"de": "das Sofa", "ru": "диван", "pl": "die Sofas"},
+        {"de": "das Bild", "ru": "картина", "pl": "die Bilder"},
+        {"de": "das Foto", "ru": "фото", "pl": "die Fotos"},
+        {"de": "die Katze", "ru": "кошка", "pl": "die Katzen"},
+        {"de": "die Schuhe", "ru": "обувь", "note": "ед.ч. der Schuh"},
+        {"de": "das Plastik", "ru": "пластик", "note": "aus Plastik"},
+        {"de": "der Stoff", "ru": "ткань", "pl": "die Stoffe"},
+        {"de": "das Holz", "ru": "дерево (материал)"},
+        {"de": "das Leder", "ru": "кожа (материал)"},
+        {"de": "das Glas", "ru": "стекло; стакан"},
+        {"de": "das Frühstück", "ru": "завтрак", "note": "два ü!"},
+        {"de": "das Butterbrot", "ru": "хлеб с маслом, бутерброд"}
+      ],
+      "phrases": [
+        {"de": "Ich finde mein Notizheft nicht. Liegt es unter dem Schreibtisch?", "ru": "Не могу найти блокнот. Он под письменным столом?"},
+        {"de": "Das Foto ist wunderschön. Es hängt direkt über meinem Bett.", "ru": "Фото чудесное. Оно висит прямо над моей кроватью."},
+        {"de": "Meine Schuhe sind aus Plastik und Stoff.", "ru": "Моя обувь из пластика и ткани."},
+        {"de": "Möchtest du Kaffee mit Milch und Zucker?", "ru": "Хочешь кофе с молоком и сахаром?"},
+        {"de": "Keinen Zucker, bitte. Ich trinke den Kaffee nur mit Milch.", "ru": "Без сахара, пожалуйста. Я пью кофе только с молоком."}
+      ],
+      "tip": "Род предмета → местоимение: das Notizheft → es, der Tisch → er, die Tasche → sie."
+    },
+    {
+      "title": "Verben",
+      "ru": "Глаголы: где / куда и отделяемые",
+      "words": [
+        {"de": "liegen / legen", "ru": "лежать (где?) / класть (куда?)"},
+        {"de": "stehen / stellen", "ru": "стоять (где?) / ставить (куда?)"},
+        {"de": "hängen", "ru": "висеть (где?) / вешать (куда?)"},
+        {"de": "sitzen", "ru": "сидеть", "note": "er sitzt"},
+        {"de": "anfangen", "ru": "начинать(ся)", "note": "du fängst an, er fängt an · Perfekt: angefangen"},
+        {"de": "beginnen", "ru": "начинать(ся)", "note": "неотделяемый, двойное nn: er beginnt"},
+        {"de": "aufhören", "ru": "прекращать, заканчивать", "note": "Hör auf! — Хватит! · Perfekt: aufgehört"},
+        {"de": "mitkommen", "ru": "пойти вместе", "note": "Kommst du mit? · Kannst du mitkommen?"},
+        {"de": "umziehen", "ru": "переезжать", "note": "Perfekt с sein: Er ist umgezogen."},
+        {"de": "sich treffen", "ru": "встречаться", "note": "Wir treffen uns um 8 Uhr."},
+        {"de": "sprechen", "ru": "говорить", "note": "ich spreche, du sprichst, er spricht"},
+        {"de": "zu Ende sein", "ru": "закончиться", "note": "Der Film ist um 23 Uhr zu Ende."}
+      ],
+      "tip": "С модальным глаголом приставка не отделяется: Ich höre um 16 Uhr auf → Ich will um 16 Uhr aufhören."
+    },
+    {
+      "title": "Kleine Wörter",
+      "ru": "Полезные маленькие слова",
+      "words": [
+        {"de": "sofort", "ru": "сразу, немедленно", "note": "Ich komme sofort!"},
+        {"de": "gleich", "ru": "сейчас, через минутку; сразу", "note": "Ich bin gleich da."},
+        {"de": "jetzt", "ru": "сейчас"},
+        {"de": "später", "ru": "позже", "note": "Bis später!"},
+        {"de": "schon", "ru": "уже (раньше, чем ждали)", "note": "schon ab sechs Uhr"},
+        {"de": "erst", "ru": "только, лишь (позже, чем ждали)", "note": "erst um 23 Uhr"},
+        {"de": "nur", "ru": "только"},
+        {"de": "raus / rein", "ru": "наружу / внутрь", "note": "Komm rein! — Заходи!"},
+        {"de": "hinten / vorne / oben", "ru": "сзади / впереди / наверху", "note": "наречия, без существительного"},
+        {"de": "wunderschön", "ru": "чудесный, прекрасный"},
+        {"de": "direkt", "ru": "прямо, непосредственно"},
+        {"de": "doch", "ru": "же, да (смягчает просьбу)", "note": "Fahr doch mit der Bahn!"},
+        {"de": "wann / wenn", "ru": "когда? (вопрос) / когда, если (союз)"}
+      ]
+    },
+    {
+      "title": "Bonus: Wortgeschichten",
+      "ru": "Откуда слова",
+      "words": [
+        {"de": "aufhören", "ru": "auf (вверх) + hören (слушать)", "note": "«навострить уши, прислушаться» → бросить дело → прекратить"},
+        {"de": "gehören", "ru": "ge- + hören", "note": "«слушаться кого-то» → быть в его власти → принадлежать"},
+        {"de": "zuhören", "ru": "zu (к) + hören", "note": "слушать, обратившись к кому-то — внимательно слушать"},
+        {"de": "anfangen", "ru": "an + fangen (ловить)", "note": "«ухватиться за дело» → начать"},
+        {"de": "sofort", "ru": "so (так) + fort (вперёд, дальше)", "note": "«так сразу дальше» → немедленно"},
+        {"de": "raus", "ru": "сокращение от heraus / hinaus", "note": "her- (сюда) / hin- (туда) + aus (из)"},
+        {"de": "die Straßenbahn", "ru": "Straße (улица) + Bahn (дорога, путь)", "note": "«уличная железная дорога»"},
+        {"de": "der Fahrplan", "ru": "fahren (ехать) + Plan", "note": "план поездок"},
+        {"de": "die Haltestelle", "ru": "halten (останавливаться) + Stelle (место)", "note": "место остановки"},
+        {"de": "das Rathaus", "ru": "Rat (совет) + Haus", "note": "дом городского совета"},
+        {"de": "der Lebenslauf", "ru": "Leben (жизнь) + Lauf (бег, ход)", "note": "«ход жизни» — как латинское curriculum vitae"},
+        {"de": "die Ausbildung", "ru": "aus + bilden (формировать)", "note": "«вы-образование» профессии"},
+        {"de": "der Schreibtisch", "ru": "schreiben (писать) + Tisch", "note": "стол для письма"},
+        {"de": "das Notizheft", "ru": "Notiz (заметка) + Heft (тетрадь)"},
+        {"de": "das Frühstück", "ru": "früh (рано) + Stück (кусок)", "note": "«ранний кусок» еды"},
+        {"de": "das Butterbrot", "ru": "Butter + Brot", "note": "отсюда русское «бутерброд», хотя у немцев это просто хлеб с маслом"},
+        {"de": "wunderschön", "ru": "Wunder (чудо) + schön (красивый)"},
+        {"de": "die Apotheke", "ru": "греч. apothēkē — склад, хранилище", "note": "того же корня, что и «аптека»"},
+        {"de": "das Fahrrad", "ru": "fahren (ехать) + Rad (колесо)", "note": "«ездовое колесо»"}
+      ]
+    }
+  ]
+}
